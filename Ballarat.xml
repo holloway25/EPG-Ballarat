@@ -128,6 +128,10 @@
     <display-name>Sky News Regional</display-name>
     <icon src="https://raw.githubusercontent.com/holloway25/EPG-Ballarat/master/Images/Sky%20News%20Regional.png" />
   </channel>
+  <channel id="57">
+    <display-name>gecko</display-name>
+    <icon src="https://raw.githubusercontent.com/holloway25/EPG-Ballarat/master/Images/gecko.png" />
+  </channel>
   <channel id="60">
     <display-name>7HD Ballarat</display-name>
     <icon src="https://raw.githubusercontent.com/holloway25/EPG-Ballarat/master/Images/7HD%20Ballarat.png" />
@@ -1600,13 +1604,16 @@
     <episode-num system="original-air-date">2023-07-02 03:30:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20230702155906 +1000" stop="20230702163000 +1000" channel="3">
-    <title>Trail Towns</title>
-    <desc>Audio Described (AD). Vandy and Deetz burst onto the small screen in a big way, discovering the shimmering city by the sea, Auckland. And just four hours north lies the first of its Great Rides, the Twin Coast Cycle Trail.</desc>
-  </programme>
   <programme start="20230702160000 +1000" stop="20230702163000 +1000" channel="3">
     <title>Trail Towns</title>
     <desc>Audio Described (AD). Vandy and Deetz burst onto the small screen in a big way, discovering the shimmering city by the sea, Auckland. And just four hours north lies the first of its Great Rides, the Twin Coast Cycle Trail.</desc>
+  </programme>
+  <programme start="20230702162932 +1000" stop="20230702173000 +1000" channel="3">
+    <title>Tour De France 2023 Bonjour Le Tour</title>
+    <desc>All the best moments and highlights from the Tour De France 2023 tour stages. International Cycling 2023.</desc>
+    <category>Sport</category>
+    <episode-num system="original-air-date">2023-07-02 04:29:32</episode-num>
+    <previously-shown />
   </programme>
   <programme start="20230702163000 +1000" stop="20230702173000 +1000" channel="3">
     <title>Tour De France 2023 Bonjour Le Tour</title>
@@ -8159,13 +8166,6 @@
     <episode-num system="original-air-date">2023-07-02 04:07:30</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20230702160737 +1000" stop="20230702161500 +1000" channel="22">
-    <title>Dog Loves Books</title>
-    <desc>Dog and Pug escape a very noisy Bookshop to find Granny Pug who is leading a mediation retreat. They try to find a peaceful spot but return to the bookshop where Dog can make some noise.</desc>
-    <category>Childrens Programmes</category>
-    <episode-num system="original-air-date">2023-07-02 04:07:37</episode-num>
-    <previously-shown />
-  </programme>
   <programme start="20230702161500 +1000" stop="20230702162736 +1000" channel="22">
     <title>Mecha Builders</title>
     <desc>(AD) Roof is delivering eggs to Marwyn at the Treetop Woods Train Station, that is, until the train pulls into the station and is unable to stop!</desc>
@@ -8185,6 +8185,13 @@
     <desc>Do, Re and Mi help Seymore Saymore gain the confidence he needs to dance at the big Beebopsburgh dance.</desc>
     <category>Childrens Programmes</category>
     <episode-num system="original-air-date">2023-07-02 04:37:47</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20230702163754 +1000" stop="20230702164957 +1000" channel="22">
+    <title>Do, Re &amp; Mi</title>
+    <desc>Do, Re and Mi help Seymore Saymore gain the confidence he needs to dance at the big Beebopsburgh dance.</desc>
+    <category>Childrens Programmes</category>
+    <episode-num system="original-air-date">2023-07-02 04:37:54</episode-num>
     <previously-shown />
   </programme>
   <programme start="20230702164957 +1000" stop="20230702170130 +1000" channel="22">
@@ -12248,15 +12255,15 @@
     <title>Camp Lakebottom</title>
     <desc>When the campers track down a UFO, an alien named Squont, bows to his lost alien leader - Squirt! / While traveling through space, Captain McGee discovers an escape pod and rescues a distressed Captain Buttsquat.</desc>
   </programme>
-  <programme start="20230702155816 +1000" stop="20230702162015 +1000" channel="23">
-    <title>Camp Lakebottom</title>
-    <desc>When the campers track down a UFO, an alien named Squont, bows to his lost alien leader - Squirt! / While traveling through space, Captain McGee discovers an escape pod and rescues a distressed Captain Buttsquat.</desc>
-  </programme>
   <programme start="20230702162015 +1000" stop="20230702163200 +1000" channel="23">
     <title>Big Blue</title>
     <desc>In a rush to catch the mail ship, Lemo accidetally sends Lettie's diary to headquarters instead of her Captain's Log.</desc>
   </programme>
   <programme start="20230702163200 +1000" stop="20230702164300 +1000" channel="23">
+    <title>Hanazuki: Full Of Treasures</title>
+    <desc>The Moon Creatures' attempt to treat Hanazuki to a relaxing day off goes haywire when Hanazuki leaves in search for Orange Hemka and winds up falling inside a volcano.</desc>
+  </programme>
+  <programme start="20230702163207 +1000" stop="20230702164300 +1000" channel="23">
     <title>Hanazuki: Full Of Treasures</title>
     <desc>The Moon Creatures' attempt to treat Hanazuki to a relaxing day off goes haywire when Hanazuki leaves in search for Orange Hemka and winds up falling inside a volcano.</desc>
   </programme>
@@ -17725,13 +17732,16 @@
     <episode-num system="original-air-date">2023-07-02 03:30:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20230702155906 +1000" stop="20230702163000 +1000" channel="30">
-    <title>Trail Towns</title>
-    <desc>Audio Described (AD). Vandy and Deetz burst onto the small screen in a big way, discovering the shimmering city by the sea, Auckland. And just four hours north lies the first of its Great Rides, the Twin Coast Cycle Trail.</desc>
-  </programme>
   <programme start="20230702160000 +1000" stop="20230702163000 +1000" channel="30">
     <title>Trail Towns</title>
     <desc>Audio Described (AD). Vandy and Deetz burst onto the small screen in a big way, discovering the shimmering city by the sea, Auckland. And just four hours north lies the first of its Great Rides, the Twin Coast Cycle Trail.</desc>
+  </programme>
+  <programme start="20230702162932 +1000" stop="20230702173000 +1000" channel="30">
+    <title>Tour De France 2023 Bonjour Le Tour</title>
+    <desc>All the best moments and highlights from the Tour De France 2023 tour stages. International Cycling 2023.</desc>
+    <category>Sport</category>
+    <episode-num system="original-air-date">2023-07-02 04:29:32</episode-num>
+    <previously-shown />
   </programme>
   <programme start="20230702163000 +1000" stop="20230702173000 +1000" channel="30">
     <title>Tour De France 2023 Bonjour Le Tour</title>
@@ -19198,14 +19208,11 @@
     <episode-num system="original-air-date">2023-07-02 04:00:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20230702160144 +1000" stop="20230702163000 +1000" channel="31">
-    <title>ABC World News Tonight with David Muir</title>
-    <desc>America's number one network news bulletin with anchors David Muir weekdays, Whit Johnson Saturday edition and Linsey Davis Sunday edition.</desc>
-    <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2023-07-02 04:01:44</episode-num>
-    <previously-shown />
-  </programme>
   <programme start="20230702163000 +1000" stop="20230702165000 +1000" channel="31">
+    <title>Bamay</title>
+    <desc>A slow TV showcase of the stunning landscapes found in Wiradjuri &amp; Ngarigo Country along the waters of the Murrumbidgee River.</desc>
+  </programme>
+  <programme start="20230702163044 +1000" stop="20230702165000 +1000" channel="31">
     <title>Bamay</title>
     <desc>A slow TV showcase of the stunning landscapes found in Wiradjuri &amp; Ngarigo Country along the waters of the Murrumbidgee River.</desc>
   </programme>
@@ -20809,13 +20816,13 @@
     <desc>From: The USA. Audio Described (AD). Consumer Advice: A, L. The story of New Zealander Burt Munro, who spent years rebuilding a 1920 Indian motorcycle, which helped him set the land speed world record at Utah's Bonneville Salt Flats in 1967. (Anthony Hopkins)</desc>
     <category>Movies</category>
   </programme>
-  <programme start="20230702141212 +1000" stop="20230702163000 +1000" channel="32">
-    <title>The World's Fastest Indian</title>
+  <programme start="20230702163000 +1000" stop="20230702181000 +1000" channel="32">
+    <title>The Band's Visit</title>
     <sub-title>Consumer Advice</sub-title>
-    <desc>From: The USA. Audio Described (AD). Consumer Advice: A, L. The story of New Zealander Burt Munro, who spent years rebuilding a 1920 Indian motorcycle, which helped him set the land speed world record at Utah's Bonneville Salt Flats in 1967. (Anthony Hopkins)</desc>
+    <desc>From: The USA. Consumer Advice: L, S. A band comprised of members of the Egyptian police force head to Israel to play at the inaugural ceremony of an Arab arts centre, only to find themselves lost in the wrong town.</desc>
     <category>Movies</category>
   </programme>
-  <programme start="20230702163000 +1000" stop="20230702181000 +1000" channel="32">
+  <programme start="20230702163156 +1000" stop="20230702181000 +1000" channel="32">
     <title>The Band's Visit</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>From: The USA. Consumer Advice: L, S. A band comprised of members of the Egyptian police force head to Israel to play at the inaugural ceremony of an Arab arts centre, only to find themselves lost in the wrong town.</desc>
@@ -21475,18 +21482,18 @@
     <episode-num system="original-air-date">2023-07-02 04:00:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20230702160120 +1000" stop="20230702163000 +1000" channel="33">
-    <title>The Cook Up with Adam Liaw</title>
-    <desc>The owners of Sunday Kitchen, mother and daughter Karima Hazim and Sivine Tabbouch, join host Adam Liaw in the Cook up Kitchen to make their Sunday lunch must-have dishes.</desc>
-    <category>Leisure and Hobbies</category>
-    <episode-num system="original-air-date">2023-07-02 04:01:20</episode-num>
-    <previously-shown />
-  </programme>
   <programme start="20230702163000 +1000" stop="20230702172500 +1000" channel="33">
     <title>John Torode's Ireland</title>
     <desc>John visits this beautiful 800-year-old country estate with its own organic farm and restored 17th century gardens. He meets the restaurant chef, Niall, who shows him round the gardens.</desc>
     <category>Leisure and Hobbies</category>
     <episode-num system="original-air-date">2023-07-02 04:30:00</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20230702163317 +1000" stop="20230702172500 +1000" channel="33">
+    <title>John Torode's Ireland</title>
+    <desc>John visits this beautiful 800-year-old country estate with its own organic farm and restored 17th century gardens. He meets the restaurant chef, Niall, who shows him round the gardens.</desc>
+    <category>Leisure and Hobbies</category>
+    <episode-num system="original-air-date">2023-07-02 04:33:17</episode-num>
     <previously-shown />
   </programme>
   <programme start="20230702172500 +1000" stop="20230702173000 +1000" channel="33">
@@ -36191,6 +36198,106 @@
     <title>FOX SPORTS News</title>
     <desc>The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
   </programme>
+  <programme start="20230701100000 +1000" stop="20230701103000 +1000" channel="57">
+    <title>PowerXL Grill Airfryer Combo</title>
+    <desc>PowerXL Grill Air Fryer - INCLUDES 3 BONUSES &amp; FREE DELIVERY!- It's The Versatile 12-In-1 Multi-Cooker With Dual Therm Technology That Air Frys From Above And Grills From Below - For Golden Fried Results And That Outdoor Grill Flavour!</desc>
+  </programme>
+  <programme start="20230701103000 +1000" stop="20230701110000 +1000" channel="57">
+    <title>Versamax</title>
+    <desc>The Versamax 5 in 1 tool system is perfect for DIY &amp; Home Improvements. Includes 5 attachments Drill/ Hammer attachment, Reciprocating Saw, Multi Tool, Spiral Saw and Impact Driver. Plus FREE air pump and 2nd 20v Powerful Battery. arcversamax.com.au</desc>
+  </programme>
+  <programme start="20230701110000 +1000" stop="20230701113000 +1000" channel="57">
+    <title>BreadSmart by Tupperware</title>
+    <desc>BreadSmart by Tupperware - Over 4 Million Sold Worldwide! The Easy And Convenient Way To Keep Bread Fresh For Up To 2 Weeks. Patented Membrane Lid Regulates Air &amp; Moisture. Built To Last, Backed By 10 Year Warranty.</desc>
+  </programme>
+  <programme start="20230701113000 +1000" stop="20230701120000 +1000" channel="57">
+    <title>H2O X5 Steam Mop</title>
+    <desc>Deodorize and sanitize floors, carpets, windows and so much more with this award winning 5-in-1 steam mop.</desc>
+  </programme>
+  <programme start="20230701120000 +1000" stop="20230701123000 +1000" channel="57">
+    <title>PowerXL Grill Airfryer Combo</title>
+    <desc>PowerXL Grill Air Fryer - INCLUDES 3 BONUSES &amp; FREE DELIVERY!- It's The Versatile 12-In-1 Multi-Cooker With Dual Therm Technology That Air Frys From Above And Grills From Below - For Golden Fried Results And That Outdoor Grill Flavour!</desc>
+  </programme>
+  <programme start="20230701123000 +1000" stop="20230701130000 +1000" channel="57">
+    <title>BreadSmart by Tupperware</title>
+    <desc>BreadSmart by Tupperware - Over 4 Million Sold Worldwide! The Easy And Convenient Way To Keep Bread Fresh For Up To 2 Weeks. Patented Membrane Lid Regulates Air &amp; Moisture. Built To Last, Backed By 10 Year Warranty.</desc>
+  </programme>
+  <programme start="20230701130000 +1000" stop="20230701133000 +1000" channel="57">
+    <title>CruiseAway with Unique Local Itineraries</title>
+    <desc>Join Derek from CruiseAway as he showcases an array of unique cruise itineraries including your chance to experience the Melbourne Cup 2023 plus, voyage on the ultimate Bounty Adventure.</desc>
+  </programme>
+  <programme start="20230701133000 +1000" stop="20230701140000 +1000" channel="57">
+    <title>Professional Nibbler</title>
+    <desc>The Professional Nibbler is an Australian made cutting tool. Cut corrugated iron, mild steel and stainless steel. No sparks, no distortion! Attaches to any electric or battery drill in seconds. professionalnibbler.com.au</desc>
+  </programme>
+  <programme start="20230701140000 +1000" stop="20230701143000 +1000" channel="57">
+    <title>PowerXL Grill Airfryer Combo</title>
+    <desc>PowerXL Grill Air Fryer - INCLUDES 3 BONUSES &amp; FREE DELIVERY!- It's The Versatile 12-In-1 Multi-Cooker With Dual Therm Technology That Air Frys From Above And Grills From Below - For Golden Fried Results And That Outdoor Grill Flavour!</desc>
+  </programme>
+  <programme start="20230701143000 +1000" stop="20230701150000 +1000" channel="57">
+    <title>Dr Ho's MotionCiser</title>
+    <desc>Dr Ho's MotionCiser - Passive Exercise Machine Combining Soothing Heat, Continuous Movement &amp; Relaxing Vibrating Massage To Help Relieve Muscle Tension &amp; Naturally Stimulate Healthy Circulation. 10 Speed &amp; 5 Heat Settings + Wireless Control</desc>
+  </programme>
+  <programme start="20230701150000 +1000" stop="20230701153000 +1000" channel="57">
+    <title>Copper Chef Titan Pan</title>
+    <desc>Copper Chef Titan Pan - WITH $120 IN FREE GIFTS + ACCESSORIES - It's the Ultimate, Professional, All Purpose, Stainless Steel Pan Created by Copper Chef &amp; Celebrity Chef Jet Tila. With Tri-Ply Design And Laser Etched Cooking Surface!</desc>
+  </programme>
+  <programme start="20230701153000 +1000" stop="20230701160000 +1000" channel="57">
+    <title>Floor Police</title>
+    <desc>Floor Police - WITH BONUS SCOURING &amp; POLISHING PADS! - It's The Motorised, Cordless, Spinning Mop That Cleans &amp; Polishes With Ease! Dual Rotating Heads Spin At An Amazing 105 RPM¹s. Clean And Polish Hardwood, Tiles, Ceramic, Glass &amp; More!</desc>
+  </programme>
+  <programme start="20230701160000 +1000" stop="20230701163000 +1000" channel="57">
+    <title>CruiseAway for Christmas &amp; New Years</title>
+    <desc>Join Derek from CruiseAway as he brings us 5 amazing opportunities to cruise away for Christmas and New Years this year including Fiji, Tasmania and New Zealand.</desc>
+  </programme>
+  <programme start="20230701163000 +1000" stop="20230701170000 +1000" channel="57">
+    <title>Copper Chef Titan Pan</title>
+    <desc>Copper Chef Titan Pan - WITH $120 IN FREE GIFTS + ACCESSORIES - It's the Ultimate, Professional, All Purpose, Stainless Steel Pan Created by Copper Chef &amp; Celebrity Chef Jet Tila. With Tri-Ply Design And Laser Etched Cooking Surface!</desc>
+  </programme>
+  <programme start="20230701170000 +1000" stop="20230701173000 +1000" channel="57">
+    <title>Dr Ho's MotionCiser</title>
+    <desc>Dr Ho's MotionCiser - Passive Exercise Machine Combining Soothing Heat, Continuous Movement &amp; Relaxing Vibrating Massage To Help Relieve Muscle Tension &amp; Naturally Stimulate Healthy Circulation. 10 Speed &amp; 5 Heat Settings + Wireless Control</desc>
+  </programme>
+  <programme start="20230701173000 +1000" stop="20230701180000 +1000" channel="57">
+    <title>H2O X5 Steam Mop</title>
+    <desc>Deodorize and sanitize floors, carpets, windows and so much more with this award winning 5-in-1 steam mop.</desc>
+  </programme>
+  <programme start="20230701180000 +1000" stop="20230701183000 +1000" channel="57">
+    <title>BreadSmart by Tupperware</title>
+    <desc>BreadSmart by Tupperware - Over 4 Million Sold Worldwide! The Easy And Convenient Way To Keep Bread Fresh For Up To 2 Weeks. Patented Membrane Lid Regulates Air &amp; Moisture. Built To Last, Backed By 10 Year Warranty.</desc>
+  </programme>
+  <programme start="20230701183000 +1000" stop="20230701190000 +1000" channel="57">
+    <title>PIC Gold</title>
+    <desc>The Nuwave Portable Induction Cooktop offers precision temperature control. Perfect for Caravanning, Camping or Home use. Three different Wattage settings 900-2000 watts. Use with Inverter setup, 1kVA generator &amp; 240v mans Power. Offer includes Free PIC FLEX, Duralon Pan &amp; Converter Plate.</desc>
+  </programme>
+  <programme start="20230701190000 +1000" stop="20230701193000 +1000" channel="57">
+    <title>PowerXL Grill Airfryer Combo</title>
+    <desc>PowerXL Grill Air Fryer - INCLUDES 3 BONUSES &amp; FREE DELIVERY!- It's The Versatile 12-In-1 Multi-Cooker With Dual Therm Technology That Air Frys From Above And Grills From Below - For Golden Fried Results And That Outdoor Grill Flavour!</desc>
+  </programme>
+  <programme start="20230701193000 +1000" stop="20230701200000 +1000" channel="57">
+    <title>Dr Ho's MotionCiser</title>
+    <desc>Dr Ho's MotionCiser - Passive Exercise Machine Combining Soothing Heat, Continuous Movement &amp; Relaxing Vibrating Massage To Help Relieve Muscle Tension &amp; Naturally Stimulate Healthy Circulation. 10 Speed &amp; 5 Heat Settings + Wireless Control</desc>
+  </programme>
+  <programme start="20230701200000 +1000" stop="20230701203000 +1000" channel="57">
+    <title>PowerXL Air Fryer Oven</title>
+    <desc>PowerXL Air Fryer Oven - INCLUDES BONUS ACCESSORIES &amp; FREE DELIVERY! - It's The High Performance 7-In-1 Air Fryer Multi-Cooker That Can Air Fry, Rotisserie, Dehydrate, Grill, Bake, Roast &amp; Reheat All In One Amazing, Compact Unit!</desc>
+  </programme>
+  <programme start="20230701203000 +1000" stop="20230701210000 +1000" channel="57">
+    <title>Copper Chef Titan Pan</title>
+    <desc>Copper Chef Titan Pan - WITH $120 IN FREE GIFTS + ACCESSORIES - It's the Ultimate, Professional, All Purpose, Stainless Steel Pan Created by Copper Chef &amp; Celebrity Chef Jet Tila. With Tri-Ply Design And Laser Etched Cooking Surface!</desc>
+  </programme>
+  <programme start="20230701210000 +1000" stop="20230701213000 +1000" channel="57">
+    <title>PowerXL Air Fryer Oven</title>
+    <desc>PowerXL Air Fryer Oven - INCLUDES BONUS ACCESSORIES &amp; FREE DELIVERY! - It's The High Performance 7-In-1 Air Fryer Multi-Cooker That Can Air Fry, Rotisserie, Dehydrate, Grill, Bake, Roast &amp; Reheat All In One Amazing, Compact Unit!</desc>
+  </programme>
+  <programme start="20230701213000 +1000" stop="20230701220000 +1000" channel="57">
+    <title>BreadSmart by Tupperware</title>
+    <desc>BreadSmart by Tupperware - Over 4 Million Sold Worldwide! The Easy And Convenient Way To Keep Bread Fresh For Up To 2 Weeks. Patented Membrane Lid Regulates Air &amp; Moisture. Built To Last, Backed By 10 Year Warranty.</desc>
+  </programme>
+  <programme start="20230701220000 +1000" stop="20230701230000 +1000" channel="57">
+    <title>The Fine Art Auction (Live)</title>
+    <desc>Join the the world's number one international TV arts auction house featuring the works of famous artists and young, emerging talent all at a fraction of gallery prices! It's fun, exciting, informative and live every Saturday and Sunday from 10.00 pm!</desc>
+  </programme>
   <programme start="20230702100017 +1000" stop="20230702110005 +1000" channel="60">
     <title>The Morning Show - Weekend</title>
     <desc>Join Larry Emdur and Kylie Gillies to catch up on all the highlights from this week's program, including a variety of segments on the latest news and entertainment.</desc>
@@ -39932,13 +40039,13 @@
     <title>Crufts Dog Show</title>
     <desc>A special that relives Flyball Crufts 2020. Can ©Aces High¹ repeat their record-breaking 2019 championship victory? Or will long-time rivals ©Focus¹ pip them to the winning post?</desc>
   </programme>
-  <programme start="20230702143443 +1000" stop="20230702163000 +1000" channel="66">
-    <title>Stay Away, Joe</title>
-    <desc>Elvis Presley and Joan Blondell star in this story of a young man who's part Native American and who wants to help his tribe ... but whose efforts always seem to backfire.</desc>
-  </programme>
   <programme start="20230702143500 +1000" stop="20230702163000 +1000" channel="66">
     <title>Stay Away, Joe</title>
     <desc>Elvis Presley and Joan Blondell star in this story of a young man who's part Native American and who wants to help his tribe ... but whose efforts always seem to backfire.</desc>
+  </programme>
+  <programme start="20230702162926 +1000" stop="20230702183000 +1000" channel="66">
+    <title>Doc Hollywood</title>
+    <desc>A young, brash and brilliant doctor completes his residency at a gritty Washington D.C. hospital and heads out on a road trip to California for fun, sun and lots of money as a plastic surgeon.</desc>
   </programme>
   <programme start="20230702163000 +1000" stop="20230702183000 +1000" channel="66">
     <title>Doc Hollywood</title>
