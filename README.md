@@ -1,3 +1,6 @@
-EPG Data for the Ballarat region.
+EPG data generated in to an XML file for Ballarat in Regional Victoria.
 
-Will work with Plex, Emby and Jellyfin.
+I have tested it in Plex, Emby and Jellyfin.
+Might work in other applications.
+
+Data is generated using EPG Collector and a SiliconDust HDHomeRun.
