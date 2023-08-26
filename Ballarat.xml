@@ -284,13 +284,6 @@
     <episode-num system="original-air-date">2023-08-26 05:28:21</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20230826172825 +1000" stop="20230826182815 +1000" channel="2">
-    <title>The Soundtrack of Australia</title>
-    <desc>Australia is a stunning country but we seldom listen to how it sounds. Dr Ann Jones is on an audio odyssey gathering iconic recordings of Australia. We examine the sounds we can't hear and those that break the rules. (Final</desc>
-    <category>Education and Science</category>
-    <episode-num system="original-air-date">2023-08-26 05:28:25</episode-num>
-    <previously-shown />
-  </programme>
   <programme start="20230826182815 +1000" stop="20230826190000 +1000" channel="2">
     <title>Kitchen Cabinet</title>
     <desc>Annabel Crabb meets Peter Dutton to find out what makes this former Queensland cop turned political hardman tick. No stranger to controversy, Dutton explains how a self-confessed shy kid became the Leader of the Opposition.</desc>
@@ -323,6 +316,13 @@
     <desc>Music video director Paul Goldman shares stories from his work with Kylie Minogue, Silverchair, Nick Cave, and more, as he guest programs rage for the first time.</desc>
     <category>Music and Dance</category>
     <episode-num system="original-air-date">2023-08-26 11:50:46</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20230826235052 +1000" stop="20230827050113 +1000" channel="2">
+    <title>rage guest programmer: Paul Goldman</title>
+    <desc>Music video director Paul Goldman shares stories from his work with Kylie Minogue, Silverchair, Nick Cave, and more, as he guest programs rage for the first time.</desc>
+    <category>Music and Dance</category>
+    <episode-num system="original-air-date">2023-08-26 11:50:52</episode-num>
     <previously-shown />
   </programme>
   <programme start="20230827050113 +1000" stop="20230827060000 +1000" channel="2">
@@ -1567,11 +1567,6 @@
     <sub-title>Consumer Advice</sub-title>
     <desc>A. Shrouded in mystery, this Spanish island and its sisters were suspected to be ports for German U boats and possible 'ratline' stops for escaping Nazis to South America.</desc>
   </programme>
-  <programme start="20230826173748 +1000" stop="20230826183000 +1000" channel="3">
-    <title>Secret Nazi Bases</title>
-    <sub-title>Consumer Advice</sub-title>
-    <desc>A. Shrouded in mystery, this Spanish island and its sisters were suspected to be ports for German U boats and possible 'ratline' stops for escaping Nazis to South America.</desc>
-  </programme>
   <programme start="20230826183000 +1000" stop="20230826193005 +1000" channel="3">
     <title>SBS World News</title>
     <desc>Latest reports and analysis of major national and international news of the day from Australia's only world news service.</desc>
@@ -1601,6 +1596,11 @@
     <desc>A. Tony takes us back nearly 2000 years to a time when Britain was under the Roman Empire. He tells the story of an African Roman soldier who gets posted to its most northerly outpost at Hadrian's Wall.</desc>
   </programme>
   <programme start="20230826230928 +1000" stop="20230827000500 +1000" channel="3">
+    <title>Rex In Rome</title>
+    <sub-title>Consumer Advice</sub-title>
+    <desc>V. The investigation of an attack on a little boy found unconscious in a park leads to a children's fight gone horribly wrong.</desc>
+  </programme>
+  <programme start="20230826230931 +1000" stop="20230827000500 +1000" channel="3">
     <title>Rex In Rome</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>V. The investigation of an attack on a little boy found unconscious in a park leads to a children's fight gone horribly wrong.</desc>
@@ -4218,11 +4218,11 @@
     <title>Pooches At Play</title>
     <desc>Hosted by Dog Trainer &amp; Behaviourist, Lara Shannon find out tips and tricks on how to be the best carer and friend to your favourite furry pals.</desc>
   </programme>
-  <programme start="20230826100004 +1000" stop="20230826120004 +1000" channel="6">
+  <programme start="20230826100000 +1000" stop="20230826120000 +1000" channel="6">
     <title>The Morning Show - Weekend</title>
     <desc>Join Larry Emdur and Kylie Gillies to catch up on all the highlights from this week's program, including a variety of segments on the latest news and entertainment.</desc>
   </programme>
-  <programme start="20230826120004 +1000" stop="20230826170000 +1000" channel="6">
+  <programme start="20230826120000 +1000" stop="20230826170000 +1000" channel="6">
     <title>Seven's Horse Racing</title>
     <desc>Live coverage of horse racing every Saturday.</desc>
   </programme>
@@ -4238,10 +4238,6 @@
     <title>Seven News</title>
     <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
   </programme>
-  <programme start="20230826175934 +1000" stop="20230826190000 +1000" channel="6">
-    <title>Seven News</title>
-    <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
-  </programme>
   <programme start="20230826190000 +1000" stop="20230826223000 +1000" channel="6">
     <title>AFL</title>
     <desc>The Cats challenge the Bulldogs, live and free from GMHBA Stadium. Bounce time: 7:25pm AEST.</desc>
@@ -4251,6 +4247,10 @@
     <desc>A look back at all the action from tonight's game.</desc>
   </programme>
   <programme start="20230826230000 +1000" stop="20230827000325 +1000" channel="6">
+    <title>Without Sin</title>
+    <desc>A four-part psychological thriller exploring the relationship between a convict and a grieving mother in a relentless quest for the truth.</desc>
+  </programme>
+  <programme start="20230826231129 +1000" stop="20230827000325 +1000" channel="6">
     <title>Without Sin</title>
     <desc>A four-part psychological thriller exploring the relationship between a convict and a grieving mother in a relentless quest for the truth.</desc>
   </programme>
@@ -5009,22 +5009,6 @@
   <programme start="20230903070000 +1000" stop="20230903100000 +1000" channel="6">
     <title>Weekend Sunrise</title>
     <desc>Wake up to a better breakfast with Matt Doran and Monique Wright, for all the latest entertainment, news, sport and weather.</desc>
-  </programme>
-  <programme start="20230826100000 +1000" stop="20230826115900 +1000" channel="8">
-    <title>Today Extra - Saturday</title>
-    <desc>Join the team for the best of TODAY EXTRA - an exciting mix of highlights from the week in review. Includes the best celebrity interviews, cooking with Australia's top chefs, the latest in fashion &amp; more. .</desc>
-  </programme>
-  <programme start="20230826115900 +1000" stop="20230826122920 +1000" channel="8">
-    <title>Our State On A Plate</title>
-    <desc>Serving up today, Scott shows off a striking and exceptional piece of quality produce! Stuart goes cutting edge with artisanal Japanese knives. And Brendan takes a culinary visit down memory lane with someone very close to his hea. .</desc>
-  </programme>
-  <programme start="20230826122920 +1000" stop="20230826125950 +1000" channel="8">
-    <title>The Pet Rescuers</title>
-    <desc>The Pet Rescuers follows the work of a team on a mission to give abandoned pets a second chance. .</desc>
-  </programme>
-  <programme start="20230826125950 +1000" stop="20230826135826 +1000" channel="8">
-    <title>Mega Zoo</title>
-    <desc>Keepers are excited at the possibility otters Odie and Paula may be expecting pups. Emotions run high as a young lion's health check takes a frightening turn, and how will dental surgery help a Tasmanian Devil father precious babies?. .</desc>
   </programme>
   <programme start="20230826135826 +1000" stop="20230826152434 +1000" channel="8">
     <title>The Block</title>
@@ -5890,13 +5874,6 @@
     <episode-num system="original-air-date">2023-08-26 05:28:21</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20230826172825 +1000" stop="20230826182815 +1000" channel="20">
-    <title>The Soundtrack of Australia</title>
-    <desc>Australia is a stunning country but we seldom listen to how it sounds. Dr Ann Jones is on an audio odyssey gathering iconic recordings of Australia. We examine the sounds we can't hear and those that break the rules. (Final</desc>
-    <category>Education and Science</category>
-    <episode-num system="original-air-date">2023-08-26 05:28:25</episode-num>
-    <previously-shown />
-  </programme>
   <programme start="20230826182815 +1000" stop="20230826190000 +1000" channel="20">
     <title>Kitchen Cabinet</title>
     <desc>Annabel Crabb meets Peter Dutton to find out what makes this former Queensland cop turned political hardman tick. No stranger to controversy, Dutton explains how a self-confessed shy kid became the Leader of the Opposition.</desc>
@@ -5929,6 +5906,13 @@
     <desc>Music video director Paul Goldman shares stories from his work with Kylie Minogue, Silverchair, Nick Cave, and more, as he guest programs rage for the first time.</desc>
     <category>Music and Dance</category>
     <episode-num system="original-air-date">2023-08-26 11:50:46</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20230826235052 +1000" stop="20230827050113 +1000" channel="20">
+    <title>rage guest programmer: Paul Goldman</title>
+    <desc>Music video director Paul Goldman shares stories from his work with Kylie Minogue, Silverchair, Nick Cave, and more, as he guest programs rage for the first time.</desc>
+    <category>Music and Dance</category>
+    <episode-num system="original-air-date">2023-08-26 11:50:52</episode-num>
     <previously-shown />
   </programme>
   <programme start="20230827050113 +1000" stop="20230827060000 +1000" channel="20">
@@ -7154,13 +7138,6 @@
     <episode-num system="original-air-date">2023-08-26 05:28:21</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20230826172825 +1000" stop="20230826182815 +1000" channel="21">
-    <title>The Soundtrack of Australia</title>
-    <desc>Australia is a stunning country but we seldom listen to how it sounds. Dr Ann Jones is on an audio odyssey gathering iconic recordings of Australia. We examine the sounds we can't hear and those that break the rules. (Final</desc>
-    <category>Education and Science</category>
-    <episode-num system="original-air-date">2023-08-26 05:28:25</episode-num>
-    <previously-shown />
-  </programme>
   <programme start="20230826182815 +1000" stop="20230826190000 +1000" channel="21">
     <title>Kitchen Cabinet</title>
     <desc>Annabel Crabb meets Peter Dutton to find out what makes this former Queensland cop turned political hardman tick. No stranger to controversy, Dutton explains how a self-confessed shy kid became the Leader of the Opposition.</desc>
@@ -7193,6 +7170,13 @@
     <desc>Music video director Paul Goldman shares stories from his work with Kylie Minogue, Silverchair, Nick Cave, and more, as he guest programs rage for the first time.</desc>
     <category>Music and Dance</category>
     <episode-num system="original-air-date">2023-08-26 11:50:46</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20230826235052 +1000" stop="20230827050113 +1000" channel="21">
+    <title>rage guest programmer: Paul Goldman</title>
+    <desc>Music video director Paul Goldman shares stories from his work with Kylie Minogue, Silverchair, Nick Cave, and more, as he guest programs rage for the first time.</desc>
+    <category>Music and Dance</category>
+    <episode-num system="original-air-date">2023-08-26 11:50:52</episode-num>
     <previously-shown />
   </programme>
   <programme start="20230827050113 +1000" stop="20230827060000 +1000" channel="21">
@@ -8625,13 +8609,6 @@
     <episode-num system="original-air-date">2023-08-26 05:58:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20230826175804 +1000" stop="20230826181000 +1000" channel="22">
-    <title>Ben And Holly's Little Kingdom</title>
-    <desc>It's the Twin's birthday party and chaos ensues when their little friends arrive. The Wise Old Elf tries to entertain them, but they prove too much of a handful, turning the Wise Old Elf into a mouse.</desc>
-    <category>Childrens Programmes</category>
-    <episode-num system="original-air-date">2023-08-26 05:58:04</episode-num>
-    <previously-shown />
-  </programme>
   <programme start="20230826181000 +1000" stop="20230826182130 +1000" channel="22">
     <title>Interstellar Ella</title>
     <desc>(AD) Ella feels terrible when she accidentally ruins some of her mother's old photographs. She convinces her family to recreate the scenes in the old pictures into new ones! But a lot has changed in space over the years.</desc>
@@ -8723,6 +8700,10 @@
     <desc>David Tennant and Michael Sheen star as themselves - two bickering actors making a drama out of a crisis. Can their fragile egos survive working from home and virtual Hollywood?</desc>
   </programme>
   <programme start="20230826235334 +1000" stop="20230827004907 +1000" channel="22">
+    <title>Days Like These with Diesel</title>
+    <desc>In a series of powerful concerts in 2012-2013 called 'Into the Bloodstream', Archie Roach proved he was back and in top-form following a series of devastating, personal challenges.</desc>
+  </programme>
+  <programme start="20230826235339 +1000" stop="20230827004907 +1000" channel="22">
     <title>Days Like These with Diesel</title>
     <desc>In a series of powerful concerts in 2012-2013 called 'Into the Bloodstream', Archie Roach proved he was back and in top-form following a series of devastating, personal challenges.</desc>
   </programme>
@@ -12879,10 +12860,6 @@
     <title>Welcome To Cardboard City</title>
     <desc>Can our heroes come through? Will the Sky tower be saved? Can Dave pass his driving lesson? Find out in this epic finale!</desc>
   </programme>
-  <programme start="20230826175634 +1000" stop="20230826180630 +1000" channel="23">
-    <title>Welcome To Cardboard City</title>
-    <desc>Can our heroes come through? Will the Sky tower be saved? Can Dave pass his driving lesson? Find out in this epic finale!</desc>
-  </programme>
   <programme start="20230826180630 +1000" stop="20230826183252 +1000" channel="23">
     <title>The PM's Daughter</title>
     <desc>Cat, Sadie and Ollie attempt to catch the Agitators at an art gallery event, while Cat struggles to fulfil her duties as the PM's daughter.</desc>
@@ -12934,6 +12911,10 @@
     <previously-shown />
   </programme>
   <programme start="20230826215011 +1000" stop="20230827034130 +1000" channel="23">
+    <title>ABC ME Programs Resume At 6am</title>
+    <desc>ABC ME programs resume at 6am.</desc>
+  </programme>
+  <programme start="20230826215015 +1000" stop="20230827034130 +1000" channel="23">
     <title>ABC ME Programs Resume At 6am</title>
     <desc>ABC ME programs resume at 6am.</desc>
   </programme>
@@ -15036,13 +15017,6 @@
     <episode-num system="original-air-date">2023-08-26 06:00:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20230826180004 +1000" stop="20230826183000 +1000" channel="24">
-    <title>ABC Evening News</title>
-    <desc>For the latest news as it happens ABC News is the home of breaking news, compelling stories and Australia's best investigative journalism. Round the clock coverage of the news that matters to you from the team you can trust.</desc>
-    <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2023-08-26 06:00:04</episode-num>
-    <previously-shown />
-  </programme>
   <programme start="20230826183000 +1000" stop="20230826190000 +1000" channel="24">
     <title>Back Roads</title>
     <desc>(AD) For the first time, Back Roads leaves Australian shores and travels to our closest northern neighbour, Papua New Guinea. Guest presenter Tania Bale introduces us to Rabaul, a community with close ties to Australia. (Final)</desc>
@@ -15132,6 +15106,13 @@
     <desc>The final word on the day's top stories, with the latest news and updated information from Australia's most trusted source of independent news. Presented by Mariam Saab.</desc>
     <category>News and Current Affairs</category>
     <episode-num system="original-air-date">2023-08-27 12:00:00</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20230827000005 +1000" stop="20230827001500 +1000" channel="24">
+    <title>ABC News Overnight</title>
+    <desc>The final word on the day's top stories, with the latest news and updated information from Australia's most trusted source of independent news. Presented by Mariam Saab.</desc>
+    <category>News and Current Affairs</category>
+    <episode-num system="original-air-date">2023-08-27 12:00:05</episode-num>
     <previously-shown />
   </programme>
   <programme start="20230827001500 +1000" stop="20230827003100 +1000" channel="24">
@@ -17908,6 +17889,122 @@
     <title>The Music Show with Andrew Ford</title>
     <desc>The Music Show is about the creation and enjoyment of music, from Handel to hip-hop, plainsong to punk.</desc>
   </programme>
+  <programme start="20230901000000 +1000" stop="20230901010000 +1000" channel="26">
+    <title>Duet with Tamara-Anna Cislowska</title>
+    <desc>Tamara-Anna Cislowska welcomes a star to share an hour of music and conversation at the keyboard.</desc>
+  </programme>
+  <programme start="20230901010000 +1000" stop="20230901020000 +1000" channel="26">
+    <title>Counterpoint with Amanda Vanstone</title>
+    <desc>Counterpoint tackles key social, economic and cultural issues in Australian life, challenging assumptions and giving voice to new and seldom-heard commentators.</desc>
+  </programme>
+  <programme start="20230901020000 +1000" stop="20230901023000 +1000" channel="26">
+    <title>Days Like These with Farz Edraki</title>
+    <desc>From the heartbreaking to the hilarious, each episode of Days Like These introduces you to one regular human as they live through something wild.</desc>
+  </programme>
+  <programme start="20230901023000 +1000" stop="20230901030000 +1000" channel="26">
+    <title>All In the Mind with Sana Qadar</title>
+    <desc>An exploration of all things mental, All in the Mind is about the brain and behaviour, and the fascinating connections between them.</desc>
+  </programme>
+  <programme start="20230901030000 +1000" stop="20230901040000 +1000" channel="26">
+    <title>Big Ideas with Natasha Mitchell</title>
+    <desc>Big Ideas brings you the best of talks, forums, debates, and festivals held in Australia and around the world, casting light on the major social, cultural, scientific and political issues.</desc>
+  </programme>
+  <programme start="20230901040000 +1000" stop="20230901050000 +1000" channel="26">
+    <title>Blueprint For Living with Jonathan Green</title>
+    <desc>A rummage through the essential cultural ingredients -- design, architecture, food, travel and fashion.</desc>
+  </programme>
+  <programme start="20230901050000 +1000" stop="20230901053000 +1000" channel="26">
+    <title>World Business Report</title>
+    <desc>The latest business and finance news from around the world.</desc>
+  </programme>
+  <programme start="20230901053000 +1000" stop="20230901060000 +1000" channel="26">
+    <title>Future Tense with Antony Funnell</title>
+    <desc>Exploring new ideas, new approaches, new technologies ? the edge of change. Future Tense analyses the social, cultural and economic fault lines arising from rapid transformation.</desc>
+  </programme>
+  <programme start="20230901060000 +1000" stop="20230901071000 +1000" channel="26">
+    <title>RN Breakfast with Patricia Karvelas</title>
+    <desc>Start each day with comprehensive coverage and analysis of national and international events, and hear interviews with the people who matter today</desc>
+  </programme>
+  <programme start="20230901071000 +1000" stop="20230901073000 +1000" channel="26">
+    <title>AM with Kim Landers</title>
+    <desc>AM is Australia's most informative morning current affairs program. AM sets the agenda for the nation's daily news and current affairs coverage.</desc>
+  </programme>
+  <programme start="20230901073000 +1000" stop="20230901090000 +1000" channel="26">
+    <title>RN Breakfast with Patricia Karvelas</title>
+    <desc>Start each day with comprehensive coverage and analysis of national and international events, and hear interviews with the people who matter today</desc>
+  </programme>
+  <programme start="20230901090000 +1000" stop="20230901100000 +1000" channel="26">
+    <title>Life Matters with Hilary Harper</title>
+    <desc>relationships, health, money, work and the world. Let's talk! With trusted experts and your stories, Life Matters is all about what matters to you.</desc>
+  </programme>
+  <programme start="20230901100000 +1000" stop="20230901110000 +1000" channel="26">
+    <title>Stop Everything with Benjamin Law</title>
+    <desc>Stop Everything! and tune in for a savvy, critical look at pop culture and what's in the zeitgeist. Join our panellists each week for a discussion about what they¹re reading, watching and listening to.</desc>
+  </programme>
+  <programme start="20230901110000 +1000" stop="20230901113000 +1000" channel="26">
+    <title>The Religion and Ethics Report with Andrew West</title>
+    <desc>The Religion and Ethics Report, where religion and ethics meet news and current affairs in Australia and around the world.</desc>
+  </programme>
+  <programme start="20230901113000 +1000" stop="20230901120000 +1000" channel="26">
+    <title>Crowdscience</title>
+    <desc>We take your questions about life, Earth and the universe to researchers hunting for answers at the frontiers of knowledge. (BBC)</desc>
+  </programme>
+  <programme start="20230901120000 +1000" stop="20230901130000 +1000" channel="26">
+    <title>Speaking Out with Larissa Behrendt</title>
+    <desc>Politics, arts and culture from a range of Indigenous perspectives.</desc>
+  </programme>
+  <programme start="20230901130000 +1000" stop="20230901133000 +1000" channel="26">
+    <title>The World Today with Samantha Donovan</title>
+    <desc>The World Today is a comprehensive current affairs program which backgrounds, analyses, interprets and encourages debate on events and issues of interest and importance to all Australians.</desc>
+  </programme>
+  <programme start="20230901133000 +1000" stop="20230901140000 +1000" channel="26">
+    <title>The Money with Richard Aedy</title>
+    <desc>The Money explains how the Australian economy and everything in it works, and how this all connects to the global economy.</desc>
+  </programme>
+  <programme start="20230901140000 +1000" stop="20230901150000 +1000" channel="26">
+    <title>Conversations with Sarah Kanowski</title>
+    <desc>Conversations draws you deeper into the life story of someone you may, or may not, have heard about ? someone who has seen and done amazing things.</desc>
+  </programme>
+  <programme start="20230901150000 +1000" stop="20230901160000 +1000" channel="26">
+    <title>Late Night Live with Phillip Adams</title>
+    <desc>From razor-sharp analysis of current events to the hottest debates in politics, science, philosophy and culture, Late Night Live puts you firmly in the big picture.</desc>
+  </programme>
+  <programme start="20230901160000 +1000" stop="20230901173000 +1000" channel="26">
+    <title>RN Drive with Andy Park</title>
+    <desc>An engaging mix of current affairs, analysis, arts and culture from across Australia the world.</desc>
+  </programme>
+  <programme start="20230901173000 +1000" stop="20230901180000 +1000" channel="26">
+    <title>PM with Nick Grimm</title>
+    <desc>PM covers a broad spectrum of issues relevant to all sections of Australia's geographically and culturally diverse community.</desc>
+  </programme>
+  <programme start="20230901180000 +1000" stop="20230901183000 +1000" channel="26">
+    <title>Download This Show with Rae Johnston</title>
+    <desc>Explore the latest in technology, social media, consumer electronics, digital culture and more. Each week host Marc Fennell and his panel of lively, informed guests untangle your wired world on Download this Show.</desc>
+  </programme>
+  <programme start="20230901183000 +1000" stop="20230901190000 +1000" channel="26">
+    <title>Australia Wide with Sinead Mangan</title>
+    <desc>Relevant and engaging coverage that provides news and analysis of national issues significant to regional Australians.</desc>
+  </programme>
+  <programme start="20230901190000 +1000" stop="20230901200000 +1000" channel="26">
+    <title>Life Matters with Hilary Harper</title>
+    <desc>relationships, health, money, work and the world. Let's talk! With trusted experts and your stories, Life Matters is all about what matters to you.</desc>
+  </programme>
+  <programme start="20230901200000 +1000" stop="20230901210000 +1000" channel="26">
+    <title>The Bookshelf with Kate Evans and Cassie McCullaugh</title>
+    <desc>What are we reading, loving, being surprised or challenged by? What¹s new and what have you missed? The Bookshelf is a program for dedicated readers and those who wished they read more.</desc>
+  </programme>
+  <programme start="20230901210000 +1000" stop="20230901220000 +1000" channel="26">
+    <title>The Screen Show with Jason di Rosso</title>
+    <desc>We bring you an informed look at screen culture. In an age of 'peak TV' where the world¹s best actors, producers and directors increasingly fluctuate between the small screen and the big, The Screen Show explores th</desc>
+  </programme>
+  <programme start="20230901220000 +1000" stop="20230901230000 +1000" channel="26">
+    <title>The Naked Scientists</title>
+    <desc>The Naked Scientists sees science stripped down to its bare essentials, featuring interviews with renowned researchers worldwide and answers to questions from the public.</desc>
+  </programme>
+  <programme start="20230901230000 +1000" stop="20230902000000 +1000" channel="26">
+    <title>The Music Show with Andrew Ford</title>
+    <desc>The Music Show is about the creation and enjoyment of music, from Handel to hip-hop, plainsong to punk.</desc>
+  </programme>
   <programme start="20230826130000 +1000" stop="20230826150000 +1000" channel="27">
     <title>Lunchtime Concert with Genevieve Lang</title>
     <desc>Take a trip to the world's great concert halls, with the latest live performances.</desc>
@@ -18460,11 +18557,15 @@
     <title>Weekend Breakfast with Stacy Gougoulis</title>
     <desc>Kick off your weekend with the delightful stylings of Stacy Gougoulis.</desc>
   </programme>
-  <programme start="20230826180000 +1000" stop="20230827180000 +1000" channel="29">
+  <programme start="20230826180000 +1000" stop="20230827000000 +1000" channel="29">
     <title>triplejunearthed.com - discover new Australian music</title>
     <desc>triplejunearthed.com - discover new Australian music</desc>
   </programme>
-  <programme start="20230827180000 +1000" stop="20230828173000 +1000" channel="29">
+  <programme start="20230827000000 +1000" stop="20230828000000 +1000" channel="29">
+    <title>triplejunearthed.com - discover new Australian music</title>
+    <desc>triplejunearthed.com - discover new Australian music</desc>
+  </programme>
+  <programme start="20230828000000 +1000" stop="20230828173000 +1000" channel="29">
     <title>triplejunearthed.com - discover new Australian music</title>
     <desc>triplejunearthed.com - discover new Australian music</desc>
   </programme>
@@ -18579,11 +18680,6 @@
     <sub-title>Consumer Advice</sub-title>
     <desc>A. Shrouded in mystery, this Spanish island and its sisters were suspected to be ports for German U boats and possible 'ratline' stops for escaping Nazis to South America.</desc>
   </programme>
-  <programme start="20230826173748 +1000" stop="20230826183000 +1000" channel="30">
-    <title>Secret Nazi Bases</title>
-    <sub-title>Consumer Advice</sub-title>
-    <desc>A. Shrouded in mystery, this Spanish island and its sisters were suspected to be ports for German U boats and possible 'ratline' stops for escaping Nazis to South America.</desc>
-  </programme>
   <programme start="20230826183000 +1000" stop="20230826193005 +1000" channel="30">
     <title>SBS World News</title>
     <desc>Latest reports and analysis of major national and international news of the day from Australia's only world news service.</desc>
@@ -18613,6 +18709,11 @@
     <desc>A. Tony takes us back nearly 2000 years to a time when Britain was under the Roman Empire. He tells the story of an African Roman soldier who gets posted to its most northerly outpost at Hadrian's Wall.</desc>
   </programme>
   <programme start="20230826230928 +1000" stop="20230827000500 +1000" channel="30">
+    <title>Rex In Rome</title>
+    <sub-title>Consumer Advice</sub-title>
+    <desc>V. The investigation of an attack on a little boy found unconscious in a park leads to a children's fight gone horribly wrong.</desc>
+  </programme>
+  <programme start="20230826230931 +1000" stop="20230827000500 +1000" channel="30">
     <title>Rex In Rome</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>V. The investigation of an attack on a little boy found unconscious in a park leads to a children's fight gone horribly wrong.</desc>
@@ -21719,12 +21820,6 @@
     <desc>From: The United Kingdom. New York, 1929, a war rages between two rival gangsters, Fat Sam and Dandy Dan. Dan is in possession of a new and deadly weapon, the dreaded 'splurge gun'. (Scott Baio, Jodie Foster)</desc>
     <category>Movies</category>
   </programme>
-  <programme start="20230826175631 +1000" stop="20230826203142 +1000" channel="32">
-    <title>Vanity Fair</title>
-    <sub-title>Consumer Advice</sub-title>
-    <desc>From: The USA. Consumer Advice: A, V. Growing up poor in London, Becky Sharp defies her poverty-stricken background and ascends the social ladder alongside her best friend, Amelia Sedley. Stars Reese Witherspoon and James Purefoy.</desc>
-    <category>Movies</category>
-  </programme>
   <programme start="20230826175640 +1000" stop="20230826203142 +1000" channel="32">
     <title>Vanity Fair</title>
     <sub-title>Consumer Advice</sub-title>
@@ -21738,6 +21833,12 @@
     <category>Movies</category>
   </programme>
   <programme start="20230826222552 +1000" stop="20230827001610 +1000" channel="32">
+    <title>The Wait</title>
+    <sub-title>Consumer Advice</sub-title>
+    <desc>From: Finland. Consumer Advice: N, S. Adapted from Juhani Aho's novel 'The Pastor's Wife', the film tells the story of a preacher, his wife and an old friend of the preacher who visits the couple in rural Finland during the summer.</desc>
+    <category>Movies</category>
+  </programme>
+  <programme start="20230826222553 +1000" stop="20230827001610 +1000" channel="32">
     <title>The Wait</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>From: Finland. Consumer Advice: N, S. Adapted from Juhani Aho's novel 'The Pastor's Wife', the film tells the story of a preacher, his wife and an old friend of the preacher who visits the couple in rural Finland during the summer.</desc>
@@ -22438,13 +22539,6 @@
     <episode-num system="original-air-date">2023-08-26 06:00:26</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20230826180027 +1000" stop="20230826183308 +1000" channel="33">
-    <title>Cheese Slices</title>
-    <desc>If the name 'Brie' conjures up images of a mild creamy flat cheese covered with a pure white mould, chances are you have never experienced authentic Brie from Brie.</desc>
-    <category>Leisure and Hobbies</category>
-    <episode-num system="original-air-date">2023-08-26 06:00:27</episode-num>
-    <previously-shown />
-  </programme>
   <programme start="20230826183308 +1000" stop="20230826192711 +1000" channel="33">
     <title>Michel Roux's French Country Cooking</title>
     <desc>Michel visits La Chassagnette, a Michelin-starred restaurant with a stunning kitchen garden, then goes off the beaten track to investigate the craft beer revolution that's underway in Provence.</desc>
@@ -22507,6 +22601,13 @@
     <desc>Gregg gets an eagle-eye view of Soweto. He dishes up lunch in a school canteen and learns the country's lively gum boot dance in the township of Kliptown.</desc>
     <category>Leisure and Hobbies</category>
     <episode-num system="original-air-date">2023-08-27 12:00:27</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20230827000028 +1000" stop="20230827003005 +1000" channel="33">
+    <title>South Africa With Gregg Wallace</title>
+    <desc>Gregg gets an eagle-eye view of Soweto. He dishes up lunch in a school canteen and learns the country's lively gum boot dance in the township of Kliptown.</desc>
+    <category>Leisure and Hobbies</category>
+    <episode-num system="original-air-date">2023-08-27 12:00:28</episode-num>
     <previously-shown />
   </programme>
   <programme start="20230827003005 +1000" stop="20230827005910 +1000" channel="33">
@@ -38542,11 +38643,11 @@
     <title>The Fine Art Auction (Live)</title>
     <desc>Join the the world's number one international TV arts auction house featuring the works of famous artists and young, emerging talent all at a fraction of gallery prices! It's fun, exciting, informative and live every Saturday and Sunday from 10.00 pm!</desc>
   </programme>
-  <programme start="20230826100004 +1000" stop="20230826120004 +1000" channel="60">
+  <programme start="20230826100000 +1000" stop="20230826120000 +1000" channel="60">
     <title>The Morning Show - Weekend</title>
     <desc>Join Larry Emdur and Kylie Gillies to catch up on all the highlights from this week's program, including a variety of segments on the latest news and entertainment.</desc>
   </programme>
-  <programme start="20230826120004 +1000" stop="20230826170000 +1000" channel="60">
+  <programme start="20230826120000 +1000" stop="20230826170000 +1000" channel="60">
     <title>Seven's Horse Racing</title>
     <desc>Live coverage of horse racing every Saturday.</desc>
   </programme>
@@ -38562,10 +38663,6 @@
     <title>Seven News</title>
     <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
   </programme>
-  <programme start="20230826175934 +1000" stop="20230826190000 +1000" channel="60">
-    <title>Seven News</title>
-    <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
-  </programme>
   <programme start="20230826190000 +1000" stop="20230826223000 +1000" channel="60">
     <title>AFL</title>
     <desc>The Cats challenge the Bulldogs, live and free from GMHBA Stadium. Bounce time: 7:25pm AEST.</desc>
@@ -38575,6 +38672,10 @@
     <desc>A look back at all the action from tonight's game.</desc>
   </programme>
   <programme start="20230826230000 +1000" stop="20230827000325 +1000" channel="60">
+    <title>Without Sin</title>
+    <desc>A four-part psychological thriller exploring the relationship between a convict and a grieving mother in a relentless quest for the truth.</desc>
+  </programme>
+  <programme start="20230826231129 +1000" stop="20230827000325 +1000" channel="60">
     <title>Without Sin</title>
     <desc>A four-part psychological thriller exploring the relationship between a convict and a grieving mother in a relentless quest for the truth.</desc>
   </programme>
@@ -39334,11 +39435,11 @@
     <title>Weekend Sunrise</title>
     <desc>Wake up to a better breakfast with Matt Doran and Monique Wright, for all the latest entertainment, news, sport and weather.</desc>
   </programme>
-  <programme start="20230826100004 +1000" stop="20230826120004 +1000" channel="61">
+  <programme start="20230826100000 +1000" stop="20230826120000 +1000" channel="61">
     <title>The Morning Show - Weekend</title>
     <desc>Join Larry Emdur and Kylie Gillies to catch up on all the highlights from this week's program, including a variety of segments on the latest news and entertainment.</desc>
   </programme>
-  <programme start="20230826120004 +1000" stop="20230826170000 +1000" channel="61">
+  <programme start="20230826120000 +1000" stop="20230826170000 +1000" channel="61">
     <title>Seven's Horse Racing</title>
     <desc>Live coverage of horse racing every Saturday.</desc>
   </programme>
@@ -39354,10 +39455,6 @@
     <title>Seven News</title>
     <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
   </programme>
-  <programme start="20230826175934 +1000" stop="20230826190000 +1000" channel="61">
-    <title>Seven News</title>
-    <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
-  </programme>
   <programme start="20230826190000 +1000" stop="20230826223000 +1000" channel="61">
     <title>AFL</title>
     <desc>The Cats challenge the Bulldogs, live and free from GMHBA Stadium. Bounce time: 7:25pm AEST.</desc>
@@ -39367,6 +39464,10 @@
     <desc>A look back at all the action from tonight's game.</desc>
   </programme>
   <programme start="20230826230000 +1000" stop="20230827000325 +1000" channel="61">
+    <title>Without Sin</title>
+    <desc>A four-part psychological thriller exploring the relationship between a convict and a grieving mother in a relentless quest for the truth.</desc>
+  </programme>
+  <programme start="20230826231129 +1000" stop="20230827000325 +1000" channel="61">
     <title>Without Sin</title>
     <desc>A four-part psychological thriller exploring the relationship between a convict and a grieving mother in a relentless quest for the truth.</desc>
   </programme>
@@ -40126,19 +40227,19 @@
     <title>Weekend Sunrise</title>
     <desc>Wake up to a better breakfast with Matt Doran and Monique Wright, for all the latest entertainment, news, sport and weather.</desc>
   </programme>
-  <programme start="20230826100004 +1000" stop="20230826103014 +1000" channel="62">
+  <programme start="20230826100000 +1000" stop="20230826103014 +1000" channel="62">
     <title>Medical Emergency</title>
     <desc>Paramedics are on a Code One callout to a motorcycle accident and a young woman suffers from life-threatening, flesh-eating bacteria.</desc>
   </programme>
-  <programme start="20230826103014 +1000" stop="20230826112849 +1000" channel="62">
+  <programme start="20230826103014 +1000" stop="20230826112835 +1000" channel="62">
     <title>House Of Wellness</title>
     <desc>Entertaining everybody to live a healthier life. Hosted by Luke Darcy, Jo Stanley and Luke Hines.</desc>
   </programme>
-  <programme start="20230826112849 +1000" stop="20230826122954 +1000" channel="62">
+  <programme start="20230826112835 +1000" stop="20230826122940 +1000" channel="62">
     <title>Escape To The Country</title>
     <desc>Alistair Appleton is in Norfolk with a couple who want to run a cattery business from their rural home.</desc>
   </programme>
-  <programme start="20230826122954 +1000" stop="20230826132930 +1000" channel="62">
+  <programme start="20230826122940 +1000" stop="20230826132930 +1000" channel="62">
     <title>Escape To The Country</title>
     <desc>Jules Hudson is in Somerset to help an expat couple make a long-awaited return to the British countryside. Plus, Jules makes a nostalgic visit to a 100 year old cinema.</desc>
   </programme>
@@ -40163,10 +40264,6 @@
     <desc>Live coverage of horse racing every Saturday.</desc>
   </programme>
   <programme start="20230826173005 +1000" stop="20230826180250 +1000" channel="62">
-    <title>Animal SOS Australia</title>
-    <desc>Animal SOS goes behind the scenes at three leading Veterinary Clinics and Animal Shelters to show the tireless, life-saving and at times, heartbreaking work they do to help pets and people in need.</desc>
-  </programme>
-  <programme start="20230826173009 +1000" stop="20230826180250 +1000" channel="62">
     <title>Animal SOS Australia</title>
     <desc>Animal SOS goes behind the scenes at three leading Veterinary Clinics and Animal Shelters to show the tireless, life-saving and at times, heartbreaking work they do to help pets and people in need.</desc>
   </programme>
@@ -40195,6 +40292,10 @@
     <desc>Some of the world's once-in-a-lifetime journeys - The Road To Timbuktu, the Birdsville track, the Inca Trail and the misty mountains of the Himalaya¹s.</desc>
   </programme>
   <programme start="20230826232115 +1000" stop="20230827002030 +1000" channel="62">
+    <title>The Yorkshire Vet</title>
+    <desc>Julian sets up a blood bank for baby alpacas. Peter is woken at 2am by an emergency call-out for a pregnant cow. Katie visits a bad-tempered pig with very sore eyes.</desc>
+  </programme>
+  <programme start="20230826232119 +1000" stop="20230827002030 +1000" channel="62">
     <title>The Yorkshire Vet</title>
     <desc>Julian sets up a blood bank for baby alpacas. Peter is woken at 2am by an emergency call-out for a pregnant cow. Katie visits a bad-tempered pig with very sore eyes.</desc>
   </programme>
@@ -41054,27 +41155,27 @@
     <title>Home Shopping</title>
     <desc>Home Shopping</desc>
   </programme>
-  <programme start="20230826100016 +1000" stop="20230826110136 +1000" channel="64">
+  <programme start="20230826100015 +1000" stop="20230826110135 +1000" channel="64">
     <title>American Pickers</title>
     <desc>The guys pick New York City for the first time ever, and go back to the future at a sprawling computer store packed with a mind-blowing stockpile of 20th century technological artifacts.</desc>
   </programme>
-  <programme start="20230826110136 +1000" stop="20230826113100 +1000" channel="64">
+  <programme start="20230826110135 +1000" stop="20230826113045 +1000" channel="64">
     <title>The 4WD Adventure Show</title>
     <desc>Join Ronny Dahl, Mark LeCras and the team for an action-packed outdoor adventure with expert knowledge and tips along the way.</desc>
   </programme>
-  <programme start="20230826113100 +1000" stop="20230826120006 +1000" channel="64">
+  <programme start="20230826113045 +1000" stop="20230826120005 +1000" channel="64">
     <title>Your 4x4</title>
     <desc>Watch Simon Christie &amp; mates venture into flooded outback NSW for the true story on the devastation of the flooded Darling Barka River. There¹s no shortage of challenges as the team support farmers.</desc>
   </programme>
-  <programme start="20230826120006 +1000" stop="20230826123130 +1000" channel="64">
+  <programme start="20230826120005 +1000" stop="20230826123125 +1000" channel="64">
     <title>Dipper's Backyard BBQ Wars</title>
     <desc>Dipper and his team demonstrate the ease of cooking the perfect BBQ for family and friends.</desc>
   </programme>
-  <programme start="20230826123130 +1000" stop="20230826130246 +1000" channel="64">
+  <programme start="20230826123125 +1000" stop="20230826130245 +1000" channel="64">
     <title>STIHL Timbersports</title>
     <desc>Brad Delosa takes on the best in the 4-discipline Trophy format in Vienna. Will he bring home a remarkable 4th World trophy Title?</desc>
   </programme>
-  <programme start="20230826130246 +1000" stop="20230826133355 +1000" channel="64">
+  <programme start="20230826130245 +1000" stop="20230826133355 +1000" channel="64">
     <title>Blokesworld</title>
     <desc>Blokesworld</desc>
   </programme>
@@ -41110,10 +41211,6 @@
     <title>Pawn Stars</title>
     <desc>Step up to the plate with the Pawn Stars, when Rick tries to hit a home run with a personal check signed by Babe Ruth.</desc>
   </programme>
-  <programme start="20230826180010 +1000" stop="20230826183000 +1000" channel="64">
-    <title>Pawn Stars</title>
-    <desc>Step up to the plate with the Pawn Stars, when Rick tries to hit a home run with a personal check signed by Babe Ruth.</desc>
-  </programme>
   <programme start="20230826183000 +1000" stop="20230826190000 +1000" channel="64">
     <title>AFL Pre-Game</title>
     <desc>Join us for a preview and all the latest news ahead of tonight's game.</desc>
@@ -41127,6 +41224,10 @@
     <desc>The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.</desc>
   </programme>
   <programme start="20230826215030 +1000" stop="20230827000500 +1000" channel="64">
+    <title>I, Robot</title>
+    <desc>In 2035, a techno-phobic cop investigates a crime that may have been perpetrated by a robot, which leads to a threat to humanity.</desc>
+  </programme>
+  <programme start="20230826215050 +1000" stop="20230827000500 +1000" channel="64">
     <title>I, Robot</title>
     <desc>In 2035, a techno-phobic cop investigates a crime that may have been perpetrated by a robot, which leads to a threat to humanity.</desc>
   </programme>
@@ -42882,23 +42983,23 @@
     <title>The Kelly Clarkson Show</title>
     <desc>Multi-talented, Grammy+ Award-winning artist Kelly Clarkson brings her singular voice and infectious enthusiasm to daytime television as the host of her own talk show.</desc>
   </programme>
-  <programme start="20230826101249 +1000" stop="20230826104219 +1000" channel="66">
+  <programme start="20230826101245 +1000" stop="20230826104215 +1000" channel="66">
     <title>Weekender</title>
     <desc>Alana cooks a delicious winter warmer. Vic showcases the Toowoomba Carnival of Flowers. Sammie explores the best of the west and Lee puts his 4WD skills to the test.</desc>
   </programme>
-  <programme start="20230826104219 +1000" stop="20230826111144 +1000" channel="66">
+  <programme start="20230826104215 +1000" stop="20230826111140 +1000" channel="66">
     <title>Sydney Weekender</title>
     <desc>Teigan checks out DanceKool. Lizzy books a waterfront cabin at NRMA Forster Tuncurry Holiday Park. Darren tries on French living at Mount Ashby Estate.</desc>
   </programme>
-  <programme start="20230826111144 +1000" stop="20230826114139 +1000" channel="66">
+  <programme start="20230826111140 +1000" stop="20230826114135 +1000" channel="66">
     <title>Holistic Living</title>
     <desc>Holistic Living is an all-new mind, body and soul series. Hosted by Jess Dempsey and renowned author and Australia¹s leading holistic expert, Kayla Marie from Soul Journey Healings.</desc>
   </programme>
-  <programme start="20230826114139 +1000" stop="20230826125554 +1000" channel="66">
+  <programme start="20230826114135 +1000" stop="20230826125550 +1000" channel="66">
     <title>Take Me Out</title>
     <desc>A fresh and funny dating show. A single man is introduced to a 30 girl panel and tries to persuade them to keep their lights on so he can pick one for a date on the Gold Coast. Hosted by Joel Creasey.</desc>
   </programme>
-  <programme start="20230826125554 +1000" stop="20230826132330 +1000" channel="66">
+  <programme start="20230826125550 +1000" stop="20230826132330 +1000" channel="66">
     <title>Black-ish</title>
     <desc>Dre and Bow disagree on where to send Devante for preschool. Junior helps Diane and Jack pull a prank.</desc>
   </programme>
@@ -42926,15 +43027,15 @@
     <title>A Beautiful Day In The Neighborhood</title>
     <desc>Lloyd Vogel, a cynical journalist, gets acquainted with a kind-hearted television presenter, Fred Rogers, while writing an article on him. With time, the two strike an unlikely friendship.</desc>
   </programme>
-  <programme start="20230826171749 +1000" stop="20230826193220 +1000" channel="66">
-    <title>A Beautiful Day In The Neighborhood</title>
-    <desc>Lloyd Vogel, a cynical journalist, gets acquainted with a kind-hearted television presenter, Fred Rogers, while writing an article on him. With time, the two strike an unlikely friendship.</desc>
-  </programme>
   <programme start="20230826193220 +1000" stop="20230826215655 +1000" channel="66">
     <title>Murder On The Orient Express</title>
     <desc>In the most timeless of whodunits, Murder On The Orient Express follows renowned detective Hercule Poirot as he attempts to solve what would become one of the most infamous crimes in history.</desc>
   </programme>
   <programme start="20230826215655 +1000" stop="20230827001800 +1000" channel="66">
+    <title>Hollow Man</title>
+    <desc>A brilliant scientist's discovery renders him invisible, but transforms him into an omnipotent, dangerous megalomaniac.</desc>
+  </programme>
+  <programme start="20230826215659 +1000" stop="20230827001800 +1000" channel="66">
     <title>Hollow Man</title>
     <desc>A brilliant scientist's discovery renders him invisible, but transforms him into an omnipotent, dangerous megalomaniac.</desc>
   </programme>
@@ -43885,22 +43986,6 @@
   <programme start="20230903060000 +1000" stop="20230904060000 +1000" channel="68">
     <title>RACING.COM</title>
     <desc>RACING.COM</desc>
-  </programme>
-  <programme start="20230826100000 +1000" stop="20230826115900 +1000" channel="80">
-    <title>Today Extra - Saturday</title>
-    <desc>Join the team for the best of TODAY EXTRA - an exciting mix of highlights from the week in review. Includes the best celebrity interviews, cooking with Australia's top chefs, the latest in fashion &amp; more. .</desc>
-  </programme>
-  <programme start="20230826115900 +1000" stop="20230826122920 +1000" channel="80">
-    <title>Our State On A Plate</title>
-    <desc>Serving up today, Scott shows off a striking and exceptional piece of quality produce! Stuart goes cutting edge with artisanal Japanese knives. And Brendan takes a culinary visit down memory lane with someone very close to his hea. .</desc>
-  </programme>
-  <programme start="20230826122920 +1000" stop="20230826125950 +1000" channel="80">
-    <title>The Pet Rescuers</title>
-    <desc>The Pet Rescuers follows the work of a team on a mission to give abandoned pets a second chance. .</desc>
-  </programme>
-  <programme start="20230826125950 +1000" stop="20230826135826 +1000" channel="80">
-    <title>Mega Zoo</title>
-    <desc>Keepers are excited at the possibility otters Odie and Paula may be expecting pups. Emotions run high as a young lion's health check takes a frightening turn, and how will dental surgery help a Tasmanian Devil father precious babies?. .</desc>
   </programme>
   <programme start="20230826135826 +1000" stop="20230826152434 +1000" channel="80">
     <title>The Block</title>
@@ -45238,26 +45323,6 @@
     <title>US Open 2023</title>
     <desc>Wide World of Sports presents the 2023 US Open live from Flushing Meadows. Join your hosts Todd Woodbridge, Jelena Dokic and Brenton Speed for all the action. Live play begins at 1:00AM AEST. .</desc>
   </programme>
-  <programme start="20230826103231 +1000" stop="20230826110000 +1000" channel="82">
-    <title>LEGO DreamZzz</title>
-    <desc>To craft their own hourglasses and become official Dream Chasers for the Night Bureau, Mateo and his friends must defeat the Dream Forge guardian. .</desc>
-  </programme>
-  <programme start="20230826110000 +1000" stop="20230826113005 +1000" channel="82">
-    <title>The Gamers 2037</title>
-    <desc>Virtual and Augmented Reality Gaming was the next generation of gaming and a technological marvel... until it started digitising and absorbing players. XEON and GALAHAD must beat the game to not only save themselves, but the absorbed p. .</desc>
-  </programme>
-  <programme start="20230826113005 +1000" stop="20230826115828 +1000" channel="82">
-    <title>The Amazing World Of Gumball</title>
-    <desc>Gumball babysits Polly Fitzgerald / Mr. Robinson tries to fix his "friendship" with Gumball and Darwin after they overhear him say mean things about them. .</desc>
-  </programme>
-  <programme start="20230826115828 +1000" stop="20230826123234 +1000" channel="82">
-    <title>YU-GI-OH! Sevens</title>
-    <desc>Yu-Gi-Oh! SEVENS follows Yuga Ohdo, who attends Goha Seventh Elementary, decides to change this world which is too cramped for kids, and battles with his road "Rush Duel" while believing in his creations. .</desc>
-  </programme>
-  <programme start="20230826123234 +1000" stop="20230826130156 +1000" channel="82">
-    <title>Beyblade Burst Surge</title>
-    <desc>Middle schooler Valt Aoi, with his Beyblade Valtryek, faces off against friends, classmates and rivals on his way to become the world's number one blader. .</desc>
-  </programme>
   <programme start="20230826130156 +1000" stop="20230826133004 +1000" channel="82">
     <title>Teen Titans Go!</title>
     <desc>The Titans' elbows rebel./The Titans join Robin to deliver a gift to Batman. .</desc>
@@ -45618,147 +45683,147 @@
     <title>YU-GI-OH! Sevens</title>
     <desc>Yu-Gi-Oh! SEVENS follows Yuga Ohdo, who attends Goha Seventh Elementary, decides to change this world which is too cramped for kids, and battles with his road "Rush Duel" while believing in his creations. .</desc>
   </programme>
-  <programme start="20230829060000 +1000" stop="20230829063000 +1000" channel="82">
+  <programme start="20230829060000 +1000" stop="20230829062935 +1000" channel="82">
     <title>Cry Babies Magic Tears</title>
     <desc>Small babies with big personalities explore an imaginative world where tears are magical and carry special powers. .</desc>
   </programme>
-  <programme start="20230829063000 +1000" stop="20230829070000 +1000" channel="82">
+  <programme start="20230829062935 +1000" stop="20230829070130 +1000" channel="82">
     <title>Gigantosaurus</title>
     <desc>Four curious young dinosaurs named Rocky, Bill, Tiny, and Mazu go on adventures while following their herd. .</desc>
   </programme>
-  <programme start="20230829070000 +1000" stop="20230829073000 +1000" channel="82">
+  <programme start="20230829070130 +1000" stop="20230829073000 +1000" channel="82">
     <title>Bakugan: Evolutions</title>
     <desc>Dan Kouzo and his friends band together to master a game featuring battles between alien creatures. .</desc>
   </programme>
-  <programme start="20230829073000 +1000" stop="20230829080000 +1000" channel="82">
+  <programme start="20230829073000 +1000" stop="20230829080225 +1000" channel="82">
     <title>Earth Science Investigators</title>
     <desc>Our detectives have noticed that certain things on Earth are hot. But why? How do animals and plants survive in extreme heat? Why do chillies taste hot? And how does heat change the structure of food?. .</desc>
   </programme>
-  <programme start="20230829080000 +1000" stop="20230829083000 +1000" channel="82">
+  <programme start="20230829080225 +1000" stop="20230829083123 +1000" channel="82">
     <title>Beyblade Burst Surge</title>
     <desc>Middle schooler Valt Aoi, with his Beyblade Valtryek, faces off against friends, classmates and rivals on his way to become the world's number one blader. .</desc>
   </programme>
-  <programme start="20230829083000 +1000" stop="20230829090000 +1000" channel="82">
+  <programme start="20230829083123 +1000" stop="20230829090113 +1000" channel="82">
     <title>Magic Mixies</title>
     <desc>The adventurous Sienna accidentally finds an entrance to a lush, mystical world that is inhabited by magical creatures such as Mixies and Mixlings. .</desc>
   </programme>
-  <programme start="20230829090000 +1000" stop="20230829093000 +1000" channel="82">
+  <programme start="20230829090113 +1000" stop="20230829092823 +1000" channel="82">
     <title>Care Bears - Unlock The Magic</title>
     <desc>A group of lovable, huggable BFFs go on adventures and live that sweet Care Bear life. When a new adventure takes them to a strange new world, the bears have to lean on each other more than ever. .</desc>
   </programme>
-  <programme start="20230829093000 +1000" stop="20230829100000 +1000" channel="82">
+  <programme start="20230829092823 +1000" stop="20230829100215 +1000" channel="82">
     <title>YU-GI-OH! Sevens</title>
     <desc>Yu-Gi-Oh! SEVENS follows Yuga Ohdo, who attends Goha Seventh Elementary, decides to change this world which is too cramped for kids, and battles with his road "Rush Duel" while believing in his creations. .</desc>
   </programme>
-  <programme start="20230829100000 +1000" stop="20230829103000 +1000" channel="82">
+  <programme start="20230829100215 +1000" stop="20230829103017 +1000" channel="82">
     <title>LEGO Jurassic World</title>
     <desc>In order to keep Jurassic World at the forefront of theme park entertainment, Simon Masrani has decided to open a super-secret exhibition which involves moving a trio of dinosaurs across to the other side of the island. .</desc>
   </programme>
-  <programme start="20230829103000 +1000" stop="20230829110000 +1000" channel="82">
+  <programme start="20230829103017 +1000" stop="20230829110309 +1000" channel="82">
     <title>Pokemon The Series Sun &amp; Moon - Ultra Adventures</title>
     <desc>When Ash sees the Legendary PokÂemon Solgaleo and Lunala in a dream, he makes a promise to them. But when he wakes up, he can't remember what it was! Will the strange PokÂemon called Nebby help jog his. .</desc>
   </programme>
-  <programme start="20230829110000 +1000" stop="20230829113000 +1000" channel="82">
+  <programme start="20230829110309 +1000" stop="20230829113504 +1000" channel="82">
     <title>Power Players</title>
     <desc>A human who is able to transform into a toy-sized action figure recruits a team of toy heroes for adventures around the world. .</desc>
   </programme>
-  <programme start="20230829113000 +1000" stop="20230829120000 +1000" channel="82">
+  <programme start="20230829113504 +1000" stop="20230829120338 +1000" channel="82">
     <title>Bakugan: Evolutions</title>
     <desc>Dan Kouzo and his friends band together to master a game featuring battles between alien creatures. .</desc>
   </programme>
-  <programme start="20230829120000 +1000" stop="20230829130000 +1000" channel="82">
+  <programme start="20230829120338 +1000" stop="20230829130000 +1000" channel="82">
     <title>Supergirl</title>
     <desc>Supergirl, The Flash, Green Arrow and Superman find themselves caught in the biggest battle of their lives. .</desc>
   </programme>
-  <programme start="20230829130000 +1000" stop="20230829140000 +1000" channel="82">
+  <programme start="20230829130000 +1000" stop="20230829135619 +1000" channel="82">
     <title>Supergirl</title>
     <desc>Colonel Haley is upset after Supergirl responds to a distress call from a Navy ship that turned out to be a deadly alien attack. .</desc>
   </programme>
-  <programme start="20230829140000 +1000" stop="20230829143000 +1000" channel="82">
+  <programme start="20230829135619 +1000" stop="20230829142726 +1000" channel="82">
     <title>Full House</title>
     <desc>Danny Tanner, a widowed father of three young and rambunctious girls, recruits his rock'n'roll brother-in-law and his madcap best friend. to move in and help him raise the brood. .</desc>
   </programme>
-  <programme start="20230829143000 +1000" stop="20230829150000 +1000" channel="82">
+  <programme start="20230829142726 +1000" stop="20230829145715 +1000" channel="82">
     <title>Everybody Loves Raymond</title>
     <desc>Ray questions his manliness. .</desc>
   </programme>
-  <programme start="20230829150000 +1000" stop="20230829160000 +1000" channel="82">
+  <programme start="20230829145715 +1000" stop="20230829155635 +1000" channel="82">
     <title>MacGyver</title>
     <desc>MacGyver protects a 14-year-old from the mob, after his grandfather is killed for refusing to sell out his international shipping company. .</desc>
   </programme>
-  <programme start="20230829160000 +1000" stop="20230829163000 +1000" channel="82">
+  <programme start="20230829155635 +1000" stop="20230829162813 +1000" channel="82">
     <title>Family Ties</title>
     <desc>A heartbroken Mallory wrecks Alex's chances of getting into Princeton. .</desc>
   </programme>
-  <programme start="20230829163000 +1000" stop="20230829170000 +1000" channel="82">
+  <programme start="20230829162813 +1000" stop="20230829170035 +1000" channel="82">
     <title>The Addams Family</title>
     <desc>Taken in by a psychologist's pronouncement that the only happily married couples are those who fight, members of the Addams household devise schemes to start a battle between Gomez and Morticia. .</desc>
   </programme>
-  <programme start="20230829170000 +1000" stop="20230829173000 +1000" channel="82">
+  <programme start="20230829170035 +1000" stop="20230829173320 +1000" channel="82">
     <title>Bewitched</title>
     <desc>As a joke Uncle Arthur switches Sam and Darrin's voices and can't seem to switch them back. Unfortunately Louise Tate is visiting due to a fight with Larry. .</desc>
   </programme>
-  <programme start="20230829173000 +1000" stop="20230829180000 +1000" channel="82">
+  <programme start="20230829173320 +1000" stop="20230829180405 +1000" channel="82">
     <title>I Dream of Jeannie</title>
     <desc>An astronaut, Tony Nelson, finds a 2000-year-old blonde genie in a bottle after a flight. Jeannie turns out to be mischievous, a little innocent and very much in love with her master. .</desc>
   </programme>
-  <programme start="20230829180000 +1000" stop="20230829183000 +1000" channel="82">
+  <programme start="20230829180405 +1000" stop="20230829183342 +1000" channel="82">
     <title>Everybody Loves Raymond</title>
     <desc>Ray must choose who will accompany him to the Super Bowl. .</desc>
   </programme>
-  <programme start="20230829183000 +1000" stop="20230829190000 +1000" channel="82">
+  <programme start="20230829183342 +1000" stop="20230829190345 +1000" channel="82">
     <title>Everybody Loves Raymond</title>
     <desc>Ray is mortified when he realizes that Marie used to read his journal. .</desc>
   </programme>
-  <programme start="20230829190000 +1000" stop="20230829193000 +1000" channel="82">
+  <programme start="20230829190345 +1000" stop="20230829193052 +1000" channel="82">
     <title>Young Sheldon</title>
     <desc>Mary gets Pastor Jeff involved when Sheldon isn't invited to Billy's birthday party; George Sr. has male bonding time with Dr. Sturgis. .</desc>
   </programme>
-  <programme start="20230829193000 +1000" stop="20230829213000 +1000" channel="82">
+  <programme start="20230829193052 +1000" stop="20230829213231 +1000" channel="82">
     <title>Rush Hour</title>
     <desc>When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Starring Jackie Chan and Chris Tucker. .</desc>
   </programme>
-  <programme start="20230829213000 +1000" stop="20230829234000 +1000" channel="82">
+  <programme start="20230829213231 +1000" stop="20230829234609 +1000" channel="82">
     <title>You, Me and Dupree</title>
     <desc>Carl and Molly let Dupree, a happy-go-lucky friend, move in with them for a few days when he loses his job. However, they soon realise that Dupree has no intention of leaving the house. .</desc>
   </programme>
-  <programme start="20230829234000 +1000" stop="20230830001000 +1000" channel="82">
+  <programme start="20230829234609 +1000" stop="20230830001136 +1000" channel="82">
     <title>Young Sheldon</title>
     <desc>Mary gets Pastor Jeff involved when Sheldon isn't invited to Billy's birthday party; George Sr. has male bonding time with Dr. Sturgis. .</desc>
   </programme>
-  <programme start="20230830001000 +1000" stop="20230830012000 +1000" channel="82">
+  <programme start="20230830001136 +1000" stop="20230830012152 +1000" channel="82">
     <title>Homeland</title>
     <desc>Carrie sends her daughter back to the States while she pursues the person trying to kill her; Quinn tracks Carrie to the safe house, where Carrie shoots him. .</desc>
   </programme>
-  <programme start="20230830012000 +1000" stop="20230830023000 +1000" channel="82">
+  <programme start="20230830012152 +1000" stop="20230830022702 +1000" channel="82">
     <title>Love Island USA</title>
     <desc>Love is back this summer as host Arielle Vandenberg welcomes the Islanders to their new Hawaiian Villa. .</desc>
   </programme>
-  <programme start="20230830023000 +1000" stop="20230830030000 +1000" channel="82">
+  <programme start="20230830022702 +1000" stop="20230830030128 +1000" channel="82">
     <title>Full House</title>
     <desc>Danny Tanner, a widowed father of three young and rambunctious girls, recruits his rock'n'roll brother-in-law and his madcap best friend. to move in and help him raise the brood. .</desc>
   </programme>
-  <programme start="20230830030000 +1000" stop="20230830033000 +1000" channel="82">
+  <programme start="20230830030128 +1000" stop="20230830032748 +1000" channel="82">
     <title>Bakugan: Evolutions</title>
     <desc>Dan Kouzo and his friends band together to master a game featuring battles between alien creatures. .</desc>
   </programme>
-  <programme start="20230830033000 +1000" stop="20230830040000 +1000" channel="82">
+  <programme start="20230830032748 +1000" stop="20230830035854 +1000" channel="82">
     <title>LEGO Jurassic World</title>
     <desc>In order to keep Jurassic World at the forefront of theme park entertainment, Simon Masrani has decided to open a super-secret exhibition which involves moving a trio of dinosaurs across to the other side of the island. .</desc>
   </programme>
-  <programme start="20230830040000 +1000" stop="20230830043000 +1000" channel="82">
+  <programme start="20230830035854 +1000" stop="20230830043003 +1000" channel="82">
     <title>Mega Man: Fully Charged</title>
     <desc>The mysterious Lord Obsidian calls Mega Man a traitor to robots and challenges him to a duel; an overconfident Mega Man is humbled by the mysterious new villain. .</desc>
   </programme>
-  <programme start="20230830043000 +1000" stop="20230830050000 +1000" channel="82">
+  <programme start="20230830043003 +1000" stop="20230830045843 +1000" channel="82">
     <title>Take Two</title>
     <desc>Home Shopping. .</desc>
   </programme>
-  <programme start="20230830050000 +1000" stop="20230830053000 +1000" channel="82">
+  <programme start="20230830045843 +1000" stop="20230830053145 +1000" channel="82">
     <title>Pokemon The Series Sun &amp; Moon - Ultra Adventures</title>
     <desc>When Ash sees the Legendary PokÂemon Solgaleo and Lunala in a dream, he makes a promise to them. But when he wakes up, he can't remember what it was! Will the strange PokÂemon called Nebby help jog his. .</desc>
   </programme>
-  <programme start="20230830053000 +1000" stop="20230830060000 +1000" channel="82">
+  <programme start="20230830053145 +1000" stop="20230830060000 +1000" channel="82">
     <title>YU-GI-OH! Sevens</title>
     <desc>Yu-Gi-Oh! SEVENS follows Yuga Ohdo, who attends Goha Seventh Elementary, decides to change this world which is too cramped for kids, and battles with his road "Rush Duel" while believing in his creations. .</desc>
   </programme>
@@ -49157,6 +49222,46 @@
     <title>Jazz After Hours</title>
     <desc>Accompanying nocturnal and hibernating Jazz Cats around Australia.</desc>
   </programme>
+  <programme start="20230901030000 +1000" stop="20230901040700 +1000" channel="201">
+    <title>Jazz Around The World with AthÂesia</title>
+    <desc>Journey with ABC Jazz presenter AthÂesia as she puts the spotlight on the diverse sounds of jazz from all corners of the globe.</desc>
+  </programme>
+  <programme start="20230901040700 +1000" stop="20230901060000 +1000" channel="201">
+    <title>Just Jazz</title>
+    <desc>Just Jazz</desc>
+  </programme>
+  <programme start="20230901060000 +1000" stop="20230901090000 +1000" channel="201">
+    <title>Jazz Breakfast</title>
+    <desc>jump into the day with a mix of energizing tunes curated by ABC Jazz.</desc>
+  </programme>
+  <programme start="20230901090000 +1000" stop="20230901120000 +1000" channel="201">
+    <title>Just Jazz</title>
+    <desc>Just Jazz</desc>
+  </programme>
+  <programme start="20230901120000 +1000" stop="20230901150000 +1000" channel="201">
+    <title>Jazz Lunch</title>
+    <desc>Stay on-top of the day with Lunch on ABC Jazz.</desc>
+  </programme>
+  <programme start="20230901150000 +1000" stop="20230901170000 +1000" channel="201">
+    <title>Arvos On Jazz</title>
+    <desc>Keep the day rolling with the best jazz from Australia and abroad, including another Jazz Track from Mal Stanley at 4pm.</desc>
+  </programme>
+  <programme start="20230901170000 +1000" stop="20230901180000 +1000" channel="201">
+    <title>The Happy Hour</title>
+    <desc>Chill out with the best improvised music from Australia and abroad! This curated series from ABC Jazz is the perfect playlist for anyone and everyone in need of a good vibe.</desc>
+  </programme>
+  <programme start="20230901180000 +1000" stop="20230901190000 +1000" channel="201">
+    <title>Just Jazz</title>
+    <desc>Just Jazz</desc>
+  </programme>
+  <programme start="20230901190000 +1000" stop="20230901220000 +1000" channel="201">
+    <title>The Dinner Set with Monica Trapaga</title>
+    <desc>Monica Trapaga joins us to share some of her favourite tunes from across the history of jazz.</desc>
+  </programme>
+  <programme start="20230901220000 +1000" stop="20230902050000 +1000" channel="201">
+    <title>Jazz After Hours</title>
+    <desc>Accompanying nocturnal and hibernating Jazz Cats around Australia.</desc>
+  </programme>
   <programme start="20230826100000 +1000" stop="20230826110000 +1000" channel="202">
     <title>Dance Party with Justine Clarke</title>
     <desc>Put on your party hat! You¹re invited to a dance party with Justine Clarke on ABC KIDS Listen!</desc>
@@ -50064,10 +50169,6 @@
   <programme start="20230903095959 +1000" stop="20230903100000 +1000" channel="203">
     <title>Australia's home of country music</title>
     <desc>Australia's home of country music</desc>
-  </programme>
-  <programme start="20230826000000 +1000" stop="20230827000000 +1000" channel="204">
-    <title>Australia's only national continuous news network</title>
-    <desc>Australia's only national continuous news network</desc>
   </programme>
   <programme start="20230827000000 +1000" stop="20230828000000 +1000" channel="204">
     <title>Australia's only national continuous news network</title>
@@ -51249,13 +51350,13 @@
     <title>Australia Alyaom</title>
     <desc>Hosts Ghassan Nakhoul and Barda Katieh unpack and analyse the news of the day. Join in anytime on-air or online.</desc>
   </programme>
-  <programme start="20230826180000 +1000" stop="20230826200000 +1000" channel="305">
-    <title>SBS PopDesi Nights</title>
-    <desc>We keep the latest hits rolling all night! SBS PopDesi, your home in Australia for all the latest South Asian pop! Listen on DAB radio, online, TV or the SBS Audio app.</desc>
-  </programme>
   <programme start="20230826200000 +1000" stop="20230827020000 +1000" channel="305">
     <title>Desi Dance Party</title>
     <desc>Playing party tunes until 4am! Listen on DAB radio, online, TV or the SBS Audio app.</desc>
+  </programme>
+  <programme start="20230827020000 +1000" stop="20230827060000 +1000" channel="305">
+    <title>The Early Shift</title>
+    <desc>Your home in Australia for all the latest Desi pop! Listen on DAB radio, online, TV or the SBS Audio app.</desc>
   </programme>
   <programme start="20230826100000 +1000" stop="20230826110000 +1000" channel="306">
     <title>Soundtrack Sessions</title>
