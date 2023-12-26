@@ -1434,13 +1434,6 @@
     <episode-num system="original-air-date">2023-12-26 05:59:13</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20231226175914 +1100" stop="20231226183000 +1100" channel="3">
-    <title>Mastermind</title>
-    <desc>1981 - 1984 (BAND), The Films of John Hughes, Powderfinger (BAND), and The Hunger Games Films.</desc>
-    <category>Show</category>
-    <episode-num system="original-air-date">2023-12-26 05:59:14</episode-num>
-    <previously-shown />
-  </programme>
   <programme start="20231226183000 +1100" stop="20231226193005 +1100" channel="3">
     <title>SBS World News</title>
     <desc>Latest reports and analysis of major national and international news of the day from Australia's only world news service.</desc>
@@ -1471,6 +1464,11 @@
     <desc>A, L, N. U-949 meets a Japanese I-Boat to take over very heavy cargo - gold! Bad weather conditions make this endeavour dangerous. Wilhelm receives a package from his unexpected visitor, Gruber.</desc>
   </programme>
   <programme start="20231226234040 +1100" stop="20231227003837 +1100" channel="3">
+    <title>Das Boot</title>
+    <sub-title>U-949 heads toward its destination</sub-title>
+    <desc>A, S. U-949 heads toward its destination: Portugal. As they have little time to get there, they must sail surfaced. A dangerous endeavour - especially when HMS Perseverance is on the Hunt.</desc>
+  </programme>
+  <programme start="20231226234043 +1100" stop="20231227003837 +1100" channel="3">
     <title>Das Boot</title>
     <sub-title>U-949 heads toward its destination</sub-title>
     <desc>A, S. U-949 heads toward its destination: Portugal. As they have little time to get there, they must sail surfaced. A dangerous endeavour - especially when HMS Perseverance is on the Hunt.</desc>
@@ -4046,39 +4044,39 @@
     <title>Luxury Escapes</title>
     <desc>Sophie meets up with former Bachelorette and Bachelor contestant, Brooke Blurton, as they take you on a tour of Bali and visit two of its finest resorts.</desc>
   </programme>
-  <programme start="20231226130315 +1100" stop="20231226130715 +1100" channel="6">
+  <programme start="20231226123000 +1100" stop="20231226130715 +1100" channel="6">
     <title>Test Cricket</title>
     <desc>Join us for today¹s lunch break of the test between Australia and Pakistan.</desc>
   </programme>
-  <programme start="20231226130715 +1100" stop="20231226151000 +1100" channel="6">
+  <programme start="20231226130715 +1100" stop="20231226150957 +1100" channel="6">
     <title>Test Cricket</title>
     <desc>Live coverage from the 2nd Test as Australia takes on Pakistan, live and free from the MCG.</desc>
   </programme>
-  <programme start="20231226151000 +1100" stop="20231226153000 +1100" channel="6">
+  <programme start="20231226150957 +1100" stop="20231226151227 +1100" channel="6">
     <title>Test Cricket</title>
     <desc>Join us for today¹s tea break of the test between Australia and Pakistan.</desc>
   </programme>
-  <programme start="20231226151227 +1100" stop="20231226175930 +1100" channel="6">
+  <programme start="20231226151227 +1100" stop="20231226190215 +1100" channel="6">
     <title>Test Cricket</title>
     <desc>Live coverage from the 2nd Test as Australia takes on Pakistan, live and free from the MCG.</desc>
   </programme>
-  <programme start="20231226153000 +1100" stop="20231226175930 +1100" channel="6">
-    <title>Test Cricket</title>
-    <desc>Live coverage from the 2nd Test as Australia takes on Pakistan, live and free from the MCG.</desc>
-  </programme>
-  <programme start="20231226175930 +1100" stop="20231226190000 +1100" channel="6">
+  <programme start="20231226190215 +1100" stop="20231226200004 +1100" channel="6">
     <title>Seven News</title>
     <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
-  </programme>
-  <programme start="20231226190000 +1100" stop="20231226200000 +1100" channel="6">
-    <title>Big Bash League Cricket</title>
-    <desc>The Sixers go head-to-head with the Stars, live and free from the SCG. Start time: 6:05pm AEDT.</desc>
   </programme>
   <programme start="20231226200000 +1100" stop="20231226211000 +1100" channel="6">
     <title>Big Bash League Cricket (cont.)</title>
     <desc>The Sixers go head-to-head with the Stars, live and free from the SCG. Start time: 6:05pm AEDT.</desc>
   </programme>
+  <programme start="20231226200004 +1100" stop="20231226210004 +1100" channel="6">
+    <title>Big Bash League Cricket</title>
+    <desc>The Sixers go head-to-head with the Stars, live and free from the SCG. Start time: 6:05pm AEDT.</desc>
+  </programme>
   <programme start="20231226211000 +1100" stop="20231227003135 +1100" channel="6">
+    <title>Big Bash League Cricket</title>
+    <desc>The Scorchers clash with the Renegades, live and free from Optus Stadium. Start time: 9:15pm AEDT.</desc>
+  </programme>
+  <programme start="20231226212708 +1100" stop="20231227003135 +1100" channel="6">
     <title>Big Bash League Cricket</title>
     <desc>The Scorchers clash with the Renegades, live and free from Optus Stadium. Start time: 9:15pm AEDT.</desc>
   </programme>
@@ -16904,6 +16902,122 @@
     <title>Ideas and conversation on contemporary culture, issues and current affairs.</title>
     <desc>Ideas and conversation on contemporary culture, issues and current affairs.</desc>
   </programme>
+  <programme start="20240101000000 +1100" stop="20240101003000 +1100" channel="26">
+    <title>The History Listen with Kirsti Melville</title>
+    <desc>Compelling history from Australia and around the world. The show which brings the past to life, and helps to make sense of the present.</desc>
+  </programme>
+  <programme start="20240101003000 +1100" stop="20240101010000 +1100" channel="26">
+    <title>Crowdscience (BBC)</title>
+    <desc>We take your questions about life, Earth and the universe to researchers hunting for answers at the frontiers of knowledge. (BBC)</desc>
+  </programme>
+  <programme start="20240101010000 +1100" stop="20240101020000 +1100" channel="26">
+    <title>The Stage Show with Michael Cathcart</title>
+    <desc>The Stage Show is your guide to what's happening on stages across the country and beyond. We'll bring you the latest from the worlds of theatre, dance, comedy, opera and mus</desc>
+  </programme>
+  <programme start="20240101020000 +1100" stop="20240101030000 +1100" channel="26">
+    <title>Duet with Tamara-Anna Cislowska</title>
+    <desc>Tamara-Anna Cislowska welcomes a star to share an hour of music and conversation at the keyboard.</desc>
+  </programme>
+  <programme start="20240101030000 +1100" stop="20240101033000 +1100" channel="26">
+    <title>Heart and Soul</title>
+    <desc>Discussing faith at the heart of communities. (BBC)</desc>
+  </programme>
+  <programme start="20240101033000 +1100" stop="20240101040000 +1100" channel="26">
+    <title>Leap</title>
+    <desc>Leap is a Life Matters series about people who've made huge changes in their lives.</desc>
+  </programme>
+  <programme start="20240101040000 +1100" stop="20240101050000 +1100" channel="26">
+    <title>The Science Show with Robyn Williams</title>
+    <desc>The Science Show gives Australians unique insights into the latest scientific research and debate, from the physics of cricket to prime ministerial biorhythms.</desc>
+  </programme>
+  <programme start="20240101050000 +1100" stop="20240101060000 +1100" channel="26">
+    <title>Between The Lines with Tom Switzer</title>
+    <desc>Making sense of Australia¹s place in the world, Between the Lines puts contemporary international issues and events into a broader historical context, seeking out original perspectives and challenging accepted wisdom</desc>
+  </programme>
+  <programme start="20240101060000 +1100" stop="20240101071000 +1100" channel="26">
+    <title>RN Breakfast with Sally Sara</title>
+    <desc>Start each day with comprehensive coverage and analysis of national and international events, and hear interviews with the people who matter today</desc>
+  </programme>
+  <programme start="20240101071000 +1100" stop="20240101073000 +1100" channel="26">
+    <title>AM with Sabra Lane</title>
+    <desc>AM is Australia's most informative morning current affairs program. AM sets the agenda for the nation's daily news and current affairs coverage.</desc>
+  </programme>
+  <programme start="20240101073000 +1100" stop="20240101090000 +1100" channel="26">
+    <title>RN Breakfast with Sally Sara</title>
+    <desc>Start each day with comprehensive coverage and analysis of national and international events, and hear interviews with the people who matter today</desc>
+  </programme>
+  <programme start="20240101090000 +1100" stop="20240101100000 +1100" channel="26">
+    <title>Life Matters with Hilary Harper</title>
+    <desc>relationships, health, money, work and the world. Let's talk! With trusted experts and your stories, Life Matters is all about what matters to you.</desc>
+  </programme>
+  <programme start="20240101100000 +1100" stop="20240101110000 +1100" channel="26">
+    <title>The Book Show with Claire Nichols</title>
+    <desc>The Book Show is your weekly destination for in-depth literary interviews as well as news and analysis about the publishing industry. A must listen for lovers of fiction.</desc>
+  </programme>
+  <programme start="20240101110000 +1100" stop="20240101113000 +1100" channel="26">
+    <title>Earshot - The Other Me with Taku Mbudzi</title>
+    <desc>Earshot presents documentaries about people, places and ideas, in all their diversity.</desc>
+  </programme>
+  <programme start="20240101113000 +1100" stop="20240101120000 +1100" channel="26">
+    <title>Leap</title>
+    <desc>Leap is a Life Matters series about people who've made huge changes in their lives.</desc>
+  </programme>
+  <programme start="20240101120000 +1100" stop="20240101130000 +1100" channel="26">
+    <title>Extra with Geraldine Doogue</title>
+    <desc>Making sense of a changing world, Extra with Geraldine Doogue explores the risks and possibilities of big shifts in power, puts events with our neighbourhood and overseas into context and explains how this affects Australia</desc>
+  </programme>
+  <programme start="20240101130000 +1100" stop="20240101133000 +1100" channel="26">
+    <title>Stories From The Pacific</title>
+    <desc>For centuries, Pacific Islanders have been sharing stories across the region, Stories from the Pacific honour that tradition, allowing the audience to hear in-depth personal stories from right across the Pacific.</desc>
+  </programme>
+  <programme start="20240101133000 +1100" stop="20240101140000 +1100" channel="26">
+    <title>All In the Mind with Sana Qadar</title>
+    <desc>An exploration of all things mental, All in the Mind is about the brain and behaviour, and the fascinating connections between them.</desc>
+  </programme>
+  <programme start="20240101140000 +1100" stop="20240101150000 +1100" channel="26">
+    <title>Conversations</title>
+    <desc>Conversations draws you deeper into the life story of someone you may, or may not, have heard about ? someone who has seen and done amazing things.</desc>
+  </programme>
+  <programme start="20240101150000 +1100" stop="20240101160000 +1100" channel="26">
+    <title>Counterpoint with Amanda Vanstone</title>
+    <desc>Counterpoint tackles key social, economic and cultural issues in Australian life, challenging assumptions and giving voice to new and seldom-heard commentators.</desc>
+  </programme>
+  <programme start="20240101160000 +1100" stop="20240101170000 +1100" channel="26">
+    <title>Best Of The Festivals with Cassie McCullagh</title>
+    <desc>From books and ideas to music you get a front-row seat at the highlight events.</desc>
+  </programme>
+  <programme start="20240101170000 +1100" stop="20240101180000 +1100" channel="26">
+    <title>Dig: Saving The Franklin</title>
+    <desc>Australia's biggest-ever environmental battle was over a wild river in a remote part of Tasmania: the Franklin. Protesters flooded in from all over Australia to stop the Franklin River from being dammed for hydropower.</desc>
+  </programme>
+  <programme start="20240101180000 +1100" stop="20240101183000 +1100" channel="26">
+    <title>Health Report with Tegan Taylor</title>
+    <desc>Specialist and mainstream audiences alike rely on the Health Report to bring clarity to health and medical issues from social, scientific and political points of view.</desc>
+  </programme>
+  <programme start="20240101183000 +1100" stop="20240101190000 +1100" channel="26">
+    <title>Return Ticket with Jonathan Green</title>
+    <desc>Pack your bags! Come with us on a journey of the mind?to destinations both near and far-flung, the familiar and the unexpected? in search of what the tourist never sees. An armchair travel show that scratches the surf</desc>
+  </programme>
+  <programme start="20240101190000 +1100" stop="20240101200000 +1100" channel="26">
+    <title>Life Matters with Hilary Harper</title>
+    <desc>relationships, health, money, work and the world. Let's talk! With trusted experts and your stories, Life Matters is all about what matters to you.</desc>
+  </programme>
+  <programme start="20240101200000 +1100" stop="20240101210000 +1100" channel="26">
+    <title>Big Ideas with Natasha Mitchell</title>
+    <desc>Big Ideas brings you the best of talks, forums, debates, and festivals held in Australia and around the world, casting light on the major social, cultural, scientific and political issues.</desc>
+  </programme>
+  <programme start="20240101210000 +1100" stop="20240101220000 +1100" channel="26">
+    <title>The Minefield with Waleed Aly and Scott Stephens</title>
+    <desc>In a world marked by wicked social problems, The Minefield helps you negotiate the ethical dilemmas, contradictory claims and unacknowledged complicities of modern life.</desc>
+  </programme>
+  <programme start="20240101220000 +1100" stop="20240101230000 +1100" channel="26">
+    <title>Late Night Live with Phillip Adams</title>
+    <desc>From razor-sharp analysis of current events to the hottest debates in politics, science, philosophy and culture, Late Night Live puts you firmly in the big picture.</desc>
+  </programme>
+  <programme start="20240101230000 +1100" stop="20240102000000 +1100" channel="26">
+    <title>The Bookshelf with Kate Evans and Cassie McCullaugh</title>
+    <desc>What are we reading, loving, being surprised or challenged by? What¹s new and what have you missed? The Bookshelf is a program for dedicated readers and those who wished they read more.</desc>
+  </programme>
   <programme start="20231226130000 +1100" stop="20231226150000 +1100" channel="27">
     <title>Lunchtime Concert with Joel Carnegie</title>
     <desc>Take a trip to the world's great concert halls, with the latest live performances.</desc>
@@ -17519,13 +17633,6 @@
     <episode-num system="original-air-date">2023-12-26 05:59:13</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20231226175914 +1100" stop="20231226183000 +1100" channel="30">
-    <title>Mastermind</title>
-    <desc>1981 - 1984 (BAND), The Films of John Hughes, Powderfinger (BAND), and The Hunger Games Films.</desc>
-    <category>Show</category>
-    <episode-num system="original-air-date">2023-12-26 05:59:14</episode-num>
-    <previously-shown />
-  </programme>
   <programme start="20231226183000 +1100" stop="20231226193005 +1100" channel="30">
     <title>SBS World News</title>
     <desc>Latest reports and analysis of major national and international news of the day from Australia's only world news service.</desc>
@@ -17556,6 +17663,11 @@
     <desc>A, L, N. U-949 meets a Japanese I-Boat to take over very heavy cargo - gold! Bad weather conditions make this endeavour dangerous. Wilhelm receives a package from his unexpected visitor, Gruber.</desc>
   </programme>
   <programme start="20231226234040 +1100" stop="20231227003837 +1100" channel="30">
+    <title>Das Boot</title>
+    <sub-title>U-949 heads toward its destination</sub-title>
+    <desc>A, S. U-949 heads toward its destination: Portugal. As they have little time to get there, they must sail surfaced. A dangerous endeavour - especially when HMS Perseverance is on the Hunt.</desc>
+  </programme>
+  <programme start="20231226234043 +1100" stop="20231227003837 +1100" channel="30">
     <title>Das Boot</title>
     <sub-title>U-949 heads toward its destination</sub-title>
     <desc>A, S. U-949 heads toward its destination: Portugal. As they have little time to get there, they must sail surfaced. A dangerous endeavour - especially when HMS Perseverance is on the Hunt.</desc>
@@ -19202,13 +19314,6 @@
     <episode-num system="original-air-date">2023-12-26 05:45:48</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20231226174549 +1100" stop="20231226184047 +1100" channel="31">
-    <title>Vs. Arashi</title>
-    <desc>In this episode, 'Team Second' such as Wagyu, Jungle Pocket, Natsuko Yokosawa, and Nobuhiro Takeda, will participate. Say! JUMP's Yuri Chinen and Yuto Nakajima will appear as Arashi's plus one guest.</desc>
-    <category>Show</category>
-    <episode-num system="original-air-date">2023-12-26 05:45:49</episode-num>
-    <previously-shown />
-  </programme>
   <programme start="20231226184047 +1100" stop="20231226190525 +1100" channel="31">
     <title>Jeopardy!</title>
     <desc>The late Alex Trebek hosts Jeopardy!, where the answers are revealed and the contestants must guess the appropriate questions.</desc>
@@ -19260,6 +19365,11 @@
     <desc>A, V. After a reviled restaurateur's food truck explodes, killing one of his employees, Charlie and Rex find themselves with a few too many suspects.</desc>
   </programme>
   <programme start="20231226235535 +1100" stop="20231227005005 +1100" channel="31">
+    <title>Box 21</title>
+    <sub-title>Consumer Advice</sub-title>
+    <desc>A, S, V. Lidia, a young waitress from Romania, is lured to Sweden and trafficked into forced prostitution. She rebels by stealing from her pimps.</desc>
+  </programme>
+  <programme start="20231226235537 +1100" stop="20231227005005 +1100" channel="31">
     <title>Box 21</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>A, S, V. Lidia, a young waitress from Romania, is lured to Sweden and trafficked into forced prostitution. She rebels by stealing from her pimps.</desc>
@@ -20713,12 +20823,6 @@
     <desc>From: Japan. A lavish, fast-paced action adventure about a young boy caught in a deadly conflict. The most expensive Japanese animation film made at the time, from manga writer-director Katsuhiro Otomo. (Japan)</desc>
     <category>Movies</category>
   </programme>
-  <programme start="20231226171757 +1100" stop="20231226194140 +1100" channel="32">
-    <title>Steamboy</title>
-    <sub-title>From</sub-title>
-    <desc>From: Japan. A lavish, fast-paced action adventure about a young boy caught in a deadly conflict. The most expensive Japanese animation film made at the time, from manga writer-director Katsuhiro Otomo. (Japan)</desc>
-    <category>Movies</category>
-  </programme>
   <programme start="20231226194140 +1100" stop="20231226213128 +1100" channel="32">
     <title>Swallows And Amazons</title>
     <sub-title>Consumer Advice</sub-title>
@@ -20732,6 +20836,12 @@
     <category>Movies</category>
   </programme>
   <programme start="20231226230639 +1100" stop="20231227012956 +1100" channel="32">
+    <title>I'm Not There</title>
+    <sub-title>Consumer Advice</sub-title>
+    <desc>From: Canada. Audio Described (AD). Consumer Advice: L, S. Inspired by the life and songs of Bob Dylan, this film attempts to capture the essence of the elusive musical genius. Stars Heath Ledger, Christian Bale &amp; Cate Blanchett.</desc>
+    <category>Movies</category>
+  </programme>
+  <programme start="20231226230640 +1100" stop="20231227012956 +1100" channel="32">
     <title>I'm Not There</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>From: Canada. Audio Described (AD). Consumer Advice: L, S. Inspired by the life and songs of Bob Dylan, this film attempts to capture the essence of the elusive musical genius. Stars Heath Ledger, Christian Bale &amp; Cate Blanchett.</desc>
@@ -21396,13 +21506,6 @@
     <episode-num system="original-air-date">2023-12-26 05:57:33</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20231226175734 +1100" stop="20231226182948 +1100" channel="33">
-    <title>French Food Safari</title>
-    <desc>Maeve and Guillaume travel to the mountainous region of the Ardeche in France to meet artisan goat cheese maker Jerome Herphelin. Later Maeve learns the art of the cheese plate.</desc>
-    <category>Show</category>
-    <episode-num system="original-air-date">2023-12-26 05:57:34</episode-num>
-    <previously-shown />
-  </programme>
   <programme start="20231226182948 +1100" stop="20231226185945 +1100" channel="33">
     <title>Lidia's Kitchen</title>
     <desc>Although Italians aren't known for brunch, many of their recipes work well with it - polenta with honey and berries, crostata with kale, butternut squash ricotta, and rice balls with sausage ragu.</desc>
@@ -21477,6 +21580,13 @@
     <desc>Hosted by Charles Stiles, this hidden-camera show uses 'mystery diners' to expose what goes on behind the scenes when staff assume no one is watching.</desc>
     <category>Leisure and Hobbies</category>
     <episode-num system="original-air-date">2023-12-26 11:59:51</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20231226235952 +1100" stop="20231227002911 +1100" channel="33">
+    <title>Mystery Diners</title>
+    <desc>Hosted by Charles Stiles, this hidden-camera show uses 'mystery diners' to expose what goes on behind the scenes when staff assume no one is watching.</desc>
+    <category>Leisure and Hobbies</category>
+    <episode-num system="original-air-date">2023-12-26 11:59:52</episode-num>
     <previously-shown />
   </programme>
   <programme start="20231227002911 +1100" stop="20231227005846 +1100" channel="33">
@@ -23805,13 +23915,6 @@
     <episode-num system="original-air-date">2023-12-26 05:33:17</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20231226180020 +1100" stop="20231226180141 +1100" channel="34">
-    <title>Indian Country Today</title>
-    <desc>Native American News</desc>
-    <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2023-12-26 06:00:20</episode-num>
-    <previously-shown />
-  </programme>
   <programme start="20231226180141 +1100" stop="20231226182153 +1100" channel="34">
     <title>Bamay</title>
     <desc>This episode of Bamay showcases beautiful Arrernte and Warlpiri Country - with locations such as Mparntwe Alice Springs and the Ellery Creek Big Hole.</desc>
@@ -23852,6 +23955,11 @@
     <previously-shown />
   </programme>
   <programme start="20231226230139 +1100" stop="20231227000148 +1100" channel="34">
+    <title>White Noise</title>
+    <sub-title>Consumer Advice</sub-title>
+    <desc>L. The documentary, White Noise, questions the absence of Aboriginal and Torres Strait Islander presence in commercial television drama and asks our creatives...why are Australian soap operas so white?</desc>
+  </programme>
+  <programme start="20231227000030 +1100" stop="20231227000148 +1100" channel="34">
     <title>White Noise</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>L. The documentary, White Noise, questions the absence of Aboriginal and Torres Strait Islander presence in commercial television drama and asks our creatives...why are Australian soap operas so white?</desc>
@@ -28465,12 +28573,12 @@
     <title>Lao (RPT)</title>
     <desc>"news", "scheduleText":"Live on SBS 2 every Saturday at 9pm", "route":"/audio/radio-program/lao"}</desc>
   </programme>
-  <programme start="20231226180000 +1100" stop="20231227000000 +1100" channel="39">
-    <title>SBS Chill Nights</title>
-    <desc>"music"}</desc>
-  </programme>
   <programme start="20231227000000 +1100" stop="20231227060000 +1100" channel="39">
     <title>SBS Chill Overnight</title>
+    <desc>"music"}</desc>
+  </programme>
+  <programme start="20231227060000 +1100" stop="20231227070000 +1100" channel="39">
+    <title>Mindfulness Chill</title>
     <desc>"music"}</desc>
   </programme>
   <programme start="20231226115920 +1100" stop="20231226122901 +1100" channel="50">
@@ -37054,39 +37162,39 @@
     <title>H2O X5 Steam Mop</title>
     <desc>Deodorize and sanitize floors, carpets, windows and so much more with this award winning 5-in-1 steam mop.</desc>
   </programme>
-  <programme start="20231226130315 +1100" stop="20231226130715 +1100" channel="60">
+  <programme start="20231226123000 +1100" stop="20231226130715 +1100" channel="60">
     <title>Test Cricket</title>
     <desc>Join us for today¹s lunch break of the test between Australia and Pakistan.</desc>
   </programme>
-  <programme start="20231226130715 +1100" stop="20231226151000 +1100" channel="60">
+  <programme start="20231226130715 +1100" stop="20231226150957 +1100" channel="60">
     <title>Test Cricket</title>
     <desc>Live coverage from the 2nd Test as Australia takes on Pakistan, live and free from the MCG.</desc>
   </programme>
-  <programme start="20231226151000 +1100" stop="20231226153000 +1100" channel="60">
+  <programme start="20231226150957 +1100" stop="20231226151227 +1100" channel="60">
     <title>Test Cricket</title>
     <desc>Join us for today¹s tea break of the test between Australia and Pakistan.</desc>
   </programme>
-  <programme start="20231226151227 +1100" stop="20231226175930 +1100" channel="60">
+  <programme start="20231226151227 +1100" stop="20231226190215 +1100" channel="60">
     <title>Test Cricket</title>
     <desc>Live coverage from the 2nd Test as Australia takes on Pakistan, live and free from the MCG.</desc>
   </programme>
-  <programme start="20231226153000 +1100" stop="20231226175930 +1100" channel="60">
-    <title>Test Cricket</title>
-    <desc>Live coverage from the 2nd Test as Australia takes on Pakistan, live and free from the MCG.</desc>
-  </programme>
-  <programme start="20231226175930 +1100" stop="20231226190000 +1100" channel="60">
+  <programme start="20231226190215 +1100" stop="20231226200004 +1100" channel="60">
     <title>Seven News</title>
     <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
-  </programme>
-  <programme start="20231226190000 +1100" stop="20231226200000 +1100" channel="60">
-    <title>Big Bash League Cricket</title>
-    <desc>The Sixers go head-to-head with the Stars, live and free from the SCG. Start time: 6:05pm AEDT.</desc>
   </programme>
   <programme start="20231226200000 +1100" stop="20231226211000 +1100" channel="60">
     <title>Big Bash League Cricket (cont.)</title>
     <desc>The Sixers go head-to-head with the Stars, live and free from the SCG. Start time: 6:05pm AEDT.</desc>
   </programme>
+  <programme start="20231226200004 +1100" stop="20231226210004 +1100" channel="60">
+    <title>Big Bash League Cricket</title>
+    <desc>The Sixers go head-to-head with the Stars, live and free from the SCG. Start time: 6:05pm AEDT.</desc>
+  </programme>
   <programme start="20231226211000 +1100" stop="20231227003135 +1100" channel="60">
+    <title>Big Bash League Cricket</title>
+    <desc>The Scorchers clash with the Renegades, live and free from Optus Stadium. Start time: 9:15pm AEDT.</desc>
+  </programme>
+  <programme start="20231226212708 +1100" stop="20231227003135 +1100" channel="60">
     <title>Big Bash League Cricket</title>
     <desc>The Scorchers clash with the Renegades, live and free from Optus Stadium. Start time: 9:15pm AEDT.</desc>
   </programme>
@@ -37734,39 +37842,39 @@
     <title>Test Cricket</title>
     <desc>Live coverage from the 3rd Test as Australia takes on Pakistan, live and free from the SCG. Start of play: 10:30am AEDT.</desc>
   </programme>
-  <programme start="20231226130315 +1100" stop="20231226130715 +1100" channel="61">
+  <programme start="20231226123000 +1100" stop="20231226130715 +1100" channel="61">
     <title>Test Cricket</title>
     <desc>Join us for today¹s lunch break of the test between Australia and Pakistan.</desc>
   </programme>
-  <programme start="20231226130715 +1100" stop="20231226151000 +1100" channel="61">
+  <programme start="20231226130715 +1100" stop="20231226150957 +1100" channel="61">
     <title>Test Cricket</title>
     <desc>Live coverage from the 2nd Test as Australia takes on Pakistan, live and free from the MCG.</desc>
   </programme>
-  <programme start="20231226151000 +1100" stop="20231226153000 +1100" channel="61">
+  <programme start="20231226150957 +1100" stop="20231226151227 +1100" channel="61">
     <title>Test Cricket</title>
     <desc>Join us for today¹s tea break of the test between Australia and Pakistan.</desc>
   </programme>
-  <programme start="20231226151227 +1100" stop="20231226175930 +1100" channel="61">
+  <programme start="20231226151227 +1100" stop="20231226190215 +1100" channel="61">
     <title>Test Cricket</title>
     <desc>Live coverage from the 2nd Test as Australia takes on Pakistan, live and free from the MCG.</desc>
   </programme>
-  <programme start="20231226153000 +1100" stop="20231226175930 +1100" channel="61">
-    <title>Test Cricket</title>
-    <desc>Live coverage from the 2nd Test as Australia takes on Pakistan, live and free from the MCG.</desc>
-  </programme>
-  <programme start="20231226175930 +1100" stop="20231226190000 +1100" channel="61">
+  <programme start="20231226190215 +1100" stop="20231226200004 +1100" channel="61">
     <title>Seven News</title>
     <desc>Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.</desc>
-  </programme>
-  <programme start="20231226190000 +1100" stop="20231226200000 +1100" channel="61">
-    <title>Big Bash League Cricket</title>
-    <desc>The Sixers go head-to-head with the Stars, live and free from the SCG. Start time: 6:05pm AEDT.</desc>
   </programme>
   <programme start="20231226200000 +1100" stop="20231226211000 +1100" channel="61">
     <title>Big Bash League Cricket (cont.)</title>
     <desc>The Sixers go head-to-head with the Stars, live and free from the SCG. Start time: 6:05pm AEDT.</desc>
   </programme>
+  <programme start="20231226200004 +1100" stop="20231226210004 +1100" channel="61">
+    <title>Big Bash League Cricket</title>
+    <desc>The Sixers go head-to-head with the Stars, live and free from the SCG. Start time: 6:05pm AEDT.</desc>
+  </programme>
   <programme start="20231226211000 +1100" stop="20231227003135 +1100" channel="61">
+    <title>Big Bash League Cricket</title>
+    <desc>The Scorchers clash with the Renegades, live and free from Optus Stadium. Start time: 9:15pm AEDT.</desc>
+  </programme>
+  <programme start="20231226212708 +1100" stop="20231227003135 +1100" channel="61">
     <title>Big Bash League Cricket</title>
     <desc>The Scorchers clash with the Renegades, live and free from Optus Stadium. Start time: 9:15pm AEDT.</desc>
   </programme>
@@ -38414,15 +38522,15 @@
     <title>Test Cricket</title>
     <desc>Live coverage from the 3rd Test as Australia takes on Pakistan, live and free from the SCG. Start of play: 10:30am AEDT.</desc>
   </programme>
-  <programme start="20231226120149 +1100" stop="20231226130009 +1100" channel="62">
+  <programme start="20231226120145 +1100" stop="20231226130005 +1100" channel="62">
     <title>Better Homes And Gardens</title>
     <desc>Joh, Melissa and Juliet show you how to style a gazebo. Adam builds an industrial-themed island bench. Ed and Jo make nachos dogs. Dr. Harry demonstrates how to train your dog at home.</desc>
   </programme>
-  <programme start="20231226130009 +1100" stop="20231226140234 +1100" channel="62">
+  <programme start="20231226130005 +1100" stop="20231226140230 +1100" channel="62">
     <title>I Escaped To The Country</title>
     <desc>Jonnie Irwin revisits a couple who have found a new home and started a new business in the Norfolk countryside.</desc>
   </programme>
-  <programme start="20231226140234 +1100" stop="20231226143200 +1100" channel="62">
+  <programme start="20231226140230 +1100" stop="20231226143200 +1100" channel="62">
     <title>Creek To Coast</title>
     <desc>From the Capricorn coast to the beaches of Moreton Island, join Scott for an adventure that's got it all - fishing, camping and some culinary delights.</desc>
   </programme>
@@ -38446,10 +38554,6 @@
     <title>I Escaped To The Country</title>
     <desc>Nicki Chapman catches up with two sets of buyers whose rural aspirations were driven by a spirit of adventure, including two surfing enthusiasts who wanted to relocate to the Devon coast.</desc>
   </programme>
-  <programme start="20231226173034 +1100" stop="20231226182905 +1100" channel="62">
-    <title>I Escaped To The Country</title>
-    <desc>Nicki Chapman catches up with two sets of buyers whose rural aspirations were driven by a spirit of adventure, including two surfing enthusiasts who wanted to relocate to the Devon coast.</desc>
-  </programme>
   <programme start="20231226182905 +1100" stop="20231226193000 +1100" channel="62">
     <title>Bargain Hunt</title>
     <desc>Our two teams of Bargain Hunters are scouring the antique shops in the market town of Dorking in Surrey.</desc>
@@ -38467,6 +38571,10 @@
     <desc>When an old woman is found dead in her flat, her live-in carer comes under suspicion - until it is discovered that her granddaughter stands to profit under her will.</desc>
   </programme>
   <programme start="20231226233725 +1100" stop="20231227003415 +1100" channel="62">
+    <title>Bargain Hunt</title>
+    <desc>Our two teams of Bargain Hunters are scouring the antique shops in the market town of Dorking in Surrey.</desc>
+  </programme>
+  <programme start="20231226233729 +1100" stop="20231227003415 +1100" channel="62">
     <title>Bargain Hunt</title>
     <desc>Our two teams of Bargain Hunters are scouring the antique shops in the market town of Dorking in Surrey.</desc>
   </programme>
@@ -39314,19 +39422,19 @@
     <title>NBC today</title>
     <desc>NBC today</desc>
   </programme>
-  <programme start="20231226110001 +1100" stop="20231226113001 +1100" channel="64">
+  <programme start="20231226110000 +1100" stop="20231226113000 +1100" channel="64">
     <title>American Restoration</title>
     <desc>When a client cruises in with a 1962 mini-Corvette to be modeled after his full-size version, Rick looks to turn this tiny ride into racing ragtop.</desc>
   </programme>
-  <programme start="20231226113001 +1100" stop="20231226123004 +1100" channel="64">
+  <programme start="20231226113000 +1100" stop="20231226123000 +1100" channel="64">
     <title>Armchair Experts: NFL Edition</title>
     <desc>The Armchair Experts give their unique take on all the NFL action.</desc>
   </programme>
-  <programme start="20231226123004 +1100" stop="20231226140003 +1100" channel="64">
+  <programme start="20231226123000 +1100" stop="20231226140000 +1100" channel="64">
     <title>2023 Rolex Sydney Hobart Yacht Race</title>
     <desc>Enjoy one of the sporting calendar¹s most thrilling moments as the Sydney Hobart Yacht Race starts on Sydney Harbour, when this year¹s field of entrants will jostle to be first out of the Heads.</desc>
   </programme>
-  <programme start="20231226140003 +1100" stop="20231226150000 +1100" channel="64">
+  <programme start="20231226140000 +1100" stop="20231226150000 +1100" channel="64">
     <title>Swamp People: Serpent Invasion</title>
     <desc>A friendly wager on which team can catch the most snakes. Troy, Bill and Chase return to a honey hole from last season, while Zak and Bruce place their bets on an abandoned Cold War bomb shelter.</desc>
   </programme>
@@ -39350,21 +39458,17 @@
     <title>American Pickers</title>
     <desc>Mike and Frank roll up on a coin-op empire ruled by sisters ready to rumble for every penny.</desc>
   </programme>
-  <programme start="20231226175930 +1100" stop="20231226190010 +1100" channel="64">
+  <programme start="20231226175930 +1100" stop="20231226200011 +1100" channel="64">
     <title>Big Bash League Cricket</title>
     <desc>The Sixers go head-to-head with the Stars, live and free from the SCG. Start time: 6:05pm AEDT.</desc>
-  </programme>
-  <programme start="20231226175940 +1100" stop="20231226190010 +1100" channel="64">
-    <title>Big Bash League Cricket</title>
-    <desc>The Sixers go head-to-head with the Stars, live and free from the SCG. Start time: 6:05pm AEDT.</desc>
-  </programme>
-  <programme start="20231226190010 +1100" stop="20231226193020 +1100" channel="64">
-    <title>Pawn Stars</title>
-    <desc>Get in the ring with the Pawn Stars when the guys check out a painting by Muhammad Ali.</desc>
   </programme>
   <programme start="20231226193020 +1100" stop="20231226203125 +1100" channel="64">
     <title>Outback Truckers</title>
     <desc>Steve Grahame is facing another epic journey on some of the roughest, meanest roads in the world. Meanwhile, heavy haulage expert Dion Fisher has to deliver two giant 40m structures to an ore mine.</desc>
+  </programme>
+  <programme start="20231226200011 +1100" stop="20231226203021 +1100" channel="64">
+    <title>Pawn Stars</title>
+    <desc>Get in the ring with the Pawn Stars when the guys check out a painting by Muhammad Ali.</desc>
   </programme>
   <programme start="20231226203125 +1100" stop="20231226213255 +1100" channel="64">
     <title>Outback Truckers</title>
@@ -39381,6 +39485,10 @@
   <programme start="20231226233205 +1100" stop="20231227000140 +1100" channel="64">
     <title>Jade Fever</title>
     <desc>Tensions boil over between Robin, Josh and Steve about how to mine and when Claudia steps in, things get downright explosive.</desc>
+  </programme>
+  <programme start="20231226233416 +1100" stop="20231227003206 +1100" channel="64">
+    <title>Ice Road Truckers</title>
+    <desc>Rookie TJ Tilcox suffers a debilitating blow. While driving on the ice, he's overcome with abdominal pain. The pain becomes so excruciating that he starts lapsing in and out of consciousness.</desc>
   </programme>
   <programme start="20231227000140 +1100" stop="20231227020535 +1100" channel="64">
     <title>LPL Pro</title>
@@ -41130,19 +41238,19 @@
     <title>Shark Tank</title>
     <desc>Shark Tank is back for a seventh season, with the Sharks continuing the search to invest in the best businesses and products that America has to offer.</desc>
   </programme>
-  <programme start="20231226121259 +1100" stop="20231226124159 +1100" channel="66">
+  <programme start="20231226121255 +1100" stop="20231226124155 +1100" channel="66">
     <title>The Change Labz</title>
     <desc>A unique transformation show that takes Australians of all walks of life through the challenge of a lifetime using Mindset, Nutrition, Training and Accountability to transform their lives for good!</desc>
   </programme>
-  <programme start="20231226124159 +1100" stop="20231226131114 +1100" channel="66">
+  <programme start="20231226124155 +1100" stop="20231226131110 +1100" channel="66">
     <title>The Change Labz</title>
     <desc>A unique transformation show that takes Australians of all walks of life through the challenge of a lifetime using Mindset, Nutrition, Training and Accountability to transform their lives for good!</desc>
   </programme>
-  <programme start="20231226131114 +1100" stop="20231226134139 +1100" channel="66">
+  <programme start="20231226131110 +1100" stop="20231226134135 +1100" channel="66">
     <title>Yummy Mummies</title>
     <desc>It's all fun and cheek when activating the ladies' butt cheeks. Lorinska gets back in touch with her gluteus maximus, when Rachel invites her along to a session with her hot personal trainer.</desc>
   </programme>
-  <programme start="20231226134139 +1100" stop="20231226141330 +1100" channel="66">
+  <programme start="20231226134135 +1100" stop="20231226141330 +1100" channel="66">
     <title>Yummy Mummies</title>
     <desc>Iva goes ahead with her "girls only" Sip and See Princess Party for baby Milana. Iva's full steam ahead with the preparations and nothing can be short of picture-perfect for Milana's big day!</desc>
   </programme>
@@ -41167,10 +41275,6 @@
     <title>Bondi Vet</title>
     <desc>A critically ill swan has been found caught up in a soccer net in a suburban backyard. The bird is emaciated and running out of time. Has Chris arrived in time to save the swan from certain death?</desc>
   </programme>
-  <programme start="20231226173359 +1100" stop="20231226183000 +1100" channel="66">
-    <title>Bondi Vet</title>
-    <desc>A critically ill swan has been found caught up in a soccer net in a suburban backyard. The bird is emaciated and running out of time. Has Chris arrived in time to save the swan from certain death?</desc>
-  </programme>
   <programme start="20231226183000 +1100" stop="20231226193505 +1100" channel="66">
     <title>First Dates Australia</title>
     <desc>More hopeful singles face the most intense date of their lives. A tradie looking for a lady, a pageant king 'Mr. Australiana' and a country bumpkin head to the big smoke looking for love.</desc>
@@ -41184,6 +41288,10 @@
     <desc>Two hard-partying brothers place an online ad to find the perfect dates for their sister's Hawaiian wedding.</desc>
   </programme>
   <programme start="20231226224425 +1100" stop="20231227004300 +1100" channel="66">
+    <title>Ready Or Not</title>
+    <desc>A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.</desc>
+  </programme>
+  <programme start="20231226224429 +1100" stop="20231227004300 +1100" channel="66">
     <title>Ready Or Not</title>
     <desc>A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.</desc>
   </programme>
@@ -47249,6 +47357,38 @@
     <title>Jazz After Hours</title>
     <desc>Accompanying nocturnal and hibernating Jazz Cats around Australia.</desc>
   </programme>
+  <programme start="20240101050000 +1100" stop="20240101060000 +1100" channel="201">
+    <title>Just Jazz</title>
+    <desc>Just Jazz</desc>
+  </programme>
+  <programme start="20240101060000 +1100" stop="20240101090000 +1100" channel="201">
+    <title>Jazz Breakfast</title>
+    <desc>jump into the day with a mix of energizing tunes curated by ABC Jazz.</desc>
+  </programme>
+  <programme start="20240101090000 +1100" stop="20240101120000 +1100" channel="201">
+    <title>Just Jazz</title>
+    <desc>Just Jazz</desc>
+  </programme>
+  <programme start="20240101120000 +1100" stop="20240101150000 +1100" channel="201">
+    <title>Jazz Lunch</title>
+    <desc>Stay on-top of the day with Lunch on ABC Jazz.</desc>
+  </programme>
+  <programme start="20240101150000 +1100" stop="20240101170000 +1100" channel="201">
+    <title>Arvos On Jazz</title>
+    <desc>Keep the day rolling with the best jazz from Australia and abroad, including another Jazz Track from Mal Stanley at 4pm.</desc>
+  </programme>
+  <programme start="20240101170000 +1100" stop="20240101180000 +1100" channel="201">
+    <title>The Happy Hour</title>
+    <desc>Chill out with the best improvised music from Australia and abroad! This curated series from ABC Jazz is the perfect playlist for anyone and everyone in need of a good vibe.</desc>
+  </programme>
+  <programme start="20240101180000 +1100" stop="20240101220000 +1100" channel="201">
+    <title>Jazz At Twilight</title>
+    <desc>Jazz At Twilight is a nightly playlist programmed to accompany your twilight hours.</desc>
+  </programme>
+  <programme start="20240101220000 +1100" stop="20240102050000 +1100" channel="201">
+    <title>Jazz After Hours</title>
+    <desc>Accompanying nocturnal and hibernating Jazz Cats around Australia.</desc>
+  </programme>
   <programme start="20231226120000 +1100" stop="20231226123000 +1100" channel="202">
     <title>Story Time: featuring 'The Bushwalk' and more</title>
     <desc>Stories from your favourites including Kids listen Bookshelf, 5 Minutes More, Grug, Play School, Elmer, Kindergarten of the Air Stories</desc>
@@ -48000,10 +48140,6 @@
   <programme start="20240103083000 +1100" stop="20240103115959 +1100" channel="203">
     <title>Australia's Home of Country Music</title>
     <desc>Australia's Home of Country Music</desc>
-  </programme>
-  <programme start="20231226060000 +1100" stop="20231226220000 +1100" channel="204">
-    <title>Continuous News</title>
-    <desc>Continuous News</desc>
   </programme>
   <programme start="20231226220000 +1100" stop="20231227060000 +1100" channel="204">
     <title>BBC World</title>
@@ -49317,20 +49453,20 @@
     <title>Australia Alyaom</title>
     <desc>"news"}</desc>
   </programme>
-  <programme start="20231226180000 +1100" stop="20231226200000 +1100" channel="305">
-    <title>The Bollywood Session</title>
+  <programme start="20231227000000 +1100" stop="20231227060000 +1100" channel="305">
+    <title>The Early Shift</title>
     <desc>"music"}</desc>
   </programme>
-  <programme start="20231226200000 +1100" stop="20231227000000 +1100" channel="305">
-    <title>PopDesi Nights</title>
-    <desc>"music"}</desc>
-  </programme>
-  <programme start="20231226180000 +1100" stop="20231227000000 +1100" channel="306">
-    <title>SBS Chill Nights</title>
+  <programme start="20231227060000 +1100" stop="20231227080000 +1100" channel="305">
+    <title>The Morning Run</title>
     <desc>"music"}</desc>
   </programme>
   <programme start="20231227000000 +1100" stop="20231227060000 +1100" channel="306">
     <title>SBS Chill Overnight</title>
+    <desc>"music"}</desc>
+  </programme>
+  <programme start="20231227060000 +1100" stop="20231227070000 +1100" channel="306">
+    <title>Mindfulness Chill</title>
     <desc>"music"}</desc>
   </programme>
   <programme start="20231226120000 +1100" stop="20231226160000 +1100" channel="307">
