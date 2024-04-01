@@ -240,25 +240,18 @@
     <display-name>SBS PopAsia</display-name>
     <icon src="https://raw.githubusercontent.com/holloway25/EPG-Ballarat/master/Images/SBS%20PopAsia.png" />
   </channel>
-  <programme start="20240401110544 +1100" stop="20240401120000 +1100" channel="2">
+  <programme start="20240401110544 +1100" stop="20240401120006 +1100" channel="2">
     <title>A Grand Royal Design</title>
     <desc>An exclusive, inside look at a secret project that King Charles has been working on for over a decade - the purchase and ambitious restoration of Dumfries House, a rundown estate in one of the most deprived parts of the UK.</desc>
   </programme>
-  <programme start="20240401120000 +1100" stop="20240401130007 +1100" channel="2">
-    <title>ABC News At Noon</title>
-    <desc>The leading news at lunchtime. Lorna Dunkley brings you today's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
-    <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-01 12:00:00</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20240401120006 +1100" stop="20240401130007 +1100" channel="2">
+  <programme start="20240401120006 +1100" stop="20240401130013 +1100" channel="2">
     <title>ABC News At Noon</title>
     <desc>The leading news at lunchtime. Lorna Dunkley brings you today's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
     <category>News and Current Affairs</category>
     <episode-num system="original-air-date">2024-04-01 12:00:06</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401130007 +1100" stop="20240401143042 +1100" channel="2">
+  <programme start="20240401130013 +1100" stop="20240401143042 +1100" channel="2">
     <title>Vera</title>
     <desc>(AD) DCI Vera Stanhope, usually awkward around children finds a kindred spirit in the boy of a murdered woman. Along the way she realises the key to the case lies deep in the child's memory. (Final)</desc>
   </programme>
@@ -285,6 +278,13 @@
     <desc>The Roadshow team visit the Concorde Hangar at the recently opened Aerospace Bristol museum. They examine an eclectic mix of treasures, from an Elizabethan ring found in a muddy field to a collection of classic guitars.</desc>
     <category>Education and Science</category>
     <episode-num system="original-air-date">2024-04-01 05:30:34</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20240401173040 +1100" stop="20240401183011 +1100" channel="2">
+    <title>Antiques Roadshow</title>
+    <desc>The Roadshow team visit the Concorde Hangar at the recently opened Aerospace Bristol museum. They examine an eclectic mix of treasures, from an Elizabethan ring found in a muddy field to a collection of classic guitars.</desc>
+    <category>Education and Science</category>
+    <episode-num system="original-air-date">2024-04-01 05:30:40</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401183011 +1100" stop="20240401190000 +1100" channel="2">
@@ -1546,43 +1546,43 @@
     <episode-num system="original-air-date">2024-04-09 09:00:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401110153 +1100" stop="20240401121119 +1100" channel="3">
+  <programme start="20240401110153 +1100" stop="20240401121050 +1100" channel="3">
     <title>Mountain Vets</title>
     <desc>Audio Described (AD). The vets care for animals with all kinds of value - from high worth racehorses to pedigree bulls and irreplaceable family pets.</desc>
   </programme>
-  <programme start="20240401121119 +1100" stop="20240401123249 +1100" channel="3">
+  <programme start="20240401121050 +1100" stop="20240401123220 +1100" channel="3">
     <title>BBC News at Ten</title>
     <desc>The latest national and international news stories from the BBC News team from London, UK, in English.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-01 12:11:19</episode-num>
+    <episode-num system="original-air-date">2024-04-01 12:10:50</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401123249 +1100" stop="20240401130049 +1100" channel="3">
+  <programme start="20240401123220 +1100" stop="20240401130020 +1100" channel="3">
     <title>ABC World News Tonight with David Muir</title>
     <desc>America's number one network news bulletin with anchors David Muir weekdays, Whit Johnson Saturday edition and Linsey Davis Sunday edition.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-01 12:32:49</episode-num>
+    <episode-num system="original-air-date">2024-04-01 12:32:20</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401130049 +1100" stop="20240401132819 +1100" channel="3">
+  <programme start="20240401130020 +1100" stop="20240401132750 +1100" channel="3">
     <title>PBS News Weekend</title>
     <desc>Analysis of national and international news, as well as in-depth reporting on topics ranging from education and politics to technology and finance. Hosted by John Yang for PBS in the United States.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-01 01:00:49</episode-num>
+    <episode-num system="original-air-date">2024-04-01 01:00:20</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401132819 +1100" stop="20240401140053 +1100" channel="3">
+  <programme start="20240401132750 +1100" stop="20240401140054 +1100" channel="3">
     <title>Al Jazeera News Second Edition</title>
     <desc>News via satellite from Al Jazeera Satellite Network, Qatar, in English.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-01 01:28:19</episode-num>
+    <episode-num system="original-air-date">2024-04-01 01:27:50</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401140053 +1100" stop="20240401150008 +1100" channel="3">
+  <programme start="20240401140054 +1100" stop="20240401150008 +1100" channel="3">
     <title>Ireland In Music</title>
     <desc>Ireland In Music captures some of the country's top musicians performing at Ireland's most spectacular locations.</desc>
     <category>Arts and Culture</category>
-    <episode-num system="original-air-date">2024-04-01 02:00:53</episode-num>
+    <episode-num system="original-air-date">2024-04-01 02:00:54</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401150008 +1100" stop="20240401153047 +1100" channel="3">
@@ -1636,6 +1636,13 @@
     <desc>Chevy Chase's Vacation Movies, Women's Dress England: 1520-1630, Pokemon Season 1 and the 2021 Formula Season 1.</desc>
     <category>Show</category>
     <episode-num system="original-air-date">2024-04-01 05:59:06</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20240401175907 +1100" stop="20240401183000 +1100" channel="3">
+    <title>Mastermind</title>
+    <desc>Chevy Chase's Vacation Movies, Women's Dress England: 1520-1630, Pokemon Season 1 and the 2021 Formula Season 1.</desc>
+    <category>Show</category>
+    <episode-num system="original-air-date">2024-04-01 05:59:07</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401183000 +1100" stop="20240401193005 +1100" channel="3">
@@ -4376,10 +4383,6 @@
     <title>Deal Or No Deal</title>
     <desc>Join Grant Denyer in Deal or No Deal, the high-pressure, high-stakes game of risk versus reward where contestants must beat the Banker to win a huge cash prize of $100,000.</desc>
   </programme>
-  <programme start="20240401113000 +1100" stop="20240401143000 +1100" channel="6">
-    <title>The Stawell Gift</title>
-    <desc>Tune in to Australia's richest footrace with live coverage of the 2024 Stawell Gift on Easter Monday.</desc>
-  </programme>
   <programme start="20240401113004 +1100" stop="20240401143000 +1100" channel="6">
     <title>The Stawell Gift</title>
     <desc>Tune in to Australia's richest footrace with live coverage of the 2024 Stawell Gift on Easter Monday.</desc>
@@ -4389,6 +4392,10 @@
     <desc>Join us for a preview and all the latest news ahead of today's game.</desc>
   </programme>
   <programme start="20240401150000 +1100" stop="20240401175930 +1100" channel="6">
+    <title>AFL</title>
+    <desc>The Hawks collide with the Cats, live and free from the MCG. Bounce time: 3:20pm AEDT.</desc>
+  </programme>
+  <programme start="20240401150005 +1100" stop="20240401175930 +1100" channel="6">
     <title>AFL</title>
     <desc>The Hawks collide with the Cats, live and free from the MCG. Bounce time: 3:20pm AEDT.</desc>
   </programme>
@@ -5931,25 +5938,18 @@
     <title>Today</title>
     <desc>Join Karl Stefanovic and Sarah Abo along with the TODAY team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle. .</desc>
   </programme>
-  <programme start="20240401110544 +1100" stop="20240401120000 +1100" channel="20">
+  <programme start="20240401110544 +1100" stop="20240401120006 +1100" channel="20">
     <title>A Grand Royal Design</title>
     <desc>An exclusive, inside look at a secret project that King Charles has been working on for over a decade - the purchase and ambitious restoration of Dumfries House, a rundown estate in one of the most deprived parts of the UK.</desc>
   </programme>
-  <programme start="20240401120000 +1100" stop="20240401130007 +1100" channel="20">
-    <title>ABC News At Noon</title>
-    <desc>The leading news at lunchtime. Lorna Dunkley brings you today's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
-    <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-01 12:00:00</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20240401120006 +1100" stop="20240401130007 +1100" channel="20">
+  <programme start="20240401120006 +1100" stop="20240401130013 +1100" channel="20">
     <title>ABC News At Noon</title>
     <desc>The leading news at lunchtime. Lorna Dunkley brings you today's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
     <category>News and Current Affairs</category>
     <episode-num system="original-air-date">2024-04-01 12:00:06</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401130007 +1100" stop="20240401143042 +1100" channel="20">
+  <programme start="20240401130013 +1100" stop="20240401143042 +1100" channel="20">
     <title>Vera</title>
     <desc>(AD) DCI Vera Stanhope, usually awkward around children finds a kindred spirit in the boy of a murdered woman. Along the way she realises the key to the case lies deep in the child's memory. (Final)</desc>
   </programme>
@@ -5976,6 +5976,13 @@
     <desc>The Roadshow team visit the Concorde Hangar at the recently opened Aerospace Bristol museum. They examine an eclectic mix of treasures, from an Elizabethan ring found in a muddy field to a collection of classic guitars.</desc>
     <category>Education and Science</category>
     <episode-num system="original-air-date">2024-04-01 05:30:34</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20240401173040 +1100" stop="20240401183011 +1100" channel="20">
+    <title>Antiques Roadshow</title>
+    <desc>The Roadshow team visit the Concorde Hangar at the recently opened Aerospace Bristol museum. They examine an eclectic mix of treasures, from an Elizabethan ring found in a muddy field to a collection of classic guitars.</desc>
+    <category>Education and Science</category>
+    <episode-num system="original-air-date">2024-04-01 05:30:40</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401183011 +1100" stop="20240401190000 +1100" channel="20">
@@ -7237,25 +7244,18 @@
     <episode-num system="original-air-date">2024-04-09 09:00:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401110544 +1100" stop="20240401120000 +1100" channel="21">
+  <programme start="20240401110544 +1100" stop="20240401120006 +1100" channel="21">
     <title>A Grand Royal Design</title>
     <desc>An exclusive, inside look at a secret project that King Charles has been working on for over a decade - the purchase and ambitious restoration of Dumfries House, a rundown estate in one of the most deprived parts of the UK.</desc>
   </programme>
-  <programme start="20240401120000 +1100" stop="20240401130007 +1100" channel="21">
-    <title>ABC News At Noon</title>
-    <desc>The leading news at lunchtime. Lorna Dunkley brings you today's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
-    <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-01 12:00:00</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20240401120006 +1100" stop="20240401130007 +1100" channel="21">
+  <programme start="20240401120006 +1100" stop="20240401130013 +1100" channel="21">
     <title>ABC News At Noon</title>
     <desc>The leading news at lunchtime. Lorna Dunkley brings you today's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
     <category>News and Current Affairs</category>
     <episode-num system="original-air-date">2024-04-01 12:00:06</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401130007 +1100" stop="20240401143042 +1100" channel="21">
+  <programme start="20240401130013 +1100" stop="20240401143042 +1100" channel="21">
     <title>Vera</title>
     <desc>(AD) DCI Vera Stanhope, usually awkward around children finds a kindred spirit in the boy of a murdered woman. Along the way she realises the key to the case lies deep in the child's memory. (Final)</desc>
   </programme>
@@ -7282,6 +7282,13 @@
     <desc>The Roadshow team visit the Concorde Hangar at the recently opened Aerospace Bristol museum. They examine an eclectic mix of treasures, from an Elizabethan ring found in a muddy field to a collection of classic guitars.</desc>
     <category>Education and Science</category>
     <episode-num system="original-air-date">2024-04-01 05:30:34</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20240401173040 +1100" stop="20240401183011 +1100" channel="21">
+    <title>Antiques Roadshow</title>
+    <desc>The Roadshow team visit the Concorde Hangar at the recently opened Aerospace Bristol museum. They examine an eclectic mix of treasures, from an Elizabethan ring found in a muddy field to a collection of classic guitars.</desc>
+    <category>Education and Science</category>
+    <episode-num system="original-air-date">2024-04-01 05:30:40</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401183011 +1100" stop="20240401190000 +1100" channel="21">
@@ -8557,113 +8564,106 @@
     <episode-num system="original-air-date">2024-04-01 11:11:10</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401112114 +1100" stop="20240401113224 +1100" channel="22">
+  <programme start="20240401112114 +1100" stop="20240401113230 +1100" channel="22">
     <title>The Wonder Gang</title>
     <desc>Whyla is planning an extra spooky party when a question comes in about bats. Can the gang find out how bats fly in the dark before party time?</desc>
     <category>Show</category>
     <episode-num system="original-air-date">2024-04-01 11:21:14</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401113224 +1100" stop="20240401120215 +1100" channel="22">
-    <title>Play School</title>
-    <desc>(AD) Join Justine and Teo as they choose what to wear based on the weather, visit Maurice's Shoe Shop and craft a shoo fly hat using a pizza box and a scarf! Through the windows, we go ice skating.</desc>
-    <category>Show</category>
-    <episode-num system="original-air-date">2024-04-01 11:32:24</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20240401113230 +1100" stop="20240401120215 +1100" channel="22">
+  <programme start="20240401113230 +1100" stop="20240401120221 +1100" channel="22">
     <title>Play School</title>
     <desc>(AD) Join Justine and Teo as they choose what to wear based on the weather, visit Maurice's Shoe Shop and craft a shoo fly hat using a pizza box and a scarf! Through the windows, we go ice skating.</desc>
     <category>Show</category>
     <episode-num system="original-air-date">2024-04-01 11:32:30</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401120215 +1100" stop="20240401120735 +1100" channel="22">
+  <programme start="20240401120221 +1100" stop="20240401120741 +1100" channel="22">
     <title>Tik Tak</title>
     <desc>Explore an abstract mosaic, a winter wonderland in micro macro style and watch as Book Boy makes and uses a vacuum cleaner by doing magic.</desc>
     <category>Childrens Programmes</category>
-    <episode-num system="original-air-date">2024-04-01 12:02:15</episode-num>
+    <episode-num system="original-air-date">2024-04-01 12:02:21</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401120735 +1100" stop="20240401121401 +1100" channel="22">
+  <programme start="20240401120741 +1100" stop="20240401121407 +1100" channel="22">
     <title>Buddi</title>
     <desc>(AD) When the Buddis are out for a walk by the stream, they discover a big hollow log.</desc>
     <category>Childrens Programmes</category>
-    <episode-num system="original-air-date">2024-04-01 12:07:35</episode-num>
+    <episode-num system="original-air-date">2024-04-01 12:07:41</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401121401 +1100" stop="20240401122006 +1100" channel="22">
+  <programme start="20240401121407 +1100" stop="20240401122012 +1100" channel="22">
     <title>Pins And Nettie</title>
     <desc>Nettie is playing with one of her shiny treasures - a little ball of tin foil! Pins sees what fun Netties is having and wants to join in.</desc>
     <category>Childrens Programmes</category>
-    <episode-num system="original-air-date">2024-04-01 12:14:01</episode-num>
+    <episode-num system="original-air-date">2024-04-01 12:14:07</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401122006 +1100" stop="20240401124509 +1100" channel="22">
+  <programme start="20240401122012 +1100" stop="20240401124515 +1100" channel="22">
     <title>Moon and Me</title>
     <desc>(AD) Colly Wobble's friends give her special things to pack in her toy suitcase. Colly Wobble takes her suitcase on a journey in storyland, and each time she opens the suitcase, the special things make her think of her friends.</desc>
     <category>Childrens Programmes</category>
-    <episode-num system="original-air-date">2024-04-01 12:20:06</episode-num>
+    <episode-num system="original-air-date">2024-04-01 12:20:12</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401124509 +1100" stop="20240401130011 +1100" channel="22">
+  <programme start="20240401124515 +1100" stop="20240401130017 +1100" channel="22">
     <title>Teletubbies</title>
     <desc>Tinky Winky, Dipsy, Laa-Laa and Po enjoy a game of musical statues. It takes the Teletubbies a few turns to work out what to do when the music stops; they must stand very still.</desc>
     <category>Childrens Programmes</category>
-    <episode-num system="original-air-date">2024-04-01 12:45:09</episode-num>
+    <episode-num system="original-air-date">2024-04-01 12:45:15</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401130011 +1100" stop="20240401130541 +1100" channel="22">
+  <programme start="20240401130017 +1100" stop="20240401130547 +1100" channel="22">
     <title>Peppa Pig</title>
     <desc>Pedro Pony spends the day just like a real cowboy would have in the Wild West: setting up camp in the garden and sharing stories with his friends.</desc>
     <category>Childrens Programmes</category>
-    <episode-num system="original-air-date">2024-04-01 01:00:11</episode-num>
+    <episode-num system="original-air-date">2024-04-01 01:00:17</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401130541 +1100" stop="20240401131056 +1100" channel="22">
+  <programme start="20240401130547 +1100" stop="20240401131102 +1100" channel="22">
     <title>Peppa Pig</title>
     <desc>Grandpa Pig brings some seeds for Peppa and George to grow a garden. Daddy Pig makes himself useful by being the scarecrow.</desc>
     <category>Childrens Programmes</category>
-    <episode-num system="original-air-date">2024-04-01 01:05:41</episode-num>
+    <episode-num system="original-air-date">2024-04-01 01:05:47</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401131056 +1100" stop="20240401131831 +1100" channel="22">
+  <programme start="20240401131102 +1100" stop="20240401131837 +1100" channel="22">
     <title>Hey Duggee</title>
     <desc>John the Crab needs help planning a surprise party for Nigel. But it will only work if everyone is on time with the preparations.</desc>
     <category>Childrens Programmes</category>
-    <episode-num system="original-air-date">2024-04-01 01:10:56</episode-num>
+    <episode-num system="original-air-date">2024-04-01 01:11:02</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401131831 +1100" stop="20240401133001 +1100" channel="22">
+  <programme start="20240401131837 +1100" stop="20240401133007 +1100" channel="22">
     <title>Octonauts</title>
     <desc>(AD) The Octonauts recruit a shape-shifting mimic octopus to help them recover an important vial of medicinal algae from a moray eel's lair.</desc>
     <category>Childrens Programmes</category>
-    <episode-num system="original-air-date">2024-04-01 01:18:31</episode-num>
+    <episode-num system="original-air-date">2024-04-01 01:18:37</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401133001 +1100" stop="20240401134300 +1100" channel="22">
+  <programme start="20240401133007 +1100" stop="20240401134306 +1100" channel="22">
     <title>PJ Masks</title>
     <desc>When the Wolfies start their own band their sonic howls create new levels of destruction.</desc>
     <category>Childrens Programmes</category>
-    <episode-num system="original-air-date">2024-04-01 01:30:01</episode-num>
+    <episode-num system="original-air-date">2024-04-01 01:30:07</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401134300 +1100" stop="20240401135500 +1100" channel="22">
+  <programme start="20240401134306 +1100" stop="20240401135506 +1100" channel="22">
     <title>Ben And Holly's Little Kingdom</title>
     <desc>Mr Elf has built a new boat to replace the one Big Bad Barry ate. So Mr Elf is very nervous when the king commands him to take them all on a cruise to a tropical paradise. Will Big Bad Barry strike again?</desc>
     <category>Childrens Programmes</category>
-    <episode-num system="original-air-date">2024-04-01 01:43:00</episode-num>
+    <episode-num system="original-air-date">2024-04-01 01:43:06</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401135500 +1100" stop="20240401140630 +1100" channel="22">
+  <programme start="20240401135506 +1100" stop="20240401140636 +1100" channel="22">
     <title>Kangaroo Beach</title>
     <desc>When Reef and Roadie are rejected from the cadets' safety film, they disrupt the production with a set of pranks, but end up learning a valuable lesson about pretending to be in trouble when you're not.</desc>
   </programme>
-  <programme start="20240401140630 +1100" stop="20240401141851 +1100" channel="22">
+  <programme start="20240401140636 +1100" stop="20240401141851 +1100" channel="22">
     <title>Peg + Cat</title>
     <desc>In an outer space adventure, intergalactic superheroes Peg and Cat are besieged by swiftly multiplying Fuzzballs.</desc>
     <category>Childrens Programmes</category>
-    <episode-num system="original-air-date">2024-04-01 02:06:30</episode-num>
+    <episode-num system="original-air-date">2024-04-01 02:06:36</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401141851 +1100" stop="20240401143000 +1100" channel="22">
@@ -8778,6 +8778,13 @@
     <desc>(AD) There is to be a Royal Visit to Pontypandy and everyone is getting the Quayside ready for the Prince and Princess. Sam and Elvis have been put in charge of putting out the red carpet, until Elvis rolls it into the sea...</desc>
     <category>Childrens Programmes</category>
     <episode-num system="original-air-date">2024-04-01 05:55:10</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20240401175516 +1100" stop="20240401180612 +1100" channel="22">
+    <title>Fireman Sam</title>
+    <desc>(AD) There is to be a Royal Visit to Pontypandy and everyone is getting the Quayside ready for the Prince and Princess. Sam and Elvis have been put in charge of putting out the red carpet, until Elvis rolls it into the sea...</desc>
+    <category>Childrens Programmes</category>
+    <episode-num system="original-air-date">2024-04-01 05:55:16</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401180612 +1100" stop="20240401182216 +1100" channel="22">
@@ -12892,41 +12899,41 @@
     <title>Transformers: EarthSpark</title>
     <desc>(AD) Twitch and Thrash wonder if they're the only two Terrans in the universe. With the help of their family, they return to the cave of their origins to discover more than just the Emberstone.</desc>
   </programme>
-  <programme start="20240401113548 +1100" stop="20240401120330 +1100" channel="23">
+  <programme start="20240401113548 +1100" stop="20240401120336 +1100" channel="23">
     <title>Transformers: EarthSpark</title>
     <desc>(AD) With the birth of three new Terrans, the Malto family has grown. But will these new allies be enough to rescue Dot and Megatron from the clutches of Mandroid?</desc>
   </programme>
-  <programme start="20240401120330 +1100" stop="20240401122730 +1100" channel="23">
+  <programme start="20240401120336 +1100" stop="20240401122736 +1100" channel="23">
     <title>Dwight In Shining Armour</title>
     <desc>Dwight and Gretta piece together what happened to the brunch. Baldric's memories of the Scrying Pool are taken.</desc>
   </programme>
-  <programme start="20240401122730 +1100" stop="20240401124130 +1100" channel="23">
+  <programme start="20240401122736 +1100" stop="20240401124136 +1100" channel="23">
     <title>Operation Ouch!: Do Try This At Hom</title>
     <desc>Dr Chris and Dr Xand have brought their lab into Xand's kitchen! In today's episode, the doctors look at hearing, and show you an experiment to see a sound wave in action!</desc>
     <category>Education and Science</category>
-    <episode-num system="original-air-date">2024-04-01 12:27:30</episode-num>
+    <episode-num system="original-air-date">2024-04-01 12:27:36</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401124130 +1100" stop="20240401125001 +1100" channel="23">
+  <programme start="20240401124136 +1100" stop="20240401125007 +1100" channel="23">
     <title>Draw With Will</title>
     <desc>Will creates three unique Aliens using simple shapes we can all draw, using the curves we've already learned.</desc>
     <category>Show</category>
-    <episode-num system="original-air-date">2024-04-01 12:41:30</episode-num>
+    <episode-num system="original-air-date">2024-04-01 12:41:36</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401125001 +1100" stop="20240401131259 +1100" channel="23">
+  <programme start="20240401125007 +1100" stop="20240401131305 +1100" channel="23">
     <title>Holly Hobbie</title>
     <desc>Holly, Amy and Piper discover that the local pickle factory is polluting the nearby creek.</desc>
   </programme>
-  <programme start="20240401131259 +1100" stop="20240401133525 +1100" channel="23">
+  <programme start="20240401131305 +1100" stop="20240401133531 +1100" channel="23">
     <title>The Next Step</title>
     <desc>With the title hanging in the balance, Piper has doubts about her ability to perform under pressure. The competition yields unexpected results, and Lily stumbles upon a scene that could change everything.</desc>
   </programme>
-  <programme start="20240401133525 +1100" stop="20240401135811 +1100" channel="23">
+  <programme start="20240401133531 +1100" stop="20240401135817 +1100" channel="23">
     <title>The Next Step</title>
     <desc>TNS and Acronation develop new routines for the tiebreaker. While rehearsing, Acronation encounters a dilemma that puts their chances in jeopardy. The TNS team are faced with questions about what the future holds.</desc>
   </programme>
-  <programme start="20240401135811 +1100" stop="20240401142734 +1100" channel="23">
+  <programme start="20240401135817 +1100" stop="20240401142734 +1100" channel="23">
     <title>Horrible Histories</title>
     <desc>We meet a charming Stuart highwayman; the Captain of the Titanic holds the world's worst safety briefing; famous writer Mary Shelley pitches the movie of her life; and those violent Vikings show their softer side in a song.</desc>
   </programme>
@@ -12993,6 +13000,10 @@
     <desc>The Bad Guy Busters must reunite to save Izzy after Harold uncovers her previous identity and leads a super villain from her past right to her.</desc>
   </programme>
   <programme start="20240401180000 +1100" stop="20240401182500 +1100" channel="23">
+    <title>Hank Zipzer</title>
+    <desc>Hank is supposed to start the new school year with a new form tutor, but instead lands straight back in Miss Adolf's class. So he sets out to change the timetable...</desc>
+  </programme>
+  <programme start="20240401180006 +1100" stop="20240401182500 +1100" channel="23">
     <title>Hank Zipzer</title>
     <desc>Hank is supposed to start the new school year with a new form tutor, but instead lands straight back in Miss Adolf's class. So he sets out to change the timetable...</desc>
   </programme>
@@ -15002,25 +15013,25 @@
     <title>Miraculous: Tales Of Ladybug And Ca</title>
     <desc>(AD) What if Ladybug's worst nightmare came true? What if Monarch showed up at Marinette Dupain-Cheng's home...would she be able to escape him?</desc>
   </programme>
-  <programme start="20240401113006 +1100" stop="20240401120000 +1100" channel="24">
+  <programme start="20240401113006 +1100" stop="20240401120006 +1100" channel="24">
     <title>ABC News Regional</title>
     <desc>Alice Springs at breaking point as an emergency response to crime triggers a youth curfew at night, remote residents fear being cut off as 3G networks are switched off, plus transforming old coal mines for regional tourism.</desc>
     <category>News and Current Affairs</category>
     <episode-num system="original-air-date">2024-04-01 11:30:06</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401120006 +1100" stop="20240401130000 +1100" channel="24">
+  <programme start="20240401120006 +1100" stop="20240401130006 +1100" channel="24">
     <title>ABC News At Noon</title>
     <desc>The leading news at lunchtime. Lorna Dunkley brings you today's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
     <category>News and Current Affairs</category>
     <episode-num system="original-air-date">2024-04-01 12:00:06</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401130000 +1100" stop="20240401143000 +1100" channel="24">
+  <programme start="20240401130006 +1100" stop="20240401143000 +1100" channel="24">
     <title>ABC News Day</title>
     <desc>For the latest news as it happens ABC News is the home of breaking news, compelling stories and Australia's best investigative journalism. Lorna Dunkley brings you news, interviews and analysis on issues that matter to you.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-01 01:00:00</episode-num>
+    <episode-num system="original-air-date">2024-04-01 01:00:06</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401143000 +1100" stop="20240401150000 +1100" channel="24">
@@ -15063,6 +15074,13 @@
     <desc>When you need to know what's happening in your community, across Australia or around the world, turn to ABC News for coverage you can trust. Joe O'Brien brings you the day's top stories and latest news at 6pm AEDT.</desc>
     <category>News and Current Affairs</category>
     <episode-num system="original-air-date">2024-04-01 06:00:00</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20240401180006 +1100" stop="20240401190000 +1100" channel="24">
+    <title>ABC News Hour</title>
+    <desc>When you need to know what's happening in your community, across Australia or around the world, turn to ABC News for coverage you can trust. Joe O'Brien brings you the day's top stories and latest news at 6pm AEDT.</desc>
+    <category>News and Current Affairs</category>
+    <episode-num system="original-air-date">2024-04-01 06:00:06</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401190000 +1100" stop="20240401193110 +1100" channel="24">
@@ -17931,10 +17949,6 @@
     <title>The Arts Hour (BBC)</title>
     <desc>The best global arts coverage from across the BBC.</desc>
   </programme>
-  <programme start="20240401100000 +1100" stop="20240401130000 +1100" channel="27">
-    <title>Mornings with Russell Torrance</title>
-    <desc>Spend your morning with great music, including the latest news from the classical world. And discover a new theme each week with the Mornings Playlist.</desc>
-  </programme>
   <programme start="20240401130000 +1100" stop="20240401150000 +1100" channel="27">
     <title>Lunchtime Concert with Stephanie Kabanyana Kanyandekwe</title>
     <desc>Take a trip to the world's great concert halls, with the latest live performances.</desc>
@@ -18158,10 +18172,6 @@
   <programme start="20240409060000 +1000" stop="20240409100000 +1000" channel="27">
     <title>Classic Breakfast with Megan Burslem</title>
     <desc>Start your day with an energising selection of the best in classical music.</desc>
-  </programme>
-  <programme start="20240401100000 +1100" stop="20240401140000 +1100" channel="28">
-    <title>Weekend Lunch with Frankie Rowsthorn</title>
-    <desc>New music and triple j classics to bounce you through your weekend with Frankie Rowsthorn.</desc>
   </programme>
   <programme start="20240401140000 +1100" stop="20240401180000 +1100" channel="28">
     <title>Weekend Arvos with Tom and Pip</title>
@@ -18451,10 +18461,6 @@
     <title>Mornings with Lucy Smith</title>
     <desc>New music and your all-time faves courtesy of Lucy Smith on Mornings.</desc>
   </programme>
-  <programme start="20240401000000 +1100" stop="20240401173000 +1100" channel="29">
-    <title>triple j Unearthed</title>
-    <desc>triple j Unearthed</desc>
-  </programme>
   <programme start="20240401173000 +1100" stop="20240401180000 +1100" channel="29">
     <title>Tops</title>
     <desc>The latest and greatest uploads to triplejunearthed.com - the Unearthed crew play you the best new sounds before anybody else!</desc>
@@ -18539,43 +18545,43 @@
     <title>triple j Unearthed</title>
     <desc>triple j Unearthed</desc>
   </programme>
-  <programme start="20240401110153 +1100" stop="20240401121119 +1100" channel="30">
+  <programme start="20240401110153 +1100" stop="20240401121050 +1100" channel="30">
     <title>Mountain Vets</title>
     <desc>Audio Described (AD). The vets care for animals with all kinds of value - from high worth racehorses to pedigree bulls and irreplaceable family pets.</desc>
   </programme>
-  <programme start="20240401121119 +1100" stop="20240401123249 +1100" channel="30">
+  <programme start="20240401121050 +1100" stop="20240401123220 +1100" channel="30">
     <title>BBC News at Ten</title>
     <desc>The latest national and international news stories from the BBC News team from London, UK, in English.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-01 12:11:19</episode-num>
+    <episode-num system="original-air-date">2024-04-01 12:10:50</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401123249 +1100" stop="20240401130049 +1100" channel="30">
+  <programme start="20240401123220 +1100" stop="20240401130020 +1100" channel="30">
     <title>ABC World News Tonight with David Muir</title>
     <desc>America's number one network news bulletin with anchors David Muir weekdays, Whit Johnson Saturday edition and Linsey Davis Sunday edition.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-01 12:32:49</episode-num>
+    <episode-num system="original-air-date">2024-04-01 12:32:20</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401130049 +1100" stop="20240401132819 +1100" channel="30">
+  <programme start="20240401130020 +1100" stop="20240401132750 +1100" channel="30">
     <title>PBS News Weekend</title>
     <desc>Analysis of national and international news, as well as in-depth reporting on topics ranging from education and politics to technology and finance. Hosted by John Yang for PBS in the United States.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-01 01:00:49</episode-num>
+    <episode-num system="original-air-date">2024-04-01 01:00:20</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401132819 +1100" stop="20240401140053 +1100" channel="30">
+  <programme start="20240401132750 +1100" stop="20240401140054 +1100" channel="30">
     <title>Al Jazeera News Second Edition</title>
     <desc>News via satellite from Al Jazeera Satellite Network, Qatar, in English.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-01 01:28:19</episode-num>
+    <episode-num system="original-air-date">2024-04-01 01:27:50</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401140053 +1100" stop="20240401150008 +1100" channel="30">
+  <programme start="20240401140054 +1100" stop="20240401150008 +1100" channel="30">
     <title>Ireland In Music</title>
     <desc>Ireland In Music captures some of the country's top musicians performing at Ireland's most spectacular locations.</desc>
     <category>Arts and Culture</category>
-    <episode-num system="original-air-date">2024-04-01 02:00:53</episode-num>
+    <episode-num system="original-air-date">2024-04-01 02:00:54</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401150008 +1100" stop="20240401153047 +1100" channel="30">
@@ -18629,6 +18635,13 @@
     <desc>Chevy Chase's Vacation Movies, Women's Dress England: 1520-1630, Pokemon Season 1 and the 2021 Formula Season 1.</desc>
     <category>Show</category>
     <episode-num system="original-air-date">2024-04-01 05:59:06</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20240401175907 +1100" stop="20240401183000 +1100" channel="30">
+    <title>Mastermind</title>
+    <desc>Chevy Chase's Vacation Movies, Women's Dress England: 1520-1630, Pokemon Season 1 and the 2021 Formula Season 1.</desc>
+    <category>Show</category>
+    <episode-num system="original-air-date">2024-04-01 05:59:07</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401183000 +1100" stop="20240401193005 +1100" channel="30">
@@ -20297,7 +20310,7 @@
     <sub-title>Consumer Advice</sub-title>
     <desc>A. Paul plays midwife as Battersea Windsor wait for a rare birth. Paul helps clinic staff with the painstaking job of clipping a german shepherd. And a one-eyed doberman is looking for a home.</desc>
   </programme>
-  <programme start="20240401110015 +1100" stop="20240401113010 +1100" channel="31">
+  <programme start="20240401110015 +1100" stop="20240401113011 +1100" channel="31">
     <title>The Movie Show</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>A. Enjoy these classic episodes of The Movie Show with living legends, Margaret Pomeranz and David Stratton, as they review the latest crop of movies and give us their rating out of 5-stars.</desc>
@@ -20305,43 +20318,36 @@
     <episode-num system="original-air-date">2024-04-01 11:00:15</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401113010 +1100" stop="20240401120049 +1100" channel="31">
+  <programme start="20240401113011 +1100" stop="20240401120030 +1100" channel="31">
     <title>The Movie Show</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>A. Enjoy these classic episodes of The Movie Show with living legends, Margaret Pomeranz and David Stratton, as they review the latest crop of movies and give us their rating out of 5-stars.</desc>
     <category>Show</category>
-    <episode-num system="original-air-date">2024-04-01 11:30:10</episode-num>
+    <episode-num system="original-air-date">2024-04-01 11:30:11</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401120030 +1100" stop="20240401122554 +1100" channel="31">
+  <programme start="20240401120030 +1100" stop="20240401122555 +1100" channel="31">
     <title>TVNZ 1News At Midday</title>
     <desc>Stay ahead of the latest news, both nationwide and internationally, from the 1News team at TVNZ.</desc>
     <category>News and Current Affairs</category>
     <episode-num system="original-air-date">2024-04-01 12:00:30</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401120049 +1100" stop="20240401122554 +1100" channel="31">
-    <title>TVNZ 1News At Midday</title>
-    <desc>Stay ahead of the latest news, both nationwide and internationally, from the 1News team at TVNZ.</desc>
-    <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-01 12:00:49</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20240401122554 +1100" stop="20240401131205 +1100" channel="31">
+  <programme start="20240401122555 +1100" stop="20240401131206 +1100" channel="31">
     <title>Beyond Oak Island</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>V. After personally investing in a treasure hunt off the coast of Florida, Marty Lagina and Craig Tester are thrilled when their search uncovers rare and historical artifacts.</desc>
   </programme>
-  <programme start="20240401131205 +1100" stop="20240401135911 +1100" channel="31">
+  <programme start="20240401131206 +1100" stop="20240401135920 +1100" channel="31">
     <title>Beyond Oak Island</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>A. The Laginas are astounded to learn that on a trip to Arizona, Gary Drayton may have gotten to the bottom of one the biggest treasure mysteries of all time.</desc>
   </programme>
-  <programme start="20240401135911 +1100" stop="20240401145824 +1100" channel="31">
+  <programme start="20240401135920 +1100" stop="20240401145824 +1100" channel="31">
     <title>Insight</title>
     <desc>Guilt. Good or bad? It can drive people to make amends, or spend a life longing for redemption.</desc>
     <category>Social and Political</category>
-    <episode-num system="original-air-date">2024-04-01 01:59:11</episode-num>
+    <episode-num system="original-air-date">2024-04-01 01:59:20</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401145824 +1100" stop="20240401152139 +1100" channel="31">
@@ -20377,6 +20383,11 @@
     <desc>On the North Adelaide plains, Pria visits the Grilli family who harvest olives from trees planted over 100 years ago. Grant heads to Tasmania, where winemaker Andrew Hood's passion is iced Riesling.</desc>
   </programme>
   <programme start="20240401175001 +1100" stop="20240401184124 +1100" channel="31">
+    <title>The UnXplained With William Shatner</title>
+    <sub-title>Consumer Advice</sub-title>
+    <desc>A, V. Throughout history, many have sought the Ark of the Covenant. But was the Ark actually real? Or was it merely a legend? Recently, experts may have uncovered a clue - the stone that the Ark rested on.</desc>
+  </programme>
+  <programme start="20240401175002 +1100" stop="20240401184124 +1100" channel="31">
     <title>The UnXplained With William Shatner</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>A, V. Throughout history, many have sought the Ark of the Covenant. But was the Ark actually real? Or was it merely a legend? Recently, experts may have uncovered a clue - the stone that the Ark rested on.</desc>
@@ -21987,19 +21998,13 @@
     <episode-num system="original-air-date">2024-04-09 09:30:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401111647 +1100" stop="20240401130523 +1100" channel="32">
+  <programme start="20240401111648 +1100" stop="20240401130514 +1100" channel="32">
     <title>The Father</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>From: The United Kingdom. Audio Described (AD). Consumer Advice: A, L, V. A man refuses all assistance from his daughter as he ages. When he tries to make sense of his changing circumstances, he begins to doubt his loved ones. Stars Anthony Hopkins and Olivia Coleman.</desc>
     <category>Movies</category>
   </programme>
-  <programme start="20240401111648 +1100" stop="20240401130523 +1100" channel="32">
-    <title>The Father</title>
-    <sub-title>Consumer Advice</sub-title>
-    <desc>From: The United Kingdom. Audio Described (AD). Consumer Advice: A, L, V. A man refuses all assistance from his daughter as he ages. When he tries to make sense of his changing circumstances, he begins to doubt his loved ones. Stars Anthony Hopkins and Olivia Coleman.</desc>
-    <category>Movies</category>
-  </programme>
-  <programme start="20240401130523 +1100" stop="20240401145559 +1100" channel="32">
+  <programme start="20240401130514 +1100" stop="20240401145559 +1100" channel="32">
     <title>The Lake House</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>From: The USA. Audio Described (AD). Consumer Advice: A. A lonely doctor and a frustrated architect begin exchanging letters, then discover that they are living two years apart.</desc>
@@ -22012,6 +22017,12 @@
     <category>Movies</category>
   </programme>
   <programme start="20240401163206 +1100" stop="20240401182014 +1100" channel="32">
+    <title>Emu Runner</title>
+    <sub-title>Consumer Advice</sub-title>
+    <desc>From: Australia. Audio Described (AD). Consumer Advice: A, D, L, V. Gem, a spirited young girl, deals with the grief of her mother's death by forging a bond with a wild emu. This spiritual dreaming is a bond she will do anything to keep. (Rhae-Kye Waites, Wayne Blair)</desc>
+    <category>Movies</category>
+  </programme>
+  <programme start="20240401163207 +1100" stop="20240401182014 +1100" channel="32">
     <title>Emu Runner</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>From: Australia. Audio Described (AD). Consumer Advice: A, D, L, V. Gem, a spirited young girl, deals with the grief of her mother's death by forging a bond with a wild emu. This spiritual dreaming is a bond she will do anything to keep. (Rhae-Kye Waites, Wayne Blair)</desc>
@@ -22601,15 +22612,7 @@
     <desc>From: The United Kingdom. Oscar Wilde's hilarious story of two young women who think themselves engaged to the same non-existent man - Ernest. The stellar cast includes Michael Redgrave, Dame Edith Evans and Joan Greenwood.</desc>
     <category>Movies</category>
   </programme>
-  <programme start="20240401113447 +1100" stop="20240401123139 +1100" channel="33">
-    <title>Remarkable Places To Eat</title>
-    <sub-title>Consumer Advice</sub-title>
-    <desc>A. Fred travels to South Devon with chef and restauranteur Angela Hartnett. From Angela's all-time favourite restaurant in Dartmouth to an incredible floating cafe on the River Exe.</desc>
-    <category>Leisure and Hobbies</category>
-    <episode-num system="original-air-date">2024-04-01 11:34:47</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20240401113448 +1100" stop="20240401123139 +1100" channel="33">
+  <programme start="20240401113448 +1100" stop="20240401123150 +1100" channel="33">
     <title>Remarkable Places To Eat</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>A. Fred travels to South Devon with chef and restauranteur Angela Hartnett. From Angela's all-time favourite restaurant in Dartmouth to an incredible floating cafe on the River Exe.</desc>
@@ -22617,25 +22620,25 @@
     <episode-num system="original-air-date">2024-04-01 11:34:48</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401123139 +1100" stop="20240401133310 +1100" channel="33">
+  <programme start="20240401123150 +1100" stop="20240401133311 +1100" channel="33">
     <title>Masters Of Savours</title>
     <desc>The Mayas and the Aztecs were the first to treasure the cocoa bean, which they believed had divine powers. Since then, chocolate has become a universal product and a source of gustative pleasure.</desc>
     <category>Leisure and Hobbies</category>
-    <episode-num system="original-air-date">2024-04-01 12:31:39</episode-num>
+    <episode-num system="original-air-date">2024-04-01 12:31:50</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401133310 +1100" stop="20240401140030 +1100" channel="33">
+  <programme start="20240401133311 +1100" stop="20240401140031 +1100" channel="33">
     <title>David Rocco's Dolce Homemade</title>
     <desc>Meet guest Banchi Kinde, she was born and raised in Ethiopia. When traveling to Canada, she realized that not many people were familiar with Ethiopian cuisine she decided to start her restaurant.</desc>
     <category>Leisure and Hobbies</category>
-    <episode-num system="original-air-date">2024-04-01 01:33:10</episode-num>
+    <episode-num system="original-air-date">2024-04-01 01:33:11</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401140030 +1100" stop="20240401142948 +1100" channel="33">
+  <programme start="20240401140031 +1100" stop="20240401142948 +1100" channel="33">
     <title>Pati's Mexican Table</title>
     <desc>Pati spends the day with her youngest son, Juju. Juju is known for his obsession with chocolate. In this episode, they spend the day in the kitchen coming up with three delicious chocolate recipes.</desc>
     <category>Leisure and Hobbies</category>
-    <episode-num system="original-air-date">2024-04-01 02:00:30</episode-num>
+    <episode-num system="original-air-date">2024-04-01 02:00:31</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401142948 +1100" stop="20240401150052 +1100" channel="33">
@@ -22685,6 +22688,13 @@
     <desc>Silvia shares a wonderful cooking experience with her children in the kitchen. She prepares pizza fritta, risi e bisi soup, and yoghurt and olive oil cake with mascarpone and roasted berries.</desc>
     <category>Leisure and Hobbies</category>
     <episode-num system="original-air-date">2024-04-01 05:28:42</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20240401172843 +1100" stop="20240401180059 +1100" channel="33">
+    <title>Cook Like An Italian With Silvia Colloca</title>
+    <desc>Silvia shares a wonderful cooking experience with her children in the kitchen. She prepares pizza fritta, risi e bisi soup, and yoghurt and olive oil cake with mascarpone and roasted berries.</desc>
+    <category>Leisure and Hobbies</category>
+    <episode-num system="original-air-date">2024-04-01 05:28:43</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401180059 +1100" stop="20240401183145 +1100" channel="33">
@@ -24984,30 +24994,25 @@
     <episode-num system="original-air-date">2024-04-09 09:30:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401110052 +1100" stop="20240401120002 +1100" channel="34">
+  <programme start="20240401110052 +1100" stop="20240401120003 +1100" channel="34">
     <title>The American Buffalo</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>A. By the 1880s the buffalo had been driven to the brink of extinction by newcomers to the continent. Ken Burns recounts the collision, and tragic consequences, of two opposing views of the natural world</desc>
   </programme>
-  <programme start="20240401120002 +1100" stop="20240401133314 +1100" channel="34">
+  <programme start="20240401120003 +1100" stop="20240401133315 +1100" channel="34">
     <title>Black Gold</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>A, L. Tthe story of the cover-up of the century - of the boss atop a trillion-dollar industry who discovered a shocking truth 40 years ago and created black ops conspiracy to hide the evidence.</desc>
   </programme>
-  <programme start="20240401120003 +1100" stop="20240401133314 +1100" channel="34">
-    <title>Black Gold</title>
-    <sub-title>Consumer Advice</sub-title>
-    <desc>A, L. Tthe story of the cover-up of the century - of the boss atop a trillion-dollar industry who discovered a shocking truth 40 years ago and created black ops conspiracy to hide the evidence.</desc>
-  </programme>
-  <programme start="20240401133314 +1100" stop="20240401140122 +1100" channel="34">
+  <programme start="20240401133315 +1100" stop="20240401140123 +1100" channel="34">
     <title>Talking Language</title>
     <desc>Talking Language with Ernie Dingo is a personal journey providing a unique understanding of how knowledge of Aboriginal languages is shaped by ancestral connections to the land, stars, animals and sea</desc>
   </programme>
-  <programme start="20240401140122 +1100" stop="20240401143016 +1100" channel="34">
+  <programme start="20240401140123 +1100" stop="20240401143016 +1100" channel="34">
     <title>Going Places With Ernie Dingo</title>
     <desc>Narelda soaks up the beauty of Mallacoota with a pair of proud locals, Ernie gets a tour of the Bibra Lake wetlands and Bianca meets a fashion designer making a splash with her cultural designs.</desc>
     <category>Show</category>
-    <episode-num system="original-air-date">2024-04-01 02:01:22</episode-num>
+    <episode-num system="original-air-date">2024-04-01 02:01:23</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401143016 +1100" stop="20240401150232 +1100" channel="34">
@@ -25068,6 +25073,13 @@
     <desc>News week in review from Canada's Indigenous broadcaster APTN.</desc>
     <category>Social and Political</category>
     <episode-num system="original-air-date">2024-04-01 05:33:23</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20240401173324 +1100" stop="20240401180228 +1100" channel="34">
+    <title>APTN National News Weekend Edition</title>
+    <desc>News week in review from Canada's Indigenous broadcaster APTN.</desc>
+    <category>Social and Political</category>
+    <episode-num system="original-air-date">2024-04-01 05:33:24</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401180228 +1100" stop="20240401183144 +1100" channel="34">
@@ -27044,186 +27056,193 @@
     <episode-num system="original-air-date">2024-04-02 01:28:50</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402050000 +1100" stop="20240402053000 +1100" channel="35">
+  <programme start="20240402050000 +1100" stop="20240402050030 +1100" channel="35">
     <title>Thai News</title>
     <desc>News via satellite from Thai Public Broadcasting Service, in Thai, no subtitles.</desc>
     <category>News and Current Affairs</category>
     <episode-num system="original-air-date">2024-04-02 05:00:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402053000 +1100" stop="20240402060000 +1100" channel="35">
+  <programme start="20240402050030 +1100" stop="20240402052950 +1100" channel="35">
+    <title>Thai News</title>
+    <desc>News via satellite from Thai Public Broadcasting Service, in Thai, no subtitles.</desc>
+    <category>News and Current Affairs</category>
+    <episode-num system="original-air-date">2024-04-02 05:00:30</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20240402052950 +1100" stop="20240402055920 +1100" channel="35">
     <title>Bangla News</title>
     <desc>News via satellite from Channel i Bangladesh, in Bangla, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 05:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 05:29:50</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402060000 +1100" stop="20240402063000 +1100" channel="35">
+  <programme start="20240402055920 +1100" stop="20240402062950 +1100" channel="35">
     <title>Sri Lankan Sinhala News</title>
     <desc>News from Sri Lanka Rupavahini Corporation Colombo Sri Lanka, in Sinhala, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 06:00:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 05:59:20</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402063000 +1100" stop="20240402070000 +1100" channel="35">
+  <programme start="20240402062950 +1100" stop="20240402070010 +1100" channel="35">
     <title>Indonesian News</title>
     <desc>News via satellite from TVRI Jakarta Indonesia, in Indonesian, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 06:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 06:29:50</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402070000 +1100" stop="20240402073000 +1100" channel="35">
+  <programme start="20240402070010 +1100" stop="20240402073040 +1100" channel="35">
     <title>Polish News</title>
     <desc>Wydarzenia from Polsat in Warsaw via satellite, in Polish, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 07:00:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 07:00:10</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402073000 +1100" stop="20240402081000 +1100" channel="35">
+  <programme start="20240402073040 +1100" stop="20240402081030 +1100" channel="35">
     <title>Italian News</title>
     <desc>News via satellite from RAI Rome in Italian, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 07:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 07:30:40</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402081000 +1100" stop="20240402084000 +1100" channel="35">
+  <programme start="20240402081030 +1100" stop="20240402084100 +1100" channel="35">
     <title>Filipino News</title>
     <desc>TV Patrol is the flagship national newscast of ABS-CBN and is currently the longest-running Filipino language evening newscast.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 08:10:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 08:10:30</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402084000 +1100" stop="20240402093000 +1100" channel="35">
+  <programme start="20240402084100 +1100" stop="20240402093025 +1100" channel="35">
     <title>French News</title>
     <desc>News via satellite from FT2 Paris, in French, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 08:40:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 08:41:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402093000 +1100" stop="20240402103000 +1100" channel="35">
+  <programme start="20240402093025 +1100" stop="20240402103015 +1100" channel="35">
     <title>Greek News</title>
     <desc>News via file transfer from ERT Athens Greece, in Greek, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 09:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 09:30:25</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402103000 +1100" stop="20240402110000 +1100" channel="35">
+  <programme start="20240402103015 +1100" stop="20240402110215 +1100" channel="35">
     <title>German News</title>
     <desc>The news of the day from Germany and the World. With reports and interviews from politics, society and culture. Provided by Zweites Deutsches Fernsehen ZDF in Mainz, Germany. In German, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 10:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 10:30:15</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402110000 +1100" stop="20240402120000 +1100" channel="35">
+  <programme start="20240402110215 +1100" stop="20240402120045 +1100" channel="35">
     <title>Spanish News</title>
     <desc>News via satellite from RTVE Madrid Spain, in Spanish, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 11:00:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 11:02:15</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402120000 +1100" stop="20240402123000 +1100" channel="35">
+  <programme start="20240402120045 +1100" stop="20240402123035 +1100" channel="35">
     <title>Arabic News France 24</title>
     <desc>International news and current affairs from France 24 Arabic, via satellite, in Arabic, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 12:00:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 12:00:45</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402123000 +1100" stop="20240402130000 +1100" channel="35">
+  <programme start="20240402123035 +1100" stop="20240402130025 +1100" channel="35">
     <title>Dutch News</title>
     <desc>News via stream and file delivery from BVN-NOS Netherlands, in Dutch, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 12:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 12:30:35</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402130000 +1100" stop="20240402133000 +1100" channel="35">
+  <programme start="20240402130025 +1100" stop="20240402133015 +1100" channel="35">
     <title>Macedonian News</title>
     <desc>News via satellite from MRT in Skopje, North Macedonia, in Macedonian, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 01:00:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 01:00:25</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402133000 +1100" stop="20240402140000 +1100" channel="35">
+  <programme start="20240402133015 +1100" stop="20240402140015 +1100" channel="35">
     <title>Croatian News</title>
     <desc>News via satellite from HRT Zagreb Croatia, in Croatian, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 01:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 01:30:15</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402140000 +1100" stop="20240402143000 +1100" channel="35">
+  <programme start="20240402140015 +1100" stop="20240402143020 +1100" channel="35">
     <title>Serbian News</title>
     <desc>News via satellite from Serbian Broadcasting Corporation, in Serbian, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 02:00:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 02:00:15</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402143000 +1100" stop="20240402150000 +1100" channel="35">
+  <programme start="20240402143020 +1100" stop="20240402150040 +1100" channel="35">
     <title>Bosnian News</title>
     <desc>News via satellite from BHRT Sarajevo Bosnia and Herzegovina, in Bosnian, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 02:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 02:30:20</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402150000 +1100" stop="20240402153000 +1100" channel="35">
+  <programme start="20240402150040 +1100" stop="20240402153030 +1100" channel="35">
     <title>Armenian News</title>
     <desc>News via satellite from Channel H1 Armenia (Yerevan), in Armenian, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 03:00:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 03:00:40</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402153000 +1100" stop="20240402163000 +1100" channel="35">
+  <programme start="20240402153030 +1100" stop="20240402162950 +1100" channel="35">
     <title>Portuguese News</title>
     <desc>News via satellite from RTP Lisbon Portugal, in Portuguese, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 03:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 03:30:30</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402163000 +1100" stop="20240402170000 +1100" channel="35">
+  <programme start="20240402162950 +1100" stop="20240402165950 +1100" channel="35">
     <title>Maltese News</title>
     <desc>News from PBS Malta with the latest updates from the Maltese Islands and beyond. Streamed to SBS from Valletta, Malta, in Maltese, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 04:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 04:29:50</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402170000 +1100" stop="20240402173000 +1100" channel="35">
+  <programme start="20240402165950 +1100" stop="20240402172940 +1100" channel="35">
     <title>Gujarati News</title>
     <desc>News via satellite from DD News Ahmedabad India, in Gujarati no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 05:00:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 04:59:50</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402173000 +1100" stop="20240402180000 +1100" channel="35">
+  <programme start="20240402172940 +1100" stop="20240402180000 +1100" channel="35">
     <title>Punjabi News</title>
     <desc>News via satellite from PTC Chandigarh India, in Punjabi, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 05:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 05:29:40</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402180000 +1100" stop="20240402183000 +1100" channel="35">
+  <programme start="20240402180000 +1100" stop="20240402183010 +1100" channel="35">
     <title>Hindi News DD</title>
     <desc>News via satellite from DD News, New Dehli India, in Hindi, no subtitles.</desc>
     <category>News and Current Affairs</category>
     <episode-num system="original-air-date">2024-04-02 06:00:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402183000 +1100" stop="20240402190000 +1100" channel="35">
+  <programme start="20240402183010 +1100" stop="20240402190000 +1100" channel="35">
     <title>Nepali News</title>
     <desc>News via satellite from Nepal Television Kathmandu Nepal, in Nepali, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 06:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 06:30:10</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402190000 +1100" stop="20240402193000 +1100" channel="35">
+  <programme start="20240402190000 +1100" stop="20240402193030 +1100" channel="35">
     <title>Urdu News</title>
     <desc>News via satellite from PTV Islamabad Pakistan, in Urdu, no subtitles.</desc>
     <category>News and Current Affairs</category>
     <episode-num system="original-air-date">2024-04-02 07:00:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402193000 +1100" stop="20240402200000 +1100" channel="35">
+  <programme start="20240402193030 +1100" stop="20240402200000 +1100" channel="35">
     <title>Korean News</title>
     <desc>News via satellite from YTN Seoul Korea, in Korean, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 07:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 07:30:30</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240402200000 +1100" stop="20240402203000 +1100" channel="35">
@@ -27240,74 +27259,74 @@
     <episode-num system="original-air-date">2024-04-02 08:30:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402210000 +1100" stop="20240402213000 +1100" channel="35">
+  <programme start="20240402210000 +1100" stop="20240402212950 +1100" channel="35">
     <title>Ukrainian News</title>
     <desc>Ukrainian language news from the Public Broadcasting Company of Ukraine (Suspilne) in Kyiv, no subtitles.</desc>
     <category>News and Current Affairs</category>
     <episode-num system="original-air-date">2024-04-02 09:00:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402213000 +1100" stop="20240402220000 +1100" channel="35">
+  <programme start="20240402212950 +1100" stop="20240402220010 +1100" channel="35">
     <title>Tamil News</title>
     <desc>News via satellite from PolimerTV Chennai India, in Tamil, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 09:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 09:29:50</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402220000 +1100" stop="20240402223000 +1100" channel="35">
+  <programme start="20240402220010 +1100" stop="20240402223040 +1100" channel="35">
     <title>Malayalam News</title>
     <desc>News via satellite from DD Malayalam Thiruvananthapuram India, in Malayalam, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 10:00:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 10:00:10</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402223000 +1100" stop="20240402230000 +1100" channel="35">
+  <programme start="20240402223040 +1100" stop="20240402230230 +1100" channel="35">
     <title>Turkish News</title>
     <desc>Turkish language news from the Turkish Radio and Television Corporation (TRT) in Istanbul Turkiye, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 10:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 10:30:40</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402230000 +1100" stop="20240402233500 +1100" channel="35">
+  <programme start="20240402230230 +1100" stop="20240402233550 +1100" channel="35">
     <title>Japanese News</title>
     <desc>News via satellite from NHK Tokyo in Japanese, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 11:00:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 11:02:30</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240402233500 +1100" stop="20240403001000 +1100" channel="35">
+  <programme start="20240402233550 +1100" stop="20240403000925 +1100" channel="35">
     <title>Arabic News France 24</title>
     <desc>International news and current affairs from France 24 Arabic, via satellite, in Arabic, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-02 11:35:00</episode-num>
+    <episode-num system="original-air-date">2024-04-02 11:35:50</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240403001000 +1100" stop="20240403003000 +1100" channel="35">
+  <programme start="20240403000925 +1100" stop="20240403003100 +1100" channel="35">
     <title>Hong Kong News</title>
     <desc>News via file delivery from TVB Jade Hong Kong, in Cantonese.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-03 12:10:00</episode-num>
+    <episode-num system="original-air-date">2024-04-03 12:09:25</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240403003000 +1100" stop="20240403012500 +1100" channel="35">
+  <programme start="20240403003100 +1100" stop="20240403012820 +1100" channel="35">
     <title>Indonesian News</title>
     <desc>News via satellite from TVRI Jakarta Indonesia, in Indonesian, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-03 12:30:00</episode-num>
+    <episode-num system="original-air-date">2024-04-03 12:31:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240403012500 +1100" stop="20240403050000 +1100" channel="35">
+  <programme start="20240403012820 +1100" stop="20240403050320 +1100" channel="35">
     <title>France 24 English News</title>
     <desc>International news and current affairs from Paris, offering a French perspective on world events via satellite in English.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-03 01:25:00</episode-num>
+    <episode-num system="original-air-date">2024-04-03 01:28:20</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240403050000 +1100" stop="20240403053000 +1100" channel="35">
+  <programme start="20240403050320 +1100" stop="20240403053000 +1100" channel="35">
     <title>Thai News</title>
     <desc>News via satellite from Thai Public Broadcasting Service, in Thai, no subtitles.</desc>
     <category>News and Current Affairs</category>
-    <episode-num system="original-air-date">2024-04-03 05:00:00</episode-num>
+    <episode-num system="original-air-date">2024-04-03 05:03:20</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240403053000 +1100" stop="20240403060000 +1100" channel="35">
@@ -28906,30 +28925,25 @@
     <episode-num system="original-air-date">2024-04-09 09:30:00</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20240401110052 +1100" stop="20240401120002 +1100" channel="36">
+  <programme start="20240401110052 +1100" stop="20240401120003 +1100" channel="36">
     <title>The American Buffalo</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>A. By the 1880s the buffalo had been driven to the brink of extinction by newcomers to the continent. Ken Burns recounts the collision, and tragic consequences, of two opposing views of the natural world</desc>
   </programme>
-  <programme start="20240401120002 +1100" stop="20240401133314 +1100" channel="36">
+  <programme start="20240401120003 +1100" stop="20240401133315 +1100" channel="36">
     <title>Black Gold</title>
     <sub-title>Consumer Advice</sub-title>
     <desc>A, L. Tthe story of the cover-up of the century - of the boss atop a trillion-dollar industry who discovered a shocking truth 40 years ago and created black ops conspiracy to hide the evidence.</desc>
   </programme>
-  <programme start="20240401120003 +1100" stop="20240401133314 +1100" channel="36">
-    <title>Black Gold</title>
-    <sub-title>Consumer Advice</sub-title>
-    <desc>A, L. Tthe story of the cover-up of the century - of the boss atop a trillion-dollar industry who discovered a shocking truth 40 years ago and created black ops conspiracy to hide the evidence.</desc>
-  </programme>
-  <programme start="20240401133314 +1100" stop="20240401140122 +1100" channel="36">
+  <programme start="20240401133315 +1100" stop="20240401140123 +1100" channel="36">
     <title>Talking Language</title>
     <desc>Talking Language with Ernie Dingo is a personal journey providing a unique understanding of how knowledge of Aboriginal languages is shaped by ancestral connections to the land, stars, animals and sea</desc>
   </programme>
-  <programme start="20240401140122 +1100" stop="20240401143016 +1100" channel="36">
+  <programme start="20240401140123 +1100" stop="20240401143016 +1100" channel="36">
     <title>Going Places With Ernie Dingo</title>
     <desc>Narelda soaks up the beauty of Mallacoota with a pair of proud locals, Ernie gets a tour of the Bibra Lake wetlands and Bianca meets a fashion designer making a splash with her cultural designs.</desc>
     <category>Show</category>
-    <episode-num system="original-air-date">2024-04-01 02:01:22</episode-num>
+    <episode-num system="original-air-date">2024-04-01 02:01:23</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401143016 +1100" stop="20240401150232 +1100" channel="36">
@@ -28990,6 +29004,13 @@
     <desc>News week in review from Canada's Indigenous broadcaster APTN.</desc>
     <category>Social and Political</category>
     <episode-num system="original-air-date">2024-04-01 05:33:23</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20240401173324 +1100" stop="20240401180228 +1100" channel="36">
+    <title>APTN National News Weekend Edition</title>
+    <desc>News week in review from Canada's Indigenous broadcaster APTN.</desc>
+    <category>Social and Political</category>
+    <episode-num system="original-air-date">2024-04-01 05:33:24</episode-num>
     <previously-shown />
   </programme>
   <programme start="20240401180228 +1100" stop="20240401183144 +1100" channel="36">
@@ -31714,12 +31735,12 @@
     <title>Indonesian</title>
     <desc>"news"}</desc>
   </programme>
-  <programme start="20240401120000 +1100" stop="20240401180000 +1100" channel="39">
-    <title>SBS Chill Afternoons</title>
-    <desc>"music"}</desc>
-  </programme>
   <programme start="20240401180000 +1100" stop="20240402000000 +1100" channel="39">
     <title>SBS Chill Nights</title>
+    <desc>"music"}</desc>
+  </programme>
+  <programme start="20240402000000 +1100" stop="20240402060000 +1100" channel="39">
+    <title>SBS Chill Overnight</title>
     <desc>"music"}</desc>
   </programme>
   <programme start="20240401110229 +1100" stop="20240401120000 +1100" channel="50">
@@ -36142,10 +36163,6 @@
     <title>Diagnosis Murder</title>
     <desc>A group of crooked cops frame Steve for murder after he gets too close to their robbery operation. Jack visits some past friends, now mobsters, to dig up information. Starring Dick Van Dyke, Barry Van Dyke, Victoria Rowell, Scott B</desc>
   </programme>
-  <programme start="20240401104523 +1100" stop="20240401121553 +1100" channel="54">
-    <title>Movie: Uglydolls (2019)</title>
-    <desc>The UglyDolls learn what it means to be different when Moxy and her friends find Perfection - a town where more fashionable dolls are trained before entering the real world to find the love of a child Starring Kelly Clarkson, Blake Shelton, Nick Jonas, Janelle Monae, Ice T</desc>
-  </programme>
   <programme start="20240401121553 +1100" stop="20240401124038 +1100" channel="54">
     <title>Top Wing</title>
     <desc>The Banana Bandits take Shirley's delivery fliers and are headed for Commodore's hot air balloon. Penny has to rescue Anyu and Yuka.</desc>
@@ -40069,10 +40086,6 @@
     <title>The Fine Art Auction (Live)</title>
     <desc>Join the the world's number one international TV arts auction house featuring the works of famous artists and young, emerging talent all at a fraction of gallery prices! It's fun, exciting, informative and live every Saturday and Sunday from 10.00 pm!</desc>
   </programme>
-  <programme start="20240401113000 +1100" stop="20240401143000 +1100" channel="60">
-    <title>The Stawell Gift</title>
-    <desc>Tune in to Australia's richest footrace with live coverage of the 2024 Stawell Gift on Easter Monday.</desc>
-  </programme>
   <programme start="20240401113004 +1100" stop="20240401143000 +1100" channel="60">
     <title>The Stawell Gift</title>
     <desc>Tune in to Australia's richest footrace with live coverage of the 2024 Stawell Gift on Easter Monday.</desc>
@@ -40082,6 +40095,10 @@
     <desc>Join us for a preview and all the latest news ahead of today's game.</desc>
   </programme>
   <programme start="20240401150000 +1100" stop="20240401175930 +1100" channel="60">
+    <title>AFL</title>
+    <desc>The Hawks collide with the Cats, live and free from the MCG. Bounce time: 3:20pm AEDT.</desc>
+  </programme>
+  <programme start="20240401150005 +1100" stop="20240401175930 +1100" channel="60">
     <title>AFL</title>
     <desc>The Hawks collide with the Cats, live and free from the MCG. Bounce time: 3:20pm AEDT.</desc>
   </programme>
@@ -40786,10 +40803,6 @@
     <title>The Morning Show</title>
     <desc>Join Larry Emdur and Kylie Gillies each morning for a variety of segments on the latest news, entertainment and other hot topics.</desc>
   </programme>
-  <programme start="20240401113000 +1100" stop="20240401143000 +1100" channel="61">
-    <title>The Stawell Gift</title>
-    <desc>Tune in to Australia's richest footrace with live coverage of the 2024 Stawell Gift on Easter Monday.</desc>
-  </programme>
   <programme start="20240401113004 +1100" stop="20240401143000 +1100" channel="61">
     <title>The Stawell Gift</title>
     <desc>Tune in to Australia's richest footrace with live coverage of the 2024 Stawell Gift on Easter Monday.</desc>
@@ -40799,6 +40812,10 @@
     <desc>Join us for a preview and all the latest news ahead of today's game.</desc>
   </programme>
   <programme start="20240401150000 +1100" stop="20240401175930 +1100" channel="61">
+    <title>AFL</title>
+    <desc>The Hawks collide with the Cats, live and free from the MCG. Bounce time: 3:20pm AEDT.</desc>
+  </programme>
+  <programme start="20240401150005 +1100" stop="20240401175930 +1100" channel="61">
     <title>AFL</title>
     <desc>The Hawks collide with the Cats, live and free from the MCG. Bounce time: 3:20pm AEDT.</desc>
   </programme>
@@ -41503,23 +41520,19 @@
     <title>The Morning Show</title>
     <desc>Join Larry Emdur and Kylie Gillies each morning for a variety of segments on the latest news, entertainment and other hot topics.</desc>
   </programme>
-  <programme start="20240401120015 +1100" stop="20240401130235 +1100" channel="62">
+  <programme start="20240401120019 +1100" stop="20240401130239 +1100" channel="62">
     <title>Better Homes And Gardens</title>
     <desc>Joh visits the team behind MKR's latest instant restaurant. Fast Ed does a road trip to the Bellarine Peninsula. Dr Harry visits Noseworks, which specialises in teaching dogs to find things via smell.</desc>
   </programme>
-  <programme start="20240401120019 +1100" stop="20240401130235 +1100" channel="62">
-    <title>Better Homes And Gardens</title>
-    <desc>Joh visits the team behind MKR's latest instant restaurant. Fast Ed does a road trip to the Bellarine Peninsula. Dr Harry visits Noseworks, which specialises in teaching dogs to find things via smell.</desc>
-  </programme>
-  <programme start="20240401130235 +1100" stop="20240401133150 +1100" channel="62">
+  <programme start="20240401130239 +1100" stop="20240401133154 +1100" channel="62">
     <title>Your Money &amp; Your Life</title>
     <desc>Join David Koch as he gives insight into how to make the most out of your money.</desc>
   </programme>
-  <programme start="20240401133150 +1100" stop="20240401140045 +1100" channel="62">
+  <programme start="20240401133154 +1100" stop="20240401140049 +1100" channel="62">
     <title>The Real Seachange</title>
     <desc>Things heat up in Canada at the grand opening of the Boardwalk Restaurant. Will Ian and Catherine's first day be a success?</desc>
   </programme>
-  <programme start="20240401140045 +1100" stop="20240401143015 +1100" channel="62">
+  <programme start="20240401140049 +1100" stop="20240401143015 +1100" channel="62">
     <title>Weekender</title>
     <desc>Duane learns how to drive safe on the beach. Alastair has a perfect midweek one pot wonder. Alana finds treats from around in world in Logan. Lee and doggo Lulu go on a brewery hop.</desc>
   </programme>
@@ -41540,6 +41553,10 @@
     <desc>Joh visits the team behind MKR's latest instant restaurant. Fast Ed does a road trip to the Bellarine Peninsula. Dr Harry visits Noseworks, which specialises in teaching dogs to find things via smell.</desc>
   </programme>
   <programme start="20240401172945 +1100" stop="20240401182800 +1100" channel="62">
+    <title>Escape To The Country</title>
+    <desc>Jules Hudson is house hunting in Shropshire with a couple who have 400,000-pounds to find a foster-friendly country property.</desc>
+  </programme>
+  <programme start="20240401172949 +1100" stop="20240401182800 +1100" channel="62">
     <title>Escape To The Country</title>
     <desc>Jules Hudson is house hunting in Shropshire with a couple who have 400,000-pounds to find a foster-friendly country property.</desc>
   </programme>
@@ -42443,27 +42460,23 @@
     <title>NBC Today</title>
     <desc>International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.</desc>
   </programme>
-  <programme start="20240401113155 +1100" stop="20240401120020 +1100" channel="64">
+  <programme start="20240401113156 +1100" stop="20240401120021 +1100" channel="64">
     <title>Border Security USA</title>
     <desc>A sniffer dog takes a keen interest in a car and a radiation alarm puts a border checkpoint on full alert.</desc>
   </programme>
-  <programme start="20240401120020 +1100" stop="20240401123025 +1100" channel="64">
+  <programme start="20240401120021 +1100" stop="20240401123026 +1100" channel="64">
     <title>Motorbike Cops</title>
     <desc>A school bus driver learns that taking a call from a kid's mother while driving, may not be such a wise idea.</desc>
   </programme>
-  <programme start="20240401120021 +1100" stop="20240401123025 +1100" channel="64">
-    <title>Motorbike Cops</title>
-    <desc>A school bus driver learns that taking a call from a kid's mother while driving, may not be such a wise idea.</desc>
-  </programme>
-  <programme start="20240401123025 +1100" stop="20240401130010 +1100" channel="64">
+  <programme start="20240401123026 +1100" stop="20240401130011 +1100" channel="64">
     <title>Border Security - Australia's Front Line</title>
     <desc>An Indian family claim to be on holiday but struggle to get their story straight, and a Persian rug holds a dirty secret. Narrated by Grant Bowler.</desc>
   </programme>
-  <programme start="20240401130010 +1100" stop="20240401133000 +1100" channel="64">
+  <programme start="20240401130011 +1100" stop="20240401133001 +1100" channel="64">
     <title>Border Security - Australia's Front Line</title>
     <desc>Officers inspect a package and are amazed at the lengths people will go to smuggle contraband.</desc>
   </programme>
-  <programme start="20240401133000 +1100" stop="20240401143000 +1100" channel="64">
+  <programme start="20240401133001 +1100" stop="20240401143000 +1100" channel="64">
     <title>Rides Down Under: Workshop Wars</title>
     <desc>We¹ve assembled teams from the best of Australia¹s car building &amp; car tuning workshops. Our teams lead the way in modification, in the search to see who will be crowned the nation's best workshop.</desc>
   </programme>
@@ -42484,6 +42497,10 @@
     <desc>It's time for some soon-to-be stepbrothers bonding when Tyler and Brettly volunteer to tow in a 1947 railroad speeder. And later, a client brings in a NYC police call box.</desc>
   </programme>
   <programme start="20240401173000 +1100" stop="20240401183000 +1100" channel="64">
+    <title>American Pickers</title>
+    <desc>Mike and Dave are picking in Minnesota while Frank recovers from his back injury. Dick, the founder of Memoryville, shows off his vintage wonderland.</desc>
+  </programme>
+  <programme start="20240401173001 +1100" stop="20240401183000 +1100" channel="64">
     <title>American Pickers</title>
     <desc>Mike and Dave are picking in Minnesota while Frank recovers from his back injury. Dick, the founder of Memoryville, shows off his vintage wonderland.</desc>
   </programme>
@@ -43392,27 +43409,23 @@
     <title>A Football Life</title>
     <desc>A Football Life continues with Warren Sapp. The documentary offers a look at the life of one of the most dominant defensive players in NFL history.</desc>
   </programme>
-  <programme start="20240401110113 +1100" stop="20240401120011 +1100" channel="65">
+  <programme start="20240401110113 +1100" stop="20240401120041 +1100" channel="65">
     <title>Million Dollar Listing: LA</title>
     <desc>With pro-football player Orlando Scandrick as his client, Josh Altman gets blindsided by Orlando's business manager.</desc>
   </programme>
-  <programme start="20240401120011 +1100" stop="20240401123015 +1100" channel="65">
+  <programme start="20240401120041 +1100" stop="20240401123044 +1100" channel="65">
     <title>Judge Jerry</title>
     <desc>The plaintiff, Shirley, had her baby shower planned and paid, but when COVID struck, she was forced to cancel it and wants her money back. But the party planner, Courtney, says her contract with Shirly explicitly states there are no refund</desc>
   </programme>
-  <programme start="20240401120041 +1100" stop="20240401123015 +1100" channel="65">
-    <title>Judge Jerry</title>
-    <desc>The plaintiff, Shirley, had her baby shower planned and paid, but when COVID struck, she was forced to cancel it and wants her money back. But the party planner, Courtney, says her contract with Shirly explicitly states there are no refund</desc>
-  </programme>
-  <programme start="20240401123015 +1100" stop="20240401130015 +1100" channel="65">
+  <programme start="20240401123044 +1100" stop="20240401130045 +1100" channel="65">
     <title>Judge Jerry</title>
     <desc>David was desperate to get a car and offered an $1,100 deposit to a man named Freddie. Now, David feels he was scammed by Freddie on a 2002 car that had its share of damages. Freddie says that any car purchased is bought as is and doesn't</desc>
   </programme>
-  <programme start="20240401130015 +1100" stop="20240401140100 +1100" channel="65">
+  <programme start="20240401130045 +1100" stop="20240401140130 +1100" channel="65">
     <title>Escape to the Chateau: DIY</title>
     <desc>British artist Johnny and his girlfriend Ashley plan to host artist workshops. Meanwhile, musicians Ben and Billie want to put on foodie events. Nicole and Stefan return with a new venture.</desc>
   </programme>
-  <programme start="20240401140100 +1100" stop="20240401150109 +1100" channel="65">
+  <programme start="20240401140130 +1100" stop="20240401150109 +1100" channel="65">
     <title>Shark Tank</title>
     <desc>Guest judge Emma Grede; a healthy alternative to bacon; a product designed to aid a favorite childhood activity; a product designed for dancers.</desc>
   </programme>
@@ -43429,6 +43442,10 @@
     <desc>Robert Powells, Co-Founder of The Rocket Fizz Soda Pop and Candy Shops, embarks on an emotional journey to discover what keeps his candy sweet.</desc>
   </programme>
   <programme start="20240401173044 +1100" stop="20240401183017 +1100" channel="65">
+    <title>Million Dollar Listing: LA</title>
+    <desc>Madison's broker's open gets rowdy when Josh Altman and Heather make a scene.</desc>
+  </programme>
+  <programme start="20240401173114 +1100" stop="20240401183017 +1100" channel="65">
     <title>Million Dollar Listing: LA</title>
     <desc>Madison's broker's open gets rowdy when Josh Altman and Heather make a scene.</desc>
   </programme>
@@ -44216,15 +44233,11 @@
     <title>The Kelly Clarkson Show</title>
     <desc>Multi-talented, Grammy+ Award-winning artist Kelly Clarkson brings her singular voice and infectious enthusiasm to daytime television as the host.</desc>
   </programme>
-  <programme start="20240401115510 +1100" stop="20240401140140 +1100" channel="66">
+  <programme start="20240401115514 +1100" stop="20240401140144 +1100" channel="66">
     <title>Big Brother</title>
     <desc>Four new Housemates enter the Big Brother house under the cover of darkness. Big Brother unveils a winter wonderland that will force old and new Housemates to break the ice, but one will be evicted.</desc>
   </programme>
-  <programme start="20240401115514 +1100" stop="20240401140140 +1100" channel="66">
-    <title>Big Brother</title>
-    <desc>Four new Housemates enter the Big Brother house under the cover of darkness. Big Brother unveils a winter wonderland that will force old and new Housemates to break the ice, but one will be evicted.</desc>
-  </programme>
-  <programme start="20240401140140 +1100" stop="20240401154025 +1100" channel="66">
+  <programme start="20240401140144 +1100" stop="20240401154025 +1100" channel="66">
     <title>Australian Idol</title>
     <desc>The search for the next Australian Idol continues. With only 43 Golden Tickets remaining, the contestants will have to work hard to impress our all-star judges.</desc>
   </programme>
@@ -44237,6 +44250,10 @@
     <desc>Naughty Dylan raided the rubbish bin at home and gorged on chicken bones. He's been rushed in to see Dr Lisa at SASH after one of the sharp bones got stuck in his throat.</desc>
   </programme>
   <programme start="20240401173745 +1100" stop="20240401183510 +1100" channel="66">
+    <title>The Amazing Race</title>
+    <desc>Filmed prior to the global outbreak, the 11 teams begin their adventures at the iconic Hollywood Bowl in Los Angeles. First destination is Trinidad and Tobago.</desc>
+  </programme>
+  <programme start="20240401173749 +1100" stop="20240401183510 +1100" channel="66">
     <title>The Amazing Race</title>
     <desc>Filmed prior to the global outbreak, the 11 teams begin their adventures at the iconic Hollywood Bowl in Los Angeles. First destination is Trinidad and Tobago.</desc>
   </programme>
@@ -45087,6 +45104,10 @@
   <programme start="20240409093000 +1000" stop="20240409100000 +1000" channel="66">
     <title>Home Shopping</title>
     <desc>Home Shopping</desc>
+  </programme>
+  <programme start="20240401070000 +1100" stop="20240402070000 +1100" channel="67">
+    <title>Channel Launching Soon</title>
+    <desc>Channel Launching Soon. From 1 July, TVSN, Australia¹s No 1 shopping channel will broadcast from Channel 67. TVSN offers a world of shopping &amp; entertainment! Scan the QR Code to enter our pre-launch competition.</desc>
   </programme>
   <programme start="20240402070000 +1100" stop="20240403070000 +1100" channel="67">
     <title>Channel Launching Soon</title>
@@ -49038,6 +49059,10 @@
     <title>Barnwood Builders</title>
     <desc>In Ballard, West Virginia, the Barnwood Builders discover a pre-Civil War cabin; Mark teaches his son some valuable log cabin lessons. .</desc>
   </programme>
+  <programme start="20240401070000 +1100" stop="20240402070000 +1100" channel="84">
+    <title>Channel Launching Soon</title>
+    <desc>Channel Launching Soon. From 1 July, TVSN, Australia¹s No 1 shopping channel will broadcast from Channel 67. TVSN offers a world of shopping &amp; entertainment! Scan the QR Code to enter our pre-launch competition.</desc>
+  </programme>
   <programme start="20240402070000 +1100" stop="20240403070000 +1100" channel="84">
     <title>Channel Launching Soon</title>
     <desc>Channel Launching Soon. From 1 July, TVSN, Australia¹s No 1 shopping channel will broadcast from Channel 67. TVSN offers a world of shopping &amp; entertainment! Scan the QR Code to enter our pre-launch competition.</desc>
@@ -49095,6 +49120,10 @@
     <desc>Shopping, Travel, Entertainment, Lifestyle</desc>
   </programme>
   <programme start="20240407050000 +1000" stop="20240408050000 +1000" channel="85">
+    <title>Shopping, Travel, Entertainment, Lifestyle</title>
+    <desc>Shopping, Travel, Entertainment, Lifestyle</desc>
+  </programme>
+  <programme start="20240408060000 +1000" stop="20240409060000 +1000" channel="85">
     <title>Shopping, Travel, Entertainment, Lifestyle</title>
     <desc>Shopping, Travel, Entertainment, Lifestyle</desc>
   </programme>
@@ -50450,10 +50479,6 @@
     <title>Australia's Home of Country Music</title>
     <desc>Australia's Home of Country Music</desc>
   </programme>
-  <programme start="20240331180000 +1100" stop="20240401180000 +1100" channel="204">
-    <title>Australia's only national continuous news network</title>
-    <desc>Australia's only national continuous news network</desc>
-  </programme>
   <programme start="20240401180000 +1100" stop="20240402180000 +1100" channel="204">
     <title>Australia's only national continuous news network</title>
     <desc>Australia's only national continuous news network</desc>
@@ -51730,20 +51755,20 @@
     <title>Pop Arabi Afternoons</title>
     <desc>Enjoy a world of Arabic pop on SBS Arabic24.</desc>
   </programme>
-  <programme start="20240401120000 +1100" stop="20240401130000 +1100" channel="305">
-    <title>Tamil</title>
-    <desc>"news"}</desc>
-  </programme>
-  <programme start="20240401130000 +1100" stop="20240401150000 +1100" channel="305">
-    <title>SBS PopDesi Arvos</title>
+  <programme start="20240401180000 +1100" stop="20240401200000 +1100" channel="305">
+    <title>The Bollywood Session</title>
     <desc>"music"}</desc>
   </programme>
-  <programme start="20240401120000 +1100" stop="20240401180000 +1100" channel="306">
-    <title>SBS Chill Afternoons</title>
+  <programme start="20240401200000 +1100" stop="20240402000000 +1100" channel="305">
+    <title>PopDesi Nights</title>
     <desc>"music"}</desc>
   </programme>
   <programme start="20240401180000 +1100" stop="20240402000000 +1100" channel="306">
     <title>SBS Chill Nights</title>
+    <desc>"music"}</desc>
+  </programme>
+  <programme start="20240402000000 +1100" stop="20240402060000 +1100" channel="306">
+    <title>SBS Chill Overnight</title>
     <desc>"music"}</desc>
   </programme>
   <programme start="20240401120000 +1100" stop="20240401130000 +1100" channel="307">
